@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 May 2026 16:57 UTC
-# Version: 2026.0520.1657.50
+# Last modified: 21 May 2026 17:09 UTC
+# Version: 2026.0521.1709.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12904
+# Number of entries: 12905
 #
 local=/hichemtigsetorgy.0fees.net/
 local=/tracker.0x7c0.com/
@@ -2287,6 +2287,7 @@ local=/animeyt.es/
 local=/animeyt.moe/
 local=/animeyume.org/
 local=/animez.org/
+local=/animez.to/
 local=/animezia.com/
 local=/animixplay.com/
 local=/animixplay.to/

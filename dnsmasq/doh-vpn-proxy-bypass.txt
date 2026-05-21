@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 May 2026 09:56 UTC
-# Version: 2026.0521.0956.08
+# Last modified: 21 May 2026 16:55 UTC
+# Version: 2026.0521.1655.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 17414
+# Number of entries: 17415
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -15736,6 +15736,7 @@ local=/transocks.com/
 local=/travelvpn.info/
 local=/travelvpn.net/
 local=/traysub.com/
+local=/trayvpn.com/
 local=/trees.app/
 local=/tremavo.ru/
 local=/tremilo.ru/

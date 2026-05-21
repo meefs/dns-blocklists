@@ -125,7 +125,6 @@ https://raw.githubusercontent.com/cbuijs/ut1/master/publicite/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/stalkerware/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/vpn/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/warez/domains
-https://raw.githubusercontent.com/cbuijs/ut1/refs/heads/master/filehosting/domains
 https://raw.githubusercontent.com/cchevy/macedonian-pi-hole-blocklist/master/hosts.txt
 https://raw.githubusercontent.com/chainapsis/phishing-block-list/refs/heads/main/block-list.txt
 https://raw.githubusercontent.com/clsfo/reflect4-blocklist/refs/heads/main/reflect4_domains.txt
