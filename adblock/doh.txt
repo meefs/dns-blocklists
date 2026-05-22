@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 20 May 2026 09:57 UTC
-! Version: 2026.0520.0957.55
+! Last modified: 22 May 2026 11:44 UTC
+! Version: 2026.0522.1144.20
 ! Syntax: AdBlock
-! Number of entries: 3430
+! Number of entries: 3431
 !
 ||ss.0001.xyz^
 ||ns.00dani.me^
@@ -2915,6 +2915,7 @@
 ||dns.zarchbox.fr^
 ||register.zedzander.com^
 ||dns.zemows.industries^
+||doh.zephyrus.id^
 ||adguard-kartoffel.zernico.de^
 ||oraclejp01.zerotorez.com^
 ||dns.zfsystem.tech^

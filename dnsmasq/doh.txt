@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 May 2026 09:57 UTC
-# Version: 2026.0520.0957.55
+# Last modified: 22 May 2026 11:44 UTC
+# Version: 2026.0522.1144.20
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3430
+# Number of entries: 3431
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -2914,6 +2914,7 @@ local=/akylah.zapto.org/
 local=/dns.zarchbox.fr/
 local=/register.zedzander.com/
 local=/dns.zemows.industries/
+local=/doh.zephyrus.id/
 local=/adguard-kartoffel.zernico.de/
 local=/oraclejp01.zerotorez.com/
 local=/dns.zfsystem.tech/

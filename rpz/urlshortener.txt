@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779323580 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779429840 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 May 2026 00:33 UTC
-; Version: 2026.0521.0033.39
+; Last modified: 22 May 2026 06:04 UTC
+; Version: 2026.0522.0604.08
 ; Syntax: RPZ
-; Number of entries: 19836
+; Number of entries: 19804
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1055,8 +1055,6 @@ kazma.bio CNAME .
 *.kazma.bio CNAME .
 keepo.bio CNAME .
 *.keepo.bio CNAME .
-korek.bio CNAME .
-*.korek.bio CNAME .
 la.bio CNAME .
 *.la.bio CNAME .
 linkda.bio CNAME .
@@ -1601,8 +1599,6 @@ asin.cc CNAME .
 *.asin.cc CNAME .
 azc.cc CNAME .
 *.azc.cc CNAME .
-bidly.cc CNAME .
-*.bidly.cc CNAME .
 bigcc.cc CNAME .
 *.bigcc.cc CNAME .
 bitfy.cc CNAME .
@@ -1823,8 +1819,6 @@ urlme.cc CNAME .
 *.urlme.cc CNAME .
 urltiny.cc CNAME .
 *.urltiny.cc CNAME .
-urlty.cc CNAME .
-*.urlty.cc CNAME .
 ut9.cc CNAME .
 *.ut9.cc CNAME .
 uucc.cc CNAME .
@@ -2983,8 +2977,6 @@ urlio.co CNAME .
 *.urlio.co CNAME .
 urlshort.co CNAME .
 *.urlshort.co CNAME .
-urlty.co CNAME .
-*.urlty.co CNAME .
 urly.co CNAME .
 *.urly.co CNAME .
 vanier.co CNAME .
@@ -3141,8 +3133,6 @@ t.360scm.com CNAME .
 *.3ly.com CNAME .
 3name.com CNAME .
 *.3name.com CNAME .
-3qzr.com CNAME .
-*.3qzr.com CNAME .
 42jump.com CNAME .
 *.42jump.com CNAME .
 42url.com CNAME .
@@ -5949,8 +5939,6 @@ qr-man.com CNAME .
 *.qr-man.com CNAME .
 qr-th.com CNAME .
 *.qr-th.com CNAME .
-qr-url.com CNAME .
-*.qr-url.com CNAME .
 qr4pro.com CNAME .
 *.qr4pro.com CNAME .
 qraus.com CNAME .
@@ -6285,8 +6273,6 @@ sgyan.com CNAME .
 *.sgyan.com CNAME .
 shadyurl.com CNAME .
 *.shadyurl.com CNAME .
-shahiurl.com CNAME .
-*.shahiurl.com CNAME .
 shareclicker.com CNAME .
 *.shareclicker.com CNAME .
 sharein.com CNAME .
@@ -6331,8 +6317,6 @@ short-fact.com CNAME .
 *.short-fact.com CNAME .
 short2cut.com CNAME .
 *.short2cut.com CNAME .
-short4fly.com CNAME .
-*.short4fly.com CNAME .
 shortaro.com CNAME .
 *.shortaro.com CNAME .
 shortaz.com CNAME .
@@ -6961,14 +6945,10 @@ tiny123.com CNAME .
 *.tiny123.com CNAME .
 tiny1z.com CNAME .
 *.tiny1z.com CNAME .
-tiny4t.com CNAME .
-*.tiny4t.com CNAME .
 tinybro.com CNAME .
 *.tinybro.com CNAME .
 tinycc.com CNAME .
 *.tinycc.com CNAME .
-tinyel.com CNAME .
-*.tinyel.com CNAME .
 tinyerz.com CNAME .
 *.tinyerz.com CNAME .
 tinylinkr.com CNAME .
@@ -10249,8 +10229,6 @@ go.zordo.in CNAME .
 *.2to.info CNAME .
 4extra.info CNAME .
 *.4extra.info CNAME .
-5rwv.info CNAME .
-*.5rwv.info CNAME .
 5z8.info CNAME .
 *.5z8.info CNAME .
 7link.info CNAME .
@@ -14469,8 +14447,6 @@ url-shortener.me CNAME .
 *.url-shortener.me CNAME .
 urle.me CNAME .
 *.urle.me CNAME .
-urlinkz.me CNAME .
-*.urlinkz.me CNAME .
 urllink.me CNAME .
 *.urllink.me CNAME .
 urlr.me CNAME .
@@ -16453,8 +16429,6 @@ pens.pe CNAME .
 *.pens.pe CNAME .
 sho.pe CNAME .
 *.sho.pe CNAME .
-short.pe CNAME .
-*.short.pe CNAME .
 shrink.pe CNAME .
 *.shrink.pe CNAME .
 sy.pe CNAME .
@@ -19695,8 +19669,6 @@ gacorwak.xyz CNAME .
 *.gacorwak.xyz CNAME .
 ggapps.xyz CNAME .
 *.ggapps.xyz CNAME .
-gxh1yqz2v.xyz CNAME .
-*.gxh1yqz2v.xyz CNAME .
 hellokity.xyz CNAME .
 *.hellokity.xyz CNAME .
 hgs.xyz CNAME .
@@ -19741,8 +19713,6 @@ nakama420.xyz CNAME .
 *.nakama420.xyz CNAME .
 opli.xyz CNAME .
 *.opli.xyz CNAME .
-pc-helper.xyz CNAME .
-*.pc-helper.xyz CNAME .
 pgnt.xyz CNAME .
 *.pgnt.xyz CNAME .
 piggy.xyz CNAME .
@@ -19819,8 +19789,6 @@ ushort.xyz CNAME .
 *.ushort.xyz CNAME .
 vtru.xyz CNAME .
 *.vtru.xyz CNAME .
-we-shop.xyz CNAME .
-*.we-shop.xyz CNAME .
 url.webof.xyz CNAME .
 *.url.webof.xyz CNAME .
 y30.xyz CNAME .

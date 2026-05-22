@@ -6,8 +6,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 May 2026 09:57 UTC
-# Version: 2026.0520.0957.55
+# Last modified: 22 May 2026 11:44 UTC
+# Version: 2026.0522.1144.20
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 433
 #
@@ -440,7 +440,7 @@
 0.0.0.0 dus.ysbs.uk dns.ytpom.ru dns2.ytpom.ru dns.yu.dev adguard.yuki2th.xyz yundun.icu httpdns.yunxindns.com s1.yushuncompany.com dns.yuu-g.net
 0.0.0.0 yuvelirtut.website dns.yuyz.net dns.yuzia.cc httpdns.gslb.yy.com dns.yyaan.com dns.yyaan.top dns.daemon.za.net zabolotskikh.dev adguard.zachitect.com
 0.0.0.0 zakaria.website sdns.zakaria.website akylah.zapto.org dns.zarchbox.fr zaziss.com zburger.top zdn.ro register.zedzander.com dns.zemows.industries
-0.0.0.0 adguard-kartoffel.zernico.de oraclejp01.zerotorez.com dns.zfsystem.tech d.zhanchuraevv.ru zhengkaiyun.top httpdns.zhihu.com doh.zhongbr.uk res.zijji.com adguard01.zitronen-server.de
-0.0.0.0 doh.zknt.org dns.zky666.fun xyz2.zmjflow.com xyz3.zmjflow.com dns.zmobiletech.com online.zotio.ru zougloub.eu d.zscale.gq ztv.su
-0.0.0.0 dns.zui.lol zulkas.top httpdns.zybang.com ams.core.access.zznet.fun hkg.core.access.zznet.fun lax.core.access.zznet.fun nrt.core.access.zznet.fun sin.core.access.zznet.fun syd.core.access.zznet.fun
-0.0.0.0 hkg2.edge.access.zznet.fun sin2.edge.access.zznet.fun dns.zzuhacker.cn 
+0.0.0.0 doh.zephyrus.id adguard-kartoffel.zernico.de oraclejp01.zerotorez.com dns.zfsystem.tech d.zhanchuraevv.ru zhengkaiyun.top httpdns.zhihu.com doh.zhongbr.uk res.zijji.com
+0.0.0.0 adguard01.zitronen-server.de doh.zknt.org dns.zky666.fun xyz2.zmjflow.com xyz3.zmjflow.com dns.zmobiletech.com online.zotio.ru zougloub.eu d.zscale.gq
+0.0.0.0 ztv.su dns.zui.lol zulkas.top httpdns.zybang.com ams.core.access.zznet.fun hkg.core.access.zznet.fun lax.core.access.zznet.fun nrt.core.access.zznet.fun sin.core.access.zznet.fun
+0.0.0.0 syd.core.access.zznet.fun hkg2.edge.access.zznet.fun sin2.edge.access.zznet.fun dns.zzuhacker.cn 

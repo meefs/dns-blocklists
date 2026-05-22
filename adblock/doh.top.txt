@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 20 May 2026 09:58 UTC
-! Version: 2026.0520.0958.27
+! Last modified: 22 May 2026 11:44 UTC
+! Version: 2026.0522.1144.52
 ! Syntax: AdBlock
-! Number of entries: 3372
+! Number of entries: 3369
 !
 ||ss.0001.xyz^
 ||ns.00dani.me^
@@ -958,7 +958,6 @@
 ||ns1.dotls.org^
 ||dns.dotnet.win^
 ||family.dns.doubleangels.com^
-||dotserver.douyucdn.cn^
 ||dns35.allone.dpdns.org^
 ||adguard.llf520.dpdns.org^
 ||de-adguard.dr3ff1c13nt.com^
@@ -2762,7 +2761,6 @@
 ||dns.wechat.com^
 ||paydns.wechatpay.cn^
 ||resov.wehao.net^
-||dns.weibo.cn^
 ||dns.wellstsai.com^
 ||zhang.wenru.xyz^
 ||doh.wewitro.net^
@@ -3117,7 +3115,6 @@
 ||iozoi.cn^
 ||irrelevant.cc^
 ||it-works4u.com^
-||it-works4u.nl^
 ||itlikehell.ru^
 ||itworks4u.nl^
 ||ivnkn.xyz^

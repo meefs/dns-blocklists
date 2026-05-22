@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 May 2026 16:55 UTC
-# Version: 2026.0521.1655.35
+# Last modified: 22 May 2026 11:45 UTC
+# Version: 2026.0522.1145.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 17415
+# Number of entries: 17417
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -7394,6 +7394,7 @@ local=/al-malki-top.zavoj.ch/
 local=/classroom.zaydkrunz.com/
 local=/register.zedzander.com/
 local=/dns.zemows.industries/
+local=/doh.zephyrus.id/
 local=/brainpop.zeptoinitiative.org/
 local=/closetome.zeptoinitiative.org/
 local=/drive.zeptoinitiative.org/
@@ -16284,6 +16285,7 @@ local=/vikingvpn.com/
 local=/villalazza.stream/
 local=/vilor.site/
 local=/vimstera.xyz/
+local=/vinny-stinks-like-dudu.com/
 local=/vipdownloadmena.xyz/
 local=/vipfive.xyz/
 local=/vipfour.xyz/

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779382500 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779450300 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 May 2026 16:55 UTC
-; Version: 2026.0521.1655.35
+; Last modified: 22 May 2026 11:45 UTC
+; Version: 2026.0522.1145.06
 ; Syntax: RPZ
-; Number of entries: 34830
+; Number of entries: 34834
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -15077,6 +15077,8 @@ viewlak.com CNAME .
 *.viewlak.com CNAME .
 vikingvpn.com CNAME .
 *.vikingvpn.com CNAME .
+vinny-stinks-like-dudu.com CNAME .
+*.vinny-stinks-like-dudu.com CNAME .
 virtual-browser.com CNAME .
 *.virtual-browser.com CNAME .
 graph.solve.virtualinhouselawyer.com CNAME .
@@ -18711,6 +18713,8 @@ ferniiiiiiiii5.rainbowcreative.web.id CNAME .
 *.ferniiiiiiiii5.rainbowcreative.web.id CNAME .
 doh.this.web.id CNAME .
 *.doh.this.web.id CNAME .
+doh.zephyrus.id CNAME .
+*.doh.zephyrus.id CNAME .
 01100010011011000110111101100011011010110110110101100101.zone.id CNAME .
 *.01100010011011000110111101100011011010110110110101100101.zone.id CNAME .
 cooluniverse-galaxy.zone.id CNAME .

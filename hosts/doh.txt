@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 May 2026 09:57 UTC
-# Version: 2026.0520.0957.55
+# Last modified: 22 May 2026 11:44 UTC
+# Version: 2026.0522.1144.20
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3891
+# Number of entries: 3892
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -3872,6 +3872,7 @@
 0.0.0.0 zdn.ro
 0.0.0.0 register.zedzander.com
 0.0.0.0 dns.zemows.industries
+0.0.0.0 doh.zephyrus.id
 0.0.0.0 adguard-kartoffel.zernico.de
 0.0.0.0 oraclejp01.zerotorez.com
 0.0.0.0 dns.zfsystem.tech
