@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779387660 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779413940 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 May 2026 18:21 UTC
-; Version: 2026.0521.1821.59
+; Last modified: 22 May 2026 01:39 UTC
+; Version: 2026.0522.0139.41
 ; Syntax: RPZ
-; Number of entries: 192752
+; Number of entries: 192756
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -138962,6 +138962,8 @@ diligentcareadultfamilyhome.net CNAME .
 *.diligentcareadultfamilyhome.net CNAME .
 direct-service.net CNAME .
 *.direct-service.net CNAME .
+directbigboobsreloaded.net CNAME .
+*.directbigboobsreloaded.net CNAME .
 directcnc.net CNAME .
 *.directcnc.net CNAME .
 directory-porno.net CNAME .
@@ -152598,6 +152600,8 @@ cnporn.org CNAME .
 *.cnporn.org CNAME .
 cnxxx.org CNAME .
 *.cnxxx.org CNAME .
+cockroachjantaparty.org CNAME .
+*.cockroachjantaparty.org CNAME .
 coffetube.org CNAME .
 *.coffetube.org CNAME .
 colgateconnect.org CNAME .

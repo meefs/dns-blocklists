@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779383880 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779409920 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 May 2026 17:18 UTC
-; Version: 2026.0521.1718.21
+; Last modified: 22 May 2026 00:32 UTC
+; Version: 2026.0522.0032.02
 ; Syntax: RPZ
-; Number of entries: 31502
+; Number of entries: 31494
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -3378,8 +3378,6 @@ berlinrideservice.com CNAME .
 *.berlinrideservice.com CNAME .
 berlinwoch.com CNAME .
 *.berlinwoch.com CNAME .
-bermar-shop.com CNAME .
-*.bermar-shop.com CNAME .
 bernhardthome.com CNAME .
 *.bernhardthome.com CNAME .
 bernstern.com CNAME .
@@ -16448,8 +16446,6 @@ spices-sale.com CNAME .
 *.spices-sale.com CNAME .
 spielburgen.com CNAME .
 *.spielburgen.com CNAME .
-spieleboxdek.com CNAME .
-*.spieleboxdek.com CNAME .
 spielsmodelle.com CNAME .
 *.spielsmodelle.com CNAME .
 spielwaren-tonies.com CNAME .
@@ -20382,8 +20378,6 @@ berliner-gartenservice.de CNAME .
 *.berliner-gartenservice.de CNAME .
 berliner-laden.de CNAME .
 *.berliner-laden.de CNAME .
-berlinglamour.de CNAME .
-*.berlinglamour.de CNAME .
 berlinherren.de CNAME .
 *.berlinherren.de CNAME .
 berlinsprime.de CNAME .
@@ -29672,8 +29666,6 @@ at.eeelgnte.shop CNAME .
 *.at.eeelgnte.shop CNAME .
 ehfzhepg.shop CNAME .
 *.ehfzhepg.shop CNAME .
-adlz.ekyyq.shop CNAME .
-*.adlz.ekyyq.shop CNAME .
 ekzsale.shop CNAME .
 *.ekzsale.shop CNAME .
 elkhartrvparts.shop CNAME .
