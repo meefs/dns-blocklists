@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 May 2026 17:11 UTC
-# Version: 2026.0506.1711.29
+# Last modified: 22 May 2026 17:19 UTC
+# Version: 2026.0522.1719.02
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 469
+# Number of entries: 464
 #
 traffic-media.co.uk
 mistat.india.xiaomi.com.edgesuite.net
@@ -308,16 +308,11 @@ api.installer.xiaomi.com
 ad.intl.xiaomi.com
 api.ad.intl.xiaomi.com
 cc.ad.intl.xiaomi.com
-eu-ortb-api.ad.intl.xiaomi.com
 globalreport.ad.intl.xiaomi.com
-in-ortb-api.ad.intl.xiaomi.com
 mos-ortb-api.ad.intl.xiaomi.com
 mosapi.ad.intl.xiaomi.com
 odml.ad.intl.xiaomi.com
-pixel.ad.intl.xiaomi.com
-pixel-api.ad.intl.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
-sgp-ortb-api.ad.intl.xiaomi.com
 sgpapi.ad.intl.xiaomi.com
 test.ad.intl.xiaomi.com
 mistat.intl.xiaomi.com

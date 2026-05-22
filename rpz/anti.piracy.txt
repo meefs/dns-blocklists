@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779413820 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779469260 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 22 May 2026 01:37 UTC
-; Version: 2026.0522.0137.50
+; Last modified: 22 May 2026 17:01 UTC
+; Version: 2026.0522.1701.11
 ; Syntax: RPZ
-; Number of entries: 25812
+; Number of entries: 25818
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -6554,6 +6554,8 @@ movierulznet.com CNAME .
 *.movierulznet.com CNAME .
 movierulzonline.com CNAME .
 *.movierulzonline.com CNAME .
+movierulzpl.com CNAME .
+*.movierulzpl.com CNAME .
 movierulzzplz.com CNAME .
 *.movierulzzplz.com CNAME .
 movies-d.com CNAME .
@@ -13626,6 +13628,8 @@ animeowl.me CNAME .
 *.animeowl.me CNAME .
 animetorrents.me CNAME .
 *.animetorrents.me CNAME .
+animeworld.me CNAME .
+*.animeworld.me CNAME .
 aniwatch.me CNAME .
 *.aniwatch.me CNAME .
 tracker.anthelion.me CNAME .
@@ -19670,6 +19674,8 @@ mutaz.pro CNAME .
 *.mutaz.pro CNAME .
 tracker.ncore.pro CNAME .
 *.tracker.ncore.pro CNAME .
+newhdmovie2.pro CNAME .
+*.newhdmovie2.pro CNAME .
 nicemoviezion.pro CNAME .
 *.nicemoviezion.pro CNAME .
 obstream.pro CNAME .

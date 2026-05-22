@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 May 2026 17:26 UTC
-# Version: 2026.0508.1726.48
+# Last modified: 22 May 2026 17:13 UTC
+# Version: 2026.0522.1713.41
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 542
+# Number of entries: 538
 #
 0.0.0.0 p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net
 0.0.0.0 frontier23-normal-alisg.tiktokv.com.bpgslb.com
@@ -170,9 +170,7 @@
 0.0.0.0 ads-api.tiktok.com
 0.0.0.0 ads-frontier.tiktok.com
 0.0.0.0 ads-ru.tiktok.com
-0.0.0.0 ads-service.tiktok.com
 0.0.0.0 ads-sg.tiktok.com
-0.0.0.0 ads-useast2a.tiktok.com
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics-attribution.tiktok.com
 0.0.0.0 analytics-attribution-va.tiktok.com
@@ -213,7 +211,6 @@
 0.0.0.0 ad.tiktokv.com
 0.0.0.0 ad.tiktokv.us
 0.0.0.0 ad-instantpage.tiktokv.us
-0.0.0.0 ad-instantpage-ru.tiktokv.com
 0.0.0.0 ad-instantpage-sg.tiktokv.com
 0.0.0.0 ad-instantpage-ttp2.tiktokv.eu
 0.0.0.0 ad-instantpage-ttp2.tiktokv.us
@@ -518,7 +515,6 @@
 0.0.0.0 xlog-va-useast2a.tiktokv.com
 0.0.0.0 xlog16-normal-c-useast1a.tiktokv.com
 0.0.0.0 xlog16-normal-c-useast2a.tiktokv.com
-0.0.0.0 xlog16-normal-no1a.tiktokv.eu
 0.0.0.0 xlog16-platform-ycru.tiktokv.com
 0.0.0.0 xlog16-tmp-normal-useast1a.tiktokv.com
 0.0.0.0 frontier.tiktokv-eu.com

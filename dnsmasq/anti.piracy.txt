@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 May 2026 01:37 UTC
-# Version: 2026.0522.0137.50
+# Last modified: 22 May 2026 17:01 UTC
+# Version: 2026.0522.1701.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12906
+# Number of entries: 12909
 #
 local=/hichemtigsetorgy.0fees.net/
 local=/tracker.0x7c0.com/
@@ -2275,6 +2275,7 @@ local=/animeua.club/
 local=/animeultima.to/
 local=/animevibe.tv/
 local=/animevostfr.tv/
+local=/animeworld.me/
 local=/animeworld.so/
 local=/animeworld.tv/
 local=/animex.click/
@@ -7792,6 +7793,7 @@ local=/movierulz.yachts/
 local=/movierulzhd.gold/
 local=/movierulznet.com/
 local=/movierulzonline.com/
+local=/movierulzpl.com/
 local=/movierulzzplz.com/
 local=/movies.cab/
 local=/movies-d.com/
@@ -8292,6 +8294,7 @@ local=/newhdmovie2.art/
 local=/newhdmovie2.com/
 local=/newhdmovie2.net/
 local=/newhdmovie2.one/
+local=/newhdmovie2.pro/
 local=/newhdmovies.org/
 local=/newhdmovies.top/
 local=/newhdmovies24.net/

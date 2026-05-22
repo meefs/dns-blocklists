@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 May 2026 17:25 UTC
-# Version: 2026.0508.1725.46
+# Last modified: 22 May 2026 17:12 UTC
+# Version: 2026.0522.1712.48
 # Syntax: Domains (without subdomains)
-# Number of entries: 386
+# Number of entries: 382
 #
 frontier.byteoversea.com
 gplog-sg.byteoversea.com
@@ -123,6 +123,14 @@ ug.snssdk.com
 vas-hl-x.snssdk.com
 vcl-brain.snssdk.com
 xlog.snssdk.com
+ads.us.tiktok.com
+ads-ttp2.us.tiktok.com
+analytics.us.tiktok.com
+analytics-exp.us.tiktok.com
+analytics-ttp2.us.tiktok.com
+mcs.us.tiktok.com
+mcs-ttp2.us.tiktok.com
+mssdk.us.tiktok.com
 ad.tiktok.tv
 ads.tiktok.com
 ads.tiktok.in
@@ -130,9 +138,7 @@ ads.tiktok.tv
 ads-api.tiktok.com
 ads-frontier.tiktok.com
 ads-ru.tiktok.com
-ads-service.tiktok.com
 ads-sg.tiktok.com
-ads-useast2a.tiktok.com
 analytics.tiktok.com
 analytics-attribution.tiktok.com
 analytics-attribution-va.tiktok.com
@@ -152,19 +158,30 @@ location.tiktok.com
 mcs-i18n.tiktok.com
 mcs-va.tiktok.com
 mssdk-i18n.tiktok.com
-ads.us.tiktok.com
-ads-ttp2.us.tiktok.com
-analytics.us.tiktok.com
-analytics-exp.us.tiktok.com
-analytics-ttp2.us.tiktok.com
-mcs.us.tiktok.com
-mcs-ttp2.us.tiktok.com
-mssdk.us.tiktok.com
 sf16-telemetry-proxy-oci.tiktokcdn-us.com
+location.us.tiktokv.com
+location-ttp2.us.tiktokv.com
+log.us.tiktokv.com
+log16-applog-useast5.us.tiktokv.com
+log19-applog-useast5.us.tiktokv.com
+mcs.us.tiktokv.com
+mon.us.tiktokv.com
+mssdk.us.tiktokv.com
+rtc-logger.us.tiktokv.com
+rtc-logger-ttp2.us.tiktokv.com
+rtlog.us.tiktokv.com
+rtlog16-applog-useast5.us.tiktokv.com
+rtlog16-normal-useast8.us.tiktokv.com
+rtlog16-platform-useast5.us.tiktokv.com
+rtlog19-applog-useast5.us.tiktokv.com
+rtlog19-platform-useast5.us.tiktokv.com
+tnc16-normal-useast8.us.tiktokv.com
+tnc16-platform-useast5.us.tiktokv.com
+xlog16-normal-useast8.us.tiktokv.com
+xlog16-platform-useast5.us.tiktokv.com
 ad.tiktokv.com
 ad.tiktokv.us
 ad-instantpage.tiktokv.us
-ad-instantpage-ru.tiktokv.com
 ad-instantpage-sg.tiktokv.com
 ad-instantpage-ttp2.tiktokv.eu
 ad-instantpage-ttp2.tiktokv.us
@@ -347,33 +364,12 @@ tnc31-platform-alisg.tiktokv.com
 tnc31-platform-useast1a.tiktokv.com
 tnc31-platform-useast2a.tiktokv.com
 tnc58-platform-ycru.tiktokv.com
-location.us.tiktokv.com
-location-ttp2.us.tiktokv.com
-log.us.tiktokv.com
-log16-applog-useast5.us.tiktokv.com
-log19-applog-useast5.us.tiktokv.com
-mcs.us.tiktokv.com
-mon.us.tiktokv.com
-mssdk.us.tiktokv.com
-rtc-logger.us.tiktokv.com
-rtc-logger-ttp2.us.tiktokv.com
-rtlog.us.tiktokv.com
-rtlog16-applog-useast5.us.tiktokv.com
-rtlog16-normal-useast8.us.tiktokv.com
-rtlog16-platform-useast5.us.tiktokv.com
-rtlog19-applog-useast5.us.tiktokv.com
-rtlog19-platform-useast5.us.tiktokv.com
-tnc16-normal-useast8.us.tiktokv.com
-tnc16-platform-useast5.us.tiktokv.com
-xlog16-normal-useast8.us.tiktokv.com
-xlog16-platform-useast5.us.tiktokv.com
 xlog.tiktokv.com
 xlog-ru.tiktokv.com
 xlog-va.tiktokv.com
 xlog-va-useast2a.tiktokv.com
 xlog16-normal-c-useast1a.tiktokv.com
 xlog16-normal-c-useast2a.tiktokv.com
-xlog16-normal-no1a.tiktokv.eu
 xlog16-platform-ycru.tiktokv.com
 xlog16-tmp-normal-useast1a.tiktokv.com
 log-snssdk.tiktokv-us.com

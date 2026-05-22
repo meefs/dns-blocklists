@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 May 2026 17:10 UTC
-# Version: 2026.0518.1710.21
+# Last modified: 22 May 2026 17:10 UTC
+# Version: 2026.0522.1710.10
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 349
+# Number of entries: 348
 #
 local=/aan.amazon.co.jp/
 local=/aan.amazon.co.uk/
@@ -260,7 +260,6 @@ local=/sonar.prime-video.amazon.dev/
 local=/sponsored-ads-eu-south-2.amazon-adsystem.com/
 local=/sponsored-ads-eu.amazon-adsystem.com/
 local=/sponsored-ads-eu.amazon.ae/
-local=/sponsored-ads-eu.amazon.co.za/
 local=/sponsored-ads-eu.amazon.com.be/
 local=/sponsored-ads-eu.amazon.com.tr/
 local=/sponsored-ads-eu.amazon.de/

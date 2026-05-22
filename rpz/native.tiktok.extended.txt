@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778261160 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779469980 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's TikTok Extended Fingerprinting DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 May 2026 17:26 UTC
-; Version: 2026.0508.1726.48
+; Last modified: 22 May 2026 17:13 UTC
+; Version: 2026.0522.1713.41
 ; Syntax: RPZ
-; Number of entries: 1080
+; Number of entries: 1072
 ;
 h4g3z1-native.tiktok.extended.web.app CNAME .
 *.h4g3z1-native.tiktok.extended.web.app CNAME .
@@ -236,12 +236,8 @@ ads-frontier.tiktok.com CNAME .
 *.ads-frontier.tiktok.com CNAME .
 ads-ru.tiktok.com CNAME .
 *.ads-ru.tiktok.com CNAME .
-ads-service.tiktok.com CNAME .
-*.ads-service.tiktok.com CNAME .
 ads-sg.tiktok.com CNAME .
 *.ads-sg.tiktok.com CNAME .
-ads-useast2a.tiktok.com CNAME .
-*.ads-useast2a.tiktok.com CNAME .
 analytics.tiktok.com CNAME .
 *.analytics.tiktok.com CNAME .
 analytics-attribution.tiktok.com CNAME .
@@ -316,8 +312,6 @@ sf16-telemetry-proxy-oci.tiktokcdn-us.com CNAME .
 *.sf16-telemetry-proxy-oci.tiktokcdn-us.com CNAME .
 ad.tiktokv.com CNAME .
 *.ad.tiktokv.com CNAME .
-ad-instantpage-ru.tiktokv.com CNAME .
-*.ad-instantpage-ru.tiktokv.com CNAME .
 ad-instantpage-sg.tiktokv.com CNAME .
 *.ad-instantpage-sg.tiktokv.com CNAME .
 ad-instantpage-va.tiktokv.com CNAME .
@@ -910,8 +904,6 @@ tnc19-normal-no1a.tiktokv.eu CNAME .
 *.tnc19-normal-no1a.tiktokv.eu CNAME .
 tnc19-normal-useastred.tiktokv.eu CNAME .
 *.tnc19-normal-useastred.tiktokv.eu CNAME .
-xlog16-normal-no1a.tiktokv.eu CNAME .
-*.xlog16-normal-no1a.tiktokv.eu CNAME .
 ads-ie.tiktokw.eu CNAME .
 *.ads-ie.tiktokw.eu CNAME .
 ads-ttp2.tiktokw.eu CNAME .

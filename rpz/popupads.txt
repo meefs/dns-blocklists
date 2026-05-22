@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779445740 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779468540 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Pop-Up Ads DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 22 May 2026 10:29 UTC
-; Version: 2026.0522.1029.17
+; Last modified: 22 May 2026 16:49 UTC
+; Version: 2026.0522.1649.02
 ; Syntax: RPZ
-; Number of entries: 18474
+; Number of entries: 18468
 ;
 mybet.africa CNAME .
 *.mybet.africa CNAME .
@@ -112,8 +112,6 @@ adhese.be CNAME .
 *.adhese.be CNAME .
 revlt.be CNAME .
 *.revlt.be CNAME .
-krgirls.beauty CNAME .
-*.krgirls.beauty CNAME .
 0.beer CNAME .
 *.0.beer CNAME .
 screenshot.best CNAME .
@@ -5314,6 +5312,8 @@ ebvvvnjesjgx.com CNAME .
 *.ebvvvnjesjgx.com CNAME .
 eclkmpsa.com CNAME .
 *.eclkmpsa.com CNAME .
+ecomicrolab.com CNAME .
+*.ecomicrolab.com CNAME .
 economicbaileysuddenly.com CNAME .
 *.economicbaileysuddenly.com CNAME .
 econventa.com CNAME .
@@ -5976,8 +5976,6 @@ fmlabsonline.com CNAME .
 *.fmlabsonline.com CNAME .
 fmscc.com CNAME .
 *.fmscc.com CNAME .
-foaglurapsoasie.com CNAME .
-*.foaglurapsoasie.com CNAME .
 foaltax.com CNAME .
 *.foaltax.com CNAME .
 focheglyzy.com CNAME .
@@ -15900,8 +15898,6 @@ go2cliks.net CNAME .
 *.go2cliks.net CNAME .
 gofimtaisa.net CNAME .
 *.gofimtaisa.net CNAME .
-graifauwhir.net CNAME .
-*.graifauwhir.net CNAME .
 graigairgathod.net CNAME .
 *.graigairgathod.net CNAME .
 grashaksoudry.net CNAME .
@@ -16518,8 +16514,6 @@ watchingthat.net CNAME .
 *.watchingthat.net CNAME .
 watchmygf.net CNAME .
 *.watchmygf.net CNAME .
-waugauwhaigrur.net CNAME .
-*.waugauwhaigrur.net CNAME .
 wazoceckoo.net CNAME .
 *.wazoceckoo.net CNAME .
 web-telegram.net CNAME .

@@ -134,13 +134,6 @@
       }
     },
     {
-      "PK": "ads-msn-com-profile.trafficmanager.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "adstore.response.gcp.eastus.trafficmanager.net",
       "action": {
         "do": 0,
@@ -156,13 +149,6 @@
     },
     {
       "PK": "advertising.microsoft.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "aec-visio-telemetry.officeapps.live.com",
       "action": {
         "do": 0,
         "status": 1
@@ -191,13 +177,6 @@
     },
     {
       "PK": "analyticsehnwe.servicebus.windows.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "analyticsiot-prod-simpad-ehn.servicebus.windows.net",
       "action": {
         "do": 0,
         "status": 1
@@ -323,13 +302,6 @@
       }
     },
     {
-      "PK": "a-ring-ipv6only.msedge.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "a-ring.msedge.net",
       "action": {
         "do": 0,
@@ -422,20 +394,6 @@
     },
     {
       "PK": "b-ring.msedge.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "btv-du-dev-eventhub-streamanalytics.servicebus.windows.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "btv-du-prod-eventhub-streamanalytics.servicebus.windows.net",
       "action": {
         "do": 0,
         "status": 1
@@ -582,13 +540,6 @@
       }
     },
     {
-      "PK": "ch-asimov-leafs-events-data.trafficmanager.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "c.hk.msn.com",
       "action": {
         "do": 0,
@@ -638,21 +589,7 @@
       }
     },
     {
-      "PK": "citrixanalyticseh2.servicebus.windows.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "citrixanalyticseh3-alias.servicebus.windows.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "citrixanalyticseh3.servicebus.windows.net",
       "action": {
         "do": 0,
         "status": 1
@@ -1135,13 +1072,6 @@
       }
     },
     {
-      "PK": "events-sandbox.data.msn.cn",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "events-sandbox.data.msn.com",
       "action": {
         "do": 0,
@@ -1269,13 +1199,6 @@
     },
     {
       "PK": "hk-tracker.trafficmanager.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "hme-live-loganalytics-namespace.servicebus.windows.net",
       "action": {
         "do": 0,
         "status": 1
@@ -1471,7 +1394,7 @@
       }
     },
     {
-      "PK": "live.applicationinsights.azure.cn",
+      "PK": "licensingtelemetry-prod.servicebus.windows.net",
       "action": {
         "do": 0,
         "status": 1
@@ -2081,13 +2004,6 @@
     },
     {
       "PK": "ppm-licensingtelemetry.servicebus.windows.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "prd-qlik-telemetry.servicebus.windows.net",
       "action": {
         "do": 0,
         "status": 1
@@ -2704,13 +2620,6 @@
     },
     {
       "PK": "word-telemetry.wac.trafficmanager.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "wttwebsiteprodapi-liveevents.trafficmanager.net",
       "action": {
         "do": 0,
         "status": 1

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 May 2026 10:32 UTC
-# Version: 2026.0522.1032.55
+# Last modified: 22 May 2026 17:21 UTC
+# Version: 2026.0522.1721.24
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 15789
+# Number of entries: 15800
 #
 local=/eoutlet.2023shoponline.com/
 local=/trader.212group.de/
@@ -22,6 +22,7 @@ local=/store.aeotec.com/
 local=/webtrader.aeratiqos.com/
 local=/store.aktuellerezensionen.de/
 local=/ntqcp9y.amapolaproject.eu/
+local=/de.apemans.com/
 local=/installateur.artpro-24.pro/
 local=/webtrader.arvelon-barnyx.com/
 local=/shop.askdrkan.com/
@@ -833,6 +834,7 @@ local=/aegidien-apotheke.de/
 local=/aegis-at.com/
 local=/aegisxs.com/
 local=/aekcapital.ltd/
+local=/aeke-smart.com/
 local=/aeowe.com/
 local=/aerialpics.de/
 local=/aeromed-hamburg.de/
@@ -1736,6 +1738,7 @@ local=/baffindeutschland.com/
 local=/bag-promo.com/
 local=/baggu-eu.com/
 local=/bags-boxes.com/
+local=/bagtrendshop.com/
 local=/baguesdefiancailles.com/
 local=/bahiwa.com/
 local=/bahnemanninvest.net/
@@ -1819,6 +1822,7 @@ local=/baryman.com/
 local=/barzubehoerhaus.com/
 local=/basas-online.de/
 local=/base-eu.com/
+local=/baseballcapshop.de/
 local=/baseballoutlet.pl/
 local=/baseballretail.com/
 local=/baseballsupplys.com/
@@ -2227,6 +2231,7 @@ local=/bikeersatzteile.com/
 local=/bikefactoryplus.shop/
 local=/bikefenderneu.com/
 local=/bikeframesde.com/
+local=/bikegadgetde.com/
 local=/bikehandel.com/
 local=/bikehubde.com/
 local=/bikelight.de/
@@ -4036,6 +4041,7 @@ local=/docjohnson-schritte.com/
 local=/doctorsolve.com/
 local=/doctriney.com/
 local=/documentarp.com/
+local=/dodo-direkt.de/
 local=/doehlers.com/
 local=/dogandliving.de/
 local=/doge-mining.top/
@@ -5121,6 +5127,7 @@ local=/ferplastdeutschland.shop/
 local=/ferplasthaustierbedarf.com/
 local=/ferplastverkaufe.com/
 local=/ferramentautensili.com/
+local=/festanlageprofi.net/
 local=/festberg.com/
 local=/festberg.de/
 local=/festberg-ace.de/
@@ -6546,7 +6553,6 @@ local=/haustieralles.com/
 local=/haustierbedarfshop.com/
 local=/haustiererabatt.com/
 local=/haustiereshop.com/
-local=/haustierstolz.de/
 local=/haustirwelten.de/
 local=/hausture.com/
 local=/hausundgarten.haus/
@@ -11739,6 +11745,7 @@ local=/rabbit-fitness.de/
 local=/rabeinriver.de/
 local=/racedaypool.com/
 local=/raceoption.com/
+local=/racetexfast.shop/
 local=/rachelentwistle-store.com/
 local=/racinghelmetde.com/
 local=/radbekleidung4u.com/
@@ -12111,6 +12118,7 @@ local=/roboter-maeher.com/
 local=/robotikstore.com/
 local=/robottagliaerbascontato.com/
 local=/robottonte.com/
+local=/robotxmarkt.de/
 local=/robowerkstatten.com/
 local=/robustwerkzeug.com/
 local=/rochobbies.com/
@@ -12386,6 +12394,7 @@ local=/sanukschoenen.com/
 local=/sanukschuhe.de/
 local=/sanuksuomi.net/
 local=/sanuvalue.com/
+local=/sanyokagu.com/
 local=/saopauloautopeca.com/
 local=/saphirvogel.de/
 local=/sapphire-gartenflege.at/
@@ -13147,6 +13156,7 @@ local=/spanenewstoday.com/
 local=/spar-allianz.de/
 local=/spar-markt.de/
 local=/sparfuchs.shop/
+local=/sparhaustechnik.de/
 local=/sparkgenesisai.com/
 local=/sparmarie24.de/
 local=/sparprime.com/
@@ -13708,6 +13718,7 @@ local=/taschego.com/
 local=/taschenmesser-de.com/
 local=/taschenrabatt.com/
 local=/taschenschmied.de/
+local=/taschentotal.com/
 local=/tastefulsl.com/
 local=/tasteo.net/
 local=/tastin.shop/

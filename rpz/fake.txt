@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779445920 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779470460 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 22 May 2026 10:32 UTC
-; Version: 2026.0522.1032.55
+; Last modified: 22 May 2026 17:21 UTC
+; Version: 2026.0522.1721.24
 ; Syntax: RPZ
-; Number of entries: 31578
+; Number of entries: 31600
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -1952,6 +1952,8 @@ aegis-at.com CNAME .
 *.aegis-at.com CNAME .
 aegisxs.com CNAME .
 *.aegisxs.com CNAME .
+aeke-smart.com CNAME .
+*.aeke-smart.com CNAME .
 store.aeotec.com CNAME .
 *.store.aeotec.com CNAME .
 aeowe.com CNAME .
@@ -2460,6 +2462,8 @@ apeasblto.com CNAME .
 *.apeasblto.com CNAME .
 apelfinancial.com CNAME .
 *.apelfinancial.com CNAME .
+de.apemans.com CNAME .
+*.de.apemans.com CNAME .
 apex-dianzi-online.com CNAME .
 *.apex-dianzi-online.com CNAME .
 apexdealeros.com CNAME .
@@ -3026,6 +3030,8 @@ baggu-eu.com CNAME .
 *.baggu-eu.com CNAME .
 bags-boxes.com CNAME .
 *.bags-boxes.com CNAME .
+bagtrendshop.com CNAME .
+*.bagtrendshop.com CNAME .
 baguesdefiancailles.com CNAME .
 *.baguesdefiancailles.com CNAME .
 bahiwa.com CNAME .
@@ -3614,6 +3620,8 @@ bikefenderneu.com CNAME .
 *.bikefenderneu.com CNAME .
 bikeframesde.com CNAME .
 *.bikeframesde.com CNAME .
+bikegadgetde.com CNAME .
+*.bikegadgetde.com CNAME .
 bikehandel.com CNAME .
 *.bikehandel.com CNAME .
 bikehubde.com CNAME .
@@ -15528,6 +15536,8 @@ sanukschoenen.com CNAME .
 *.sanukschoenen.com CNAME .
 sanuvalue.com CNAME .
 *.sanuvalue.com CNAME .
+sanyokagu.com CNAME .
+*.sanyokagu.com CNAME .
 saopauloautopeca.com CNAME .
 *.saopauloautopeca.com CNAME .
 sara-berlin.com CNAME .
@@ -17122,6 +17132,8 @@ taschenmesser-de.com CNAME .
 *.taschenmesser-de.com CNAME .
 taschenrabatt.com CNAME .
 *.taschenrabatt.com CNAME .
+taschentotal.com CNAME .
+*.taschentotal.com CNAME .
 tastefulsl.com CNAME .
 *.tastefulsl.com CNAME .
 tatadress.com CNAME .
@@ -20284,6 +20296,8 @@ barki-shop.de CNAME .
 *.barki-shop.de CNAME .
 basas-online.de CNAME .
 *.basas-online.de CNAME .
+baseballcapshop.de CNAME .
+*.baseballcapshop.de CNAME .
 bassbetcasino-online.de CNAME .
 *.bassbetcasino-online.de CNAME .
 bateg24.de CNAME .
@@ -21436,6 +21450,8 @@ dlxn-mode.de CNAME .
 *.dlxn-mode.de CNAME .
 dmbmanagement.de CNAME .
 *.dmbmanagement.de CNAME .
+dodo-direkt.de CNAME .
+*.dodo-direkt.de CNAME .
 dogandliving.de CNAME .
 *.dogandliving.de CNAME .
 dograndoo.de CNAME .
@@ -22756,8 +22772,6 @@ haustechnik-muenchen.de CNAME .
 *.haustechnik-muenchen.de CNAME .
 haustechnikmeine.de CNAME .
 *.haustechnikmeine.de CNAME .
-haustierstolz.de CNAME .
-*.haustierstolz.de CNAME .
 haustirwelten.de CNAME .
 *.haustirwelten.de CNAME .
 havro.de CNAME .
@@ -25732,6 +25746,8 @@ roborocks.de CNAME .
 *.roborocks.de CNAME .
 robosparkinvestor.de CNAME .
 *.robosparkinvestor.de CNAME .
+robotxmarkt.de CNAME .
+*.robotxmarkt.de CNAME .
 rockwell-berlin.de CNAME .
 *.rockwell-berlin.de CNAME .
 rockwithyou.de CNAME .
@@ -26246,6 +26262,8 @@ spar-allianz.de CNAME .
 *.spar-allianz.de CNAME .
 spar-markt.de CNAME .
 *.spar-markt.de CNAME .
+sparhaustechnik.de CNAME .
+*.sparhaustechnik.de CNAME .
 sparmarie24.de CNAME .
 *.sparmarie24.de CNAME .
 sparwahnsinn24.de CNAME .
@@ -28394,6 +28412,8 @@ familo.net CNAME .
 *.familo.net CNAME .
 family-drugs.net CNAME .
 *.family-drugs.net CNAME .
+festanlageprofi.net CNAME .
+*.festanlageprofi.net CNAME .
 financialfutures.net CNAME .
 *.financialfutures.net CNAME .
 finapactglobal.net CNAME .
@@ -30364,6 +30384,8 @@ quiker.shop CNAME .
 *.quiker.shop CNAME .
 qvhkhyn.shop CNAME .
 *.qvhkhyn.shop CNAME .
+racetexfast.shop CNAME .
+*.racetexfast.shop CNAME .
 rattmmotor.shop CNAME .
 *.rattmmotor.shop CNAME .
 realitymaelstrom.shop CNAME .

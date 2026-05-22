@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779449640 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779469380 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 22 May 2026 11:34 UTC
-; Version: 2026.0522.1134.24
+; Last modified: 22 May 2026 17:03 UTC
+; Version: 2026.0522.1703.22
 ; Syntax: RPZ
-; Number of entries: 423868
+; Number of entries: 423948
 ;
 1xbet.ac CNAME .
 *.1xbet.ac CNAME .
@@ -3192,6 +3192,8 @@ clubecuestrepilar.com.ar CNAME .
 *.clubecuestrepilar.com.ar CNAME .
 juegoresponsable.com.ar CNAME .
 *.juegoresponsable.com.ar CNAME .
+jugandoando.com.ar CNAME .
+*.jugandoando.com.ar CNAME .
 lagerday.com.ar CNAME .
 *.lagerday.com.ar CNAME .
 laopinionaustral.com.ar CNAME .
@@ -32614,6 +32616,8 @@ melbet-t.casino CNAME .
 *.melbet-t.casino CNAME .
 melbet1.casino CNAME .
 *.melbet1.casino CNAME .
+melbetapp.casino CNAME .
+*.melbetapp.casino CNAME .
 melbett.casino CNAME .
 *.melbett.casino CNAME .
 mell-stroy-games.casino CNAME .
@@ -44020,6 +44024,8 @@ casinocash.ci CNAME .
 *.1win.com.ci CNAME .
 1xbet.com.ci CNAME .
 *.1xbet.com.ci CNAME .
+melbet.com.ci CNAME .
+*.melbet.com.ci CNAME .
 lonacionline.ci CNAME .
 *.lonacionline.ci CNAME .
 123win.city CNAME .
@@ -133038,6 +133044,8 @@ acenter4change.com CNAME .
 *.acenter4change.com CNAME .
 aceocus.com CNAME .
 *.aceocus.com CNAME .
+aceodds.com CNAME .
+*.aceodds.com CNAME .
 aceofbingo.com CNAME .
 *.aceofbingo.com CNAME .
 aceph21.com CNAME .
@@ -135660,6 +135668,10 @@ anim6b1.com CNAME .
 *.anim6b1.com CNAME .
 anim6b4.com CNAME .
 *.anim6b4.com CNAME .
+animalitosdeoriente.com CNAME .
+*.animalitosdeoriente.com CNAME .
+animalitosvenezuela.com CNAME .
+*.animalitosvenezuela.com CNAME .
 animalsofmontana.com CNAME .
 *.animalsofmontana.com CNAME .
 animezeal.com CNAME .
@@ -136230,6 +136242,8 @@ application1xbet.com CNAME .
 *.application1xbet.com CNAME .
 appliness.com CNAME .
 *.appliness.com CNAME .
+appmelbet-venezuela.com CNAME .
+*.appmelbet-venezuela.com CNAME .
 appmkwin1.com CNAME .
 *.appmkwin1.com CNAME .
 appn88.com CNAME .
@@ -136300,6 +136314,8 @@ apuestaconnosotros.com CNAME .
 *.apuestaconnosotros.com CNAME .
 apuestalave.com CNAME .
 *.apuestalave.com CNAME .
+apuestalegalchile.com CNAME .
+*.apuestalegalchile.com CNAME .
 apuestamos.com CNAME .
 *.apuestamos.com CNAME .
 apuestan.com CNAME .
@@ -151764,6 +151780,8 @@ guiahipicaelpotroalex.blogspot.com CNAME .
 *.guiahipicaelpotroalex.blogspot.com CNAME .
 hipicasenvivo.blogspot.com CNAME .
 *.hipicasenvivo.blogspot.com CNAME .
+inbethorses.blogspot.com CNAME .
+*.inbethorses.blogspot.com CNAME .
 k9inr.blogspot.com CNAME .
 *.k9inr.blogspot.com CNAME .
 lpr08gacor.blogspot.com CNAME .
@@ -160426,6 +160444,8 @@ casino-vegazone-online.com CNAME .
 *.casino-vegazone-online.com CNAME .
 casino-vegazone-uk.com CNAME .
 *.casino-vegazone-uk.com CNAME .
+casino-venezuela.com CNAME .
+*.casino-venezuela.com CNAME .
 casino-vigil.com CNAME .
 *.casino-vigil.com CNAME .
 casino-vinder.com CNAME .
@@ -175802,6 +175822,8 @@ derbicasino617.com CNAME .
 *.derbicasino617.com CNAME .
 derbicasino618.com CNAME .
 *.derbicasino618.com CNAME .
+desafiohipico.com CNAME .
+*.desafiohipico.com CNAME .
 desajambe.com CNAME .
 *.desajambe.com CNAME .
 desautara.com CNAME .
@@ -179016,6 +179038,8 @@ efesbetcasino934.com CNAME .
 *.efesbetcasino934.com CNAME .
 efescasino3.com CNAME .
 *.efescasino3.com CNAME .
+effi-lotto.com CNAME .
+*.effi-lotto.com CNAME .
 effwurdsbooteek.com CNAME .
 *.effwurdsbooteek.com CNAME .
 efirbet.com CNAME .
@@ -179166,6 +179190,8 @@ elbetaso.com CNAME .
 *.elbetaso.com CNAME .
 elbingo.com CNAME .
 *.elbingo.com CNAME .
+elbrujodelosanimalitos.com CNAME .
+*.elbrujodelosanimalitos.com CNAME .
 elcarado.com CNAME .
 *.elcarado.com CNAME .
 elcaradocasino.com CNAME .
@@ -179250,6 +179276,8 @@ elgordo.com CNAME .
 *.elgordo.com CNAME .
 elgrullensepaloalto.com CNAME .
 *.elgrullensepaloalto.com CNAME .
+elguacharitomillonario.com CNAME .
+*.elguacharitomillonario.com CNAME .
 elinmejorable.com CNAME .
 *.elinmejorable.com CNAME .
 elisabetsproductportfolio.com CNAME .
@@ -179344,10 +179372,14 @@ elon168-casino4.com CNAME .
 *.elon168-casino4.com CNAME .
 elonmusk-casino-ca.com CNAME .
 *.elonmusk-casino-ca.com CNAME .
+elparley.com CNAME .
+*.elparley.com CNAME .
 elpaso411.com CNAME .
 *.elpaso411.com CNAME .
 elpotroroberto.com CNAME .
 *.elpotroroberto.com CNAME .
+elrecoleo.com CNAME .
+*.elrecoleo.com CNAME .
 elresultadodelaloteria.com CNAME .
 *.elresultadodelaloteria.com CNAME .
 elroyalecasino.com CNAME .
@@ -184308,6 +184340,8 @@ fillincasino.com CNAME .
 *.fillincasino.com CNAME .
 filmseansi.com CNAME .
 *.filmseansi.com CNAME .
+filoelomoparley.com CNAME .
+*.filoelomoparley.com CNAME .
 filthyrichslots.com CNAME .
 *.filthyrichslots.com CNAME .
 fina88.com CNAME .
@@ -212230,6 +212264,8 @@ junelo.com CNAME .
 *.junelo.com CNAME .
 junfn.com CNAME .
 *.junfn.com CNAME .
+jungladinamica.com CNAME .
+*.jungladinamica.com CNAME .
 jungle68.com CNAME .
 *.jungle68.com CNAME .
 jungleerummy.com CNAME .
@@ -221422,6 +221458,8 @@ lotobet.com CNAME .
 *.lotobet.com CNAME .
 lotochaima.com CNAME .
 *.lotochaima.com CNAME .
+lotodia.com CNAME .
+*.lotodia.com CNAME .
 lotogreen.com CNAME .
 *.lotogreen.com CNAME .
 lotoland.com CNAME .
@@ -227516,6 +227554,8 @@ mekinglove.com CNAME .
 *.mekinglove.com CNAME .
 mel-bet.com CNAME .
 *.mel-bet.com CNAME .
+mel-bet-bangladesh.com CNAME .
+*.mel-bet-bangladesh.com CNAME .
 mel77.com CNAME .
 *.mel77.com CNAME .
 mela-bets.com CNAME .
@@ -227578,6 +227618,8 @@ melbet-licence.com CNAME .
 *.melbet-licence.com CNAME .
 melbet-ma.com CNAME .
 *.melbet-ma.com CNAME .
+melbet-melbet.com CNAME .
+*.melbet-melbet.com CNAME .
 melbet-mn.com CNAME .
 *.melbet-mn.com CNAME .
 melbet-mobile.com CNAME .
@@ -227590,6 +227632,8 @@ melbet-pe2.com CNAME .
 *.melbet-pe2.com CNAME .
 melbet-phi.com CNAME .
 *.melbet-phi.com CNAME .
+melbet-philippines.com CNAME .
+*.melbet-philippines.com CNAME .
 melbet-sp.com CNAME .
 *.melbet-sp.com CNAME .
 melbet-th.com CNAME .
@@ -227636,10 +227680,16 @@ melbetangola.com CNAME .
 *.melbetangola.com CNAME .
 melbetapp.com CNAME .
 *.melbetapp.com CNAME .
+melbetapp-es.com CNAME .
+*.melbetapp-es.com CNAME .
+melbetbdt.com CNAME .
+*.melbetbdt.com CNAME .
 melbetbi.com CNAME .
 *.melbetbi.com CNAME .
 melbetbonus.com CNAME .
 *.melbetbonus.com CNAME .
+melbetcasino.com CNAME .
+*.melbetcasino.com CNAME .
 melbetcasino-ng.com CNAME .
 *.melbetcasino-ng.com CNAME .
 melbetcasinos-ca.com CNAME .
@@ -231358,6 +231408,8 @@ mummysgoldcasinonz.com CNAME .
 *.mummysgoldcasinonz.com CNAME .
 mundizbetdasorte.com CNAME .
 *.mundizbetdasorte.com CNAME .
+mundodeportivo.com CNAME .
+*.mundodeportivo.com CNAME .
 mundojogo.com CNAME .
 *.mundojogo.com CNAME .
 mundojoxc.com CNAME .
@@ -252986,6 +253038,8 @@ resultados365.com CNAME .
 *.resultados365.com CNAME .
 resultadosalinstante.com CNAME .
 *.resultadosalinstante.com CNAME .
+resultadosanimalitos.com CNAME .
+*.resultadosanimalitos.com CNAME .
 resultadostriplecaracas.com CNAME .
 *.resultadostriplecaracas.com CNAME .
 resultadostriplezulia.com CNAME .
@@ -273220,6 +273274,8 @@ triplesixsites.com CNAME .
 *.triplesixsites.com CNAME .
 tripletachira.com CNAME .
 *.tripletachira.com CNAME .
+tripletamillonaria.com CNAME .
+*.tripletamillonaria.com CNAME .
 tripleyourvegas.com CNAME .
 *.tripleyourvegas.com CNAME .
 triplezamorano.com CNAME .
@@ -274058,6 +274114,8 @@ tvbet.com CNAME .
 *.tvbet.com CNAME .
 tvg.com CNAME .
 *.tvg.com CNAME .
+tvgsur.com CNAME .
+*.tvgsur.com CNAME .
 tvoe-casino.com CNAME .
 *.tvoe-casino.com CNAME .
 tvoypoker.com CNAME .
@@ -304686,6 +304744,8 @@ betika.et CNAME .
 *.betika.et CNAME .
 crownbet.et CNAME .
 *.crownbet.et CNAME .
+melbet.net.et CNAME .
+*.melbet.net.et CNAME .
 1xbet.eu CNAME .
 *.1xbet.eu CNAME .
 22bet.eu CNAME .
@@ -325430,8 +325490,8 @@ betcris.mx CNAME .
 *.betcris.mx CNAME .
 betmexico.mx CNAME .
 *.betmexico.mx CNAME .
-www2.betsson.mx CNAME .
-*.www2.betsson.mx CNAME .
+betsson.mx CNAME .
+*.betsson.mx CNAME .
 betway.mx CNAME .
 *.betway.mx CNAME .
 bigbola.mx CNAME .
@@ -335842,6 +335902,10 @@ melbet-casinos.net CNAME .
 *.melbet-casinos.net CNAME .
 melbet-giris.net CNAME .
 *.melbet-giris.net CNAME .
+melbetbd.net CNAME .
+*.melbetbd.net CNAME .
+melbetethiopia.net CNAME .
+*.melbetethiopia.net CNAME .
 melbetso.net CNAME .
 *.melbetso.net CNAME .
 mellstroy.net CNAME .
@@ -341064,6 +341128,8 @@ haha777.network CNAME .
 *.haha777.network CNAME .
 joycasino.network CNAME .
 *.joycasino.network CNAME .
+melbet.network CNAME .
+*.melbet.network CNAME .
 vulcan-casino.network CNAME .
 *.vulcan-casino.network CNAME .
 696.news CNAME .
@@ -348916,6 +348982,8 @@ joefortune.ooo CNAME .
 *.99ltd.org CNAME .
 99mb.org CNAME .
 *.99mb.org CNAME .
+99o.org CNAME .
+*.99o.org CNAME .
 9aucasino.org CNAME .
 *.9aucasino.org CNAME .
 9gameslot.org CNAME .
@@ -354336,6 +354404,8 @@ melbet-casino.org CNAME .
 *.melbet-casino.org CNAME .
 melbet-casinos.org CNAME .
 *.melbet-casinos.org CNAME .
+melbet-mongolia.org CNAME .
+*.melbet-mongolia.org CNAME .
 melbet-pk.org CNAME .
 *.melbet-pk.org CNAME .
 melbet-ua.org CNAME .
@@ -406136,6 +406206,8 @@ macacohipico.com.ve CNAME .
 *.macacohipico.com.ve CNAME .
 melbet.com.ve CNAME .
 *.melbet.com.ve CNAME .
+melbetregistration.com.ve CNAME .
+*.melbetregistration.com.ve CNAME .
 miparley.com.ve CNAME .
 *.miparley.com.ve CNAME .
 mobilecasinorank.com.ve CNAME .
@@ -406156,10 +406228,16 @@ superhipicos.com.ve CNAME .
 *.superhipicos.com.ve CNAME .
 tra.com.ve CNAME .
 *.tra.com.ve CNAME .
+tripleplay.com.ve CNAME .
+*.tripleplay.com.ve CNAME .
 test.triples.com.ve CNAME .
 *.test.triples.com.ve CNAME .
 triunfobet.com.ve CNAME .
 *.triunfobet.com.ve CNAME .
+tuanimalito.com.ve CNAME .
+*.tuanimalito.com.ve CNAME .
+tuazar.com.ve CNAME .
+*.tuazar.com.ve CNAME .
 tuchance.com.ve CNAME .
 *.tuchance.com.ve CNAME .
 inh.gob.ve CNAME .
@@ -419798,6 +419876,8 @@ cardsmania.xyz CNAME .
 *.cardsmania.xyz CNAME .
 carisenang.xyz CNAME .
 *.carisenang.xyz CNAME .
+carrerasamericanas.xyz CNAME .
+*.carrerasamericanas.xyz CNAME .
 cash-boostwincasino.xyz CNAME .
 *.cash-boostwincasino.xyz CNAME .
 casher-casino.xyz CNAME .

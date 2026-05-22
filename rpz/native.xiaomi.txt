@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778087460 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779470340 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Xiaomi Tracker DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 May 2026 17:11 UTC
-; Version: 2026.0506.1711.29
+; Last modified: 22 May 2026 17:19 UTC
+; Version: 2026.0522.1719.02
 ; Syntax: RPZ
 ; Number of entries: 706
 ;
