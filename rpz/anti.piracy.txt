@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779469260 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779530280 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 22 May 2026 17:01 UTC
-; Version: 2026.0522.1701.11
+; Last modified: 23 May 2026 09:58 UTC
+; Version: 2026.0523.0958.07
 ; Syntax: RPZ
-; Number of entries: 25818
+; Number of entries: 25820
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -126,6 +126,8 @@ yts.ag CNAME .
 *.yts.ag CNAME .
 9kmovies.agency CNAME .
 *.9kmovies.agency CNAME .
+allmovieshub.agency CNAME .
+*.allmovieshub.agency CNAME .
 altadefinizione.agency CNAME .
 *.altadefinizione.agency CNAME .
 cineblog01.agency CNAME .
