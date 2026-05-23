@@ -119,20 +119,7 @@ jobs:
         with:
           url: ${{ steps.purge_urls.outputs.urls }}
           attempts: 5
-
-  stale:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: DeMoorJasper/stale@v2.0.1
-      with:
-        repo-token: ${{ github.token }}
-        stale-message: 'This issue has been inactive for 14 days. Please add a comment to keep it open. Otherwise, it will be closed in 7 days.'
-        days-before-stale: 14
-        days-before-close: 7
-        stale-label: 'no-issue-activity'
-        dry-run: 'false'
-    needs: [release, close-issues, relabel-issues]
-        
+          
   release-cleanup:
     runs-on: ubuntu-latest
     steps:
@@ -156,4 +143,4 @@ jobs:
           repository: ${{ github.repository }}
           retain_days: 0
           keep_minimum_runs: 0
-    needs: [release, close-issues, relabel-issues, purge, stale, release-cleanup]
+    needs: [release, close-issues, relabel-issues, purge, release-cleanup]
