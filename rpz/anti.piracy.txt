@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779530280 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779566820 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 23 May 2026 09:58 UTC
-; Version: 2026.0523.0958.07
+; Last modified: 23 May 2026 20:07 UTC
+; Version: 2026.0523.2007.29
 ; Syntax: RPZ
-; Number of entries: 25820
+; Number of entries: 25824
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -1956,6 +1956,8 @@ solarmovies.cc CNAME .
 *.solarmovies.cc CNAME .
 streamcenter.cc CNAME .
 *.streamcenter.cc CNAME .
+streamcorner.cc CNAME .
+*.streamcorner.cc CNAME .
 streamingcommunityz.cc CNAME .
 *.streamingcommunityz.cc CNAME .
 streaminggratuit.cc CNAME .
@@ -15122,6 +15124,8 @@ freefireadvance.net CNAME .
 *.freefireadvance.net CNAME .
 freeipstresser.net CNAME .
 *.freeipstresser.net CNAME .
+freemovie-sites.net CNAME .
+*.freemovie-sites.net CNAME .
 freethescene.net CNAME .
 *.freethescene.net CNAME .
 freshmoviestreams.net CNAME .

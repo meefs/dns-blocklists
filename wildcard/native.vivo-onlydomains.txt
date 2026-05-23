@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 May 2026 17:16 UTC
-# Version: 2026.0522.1716.38
+# Last modified: 23 May 2026 20:21 UTC
+# Version: 2026.0523.2021.48
 # Syntax: Domains (without subdomains)
-# Number of entries: 230
+# Number of entries: 231
 #
 vhs.wwstat.com.eo.unicomcdn.com.cn
 az.appstore.vivo.com.cn
@@ -70,6 +70,7 @@ cname-in-apport-stsdk.vivoglobal.com
 cname-in-bom01-nginxpool03.vivoglobal.com
 cname-in-ctdbonrt-stsdk.vivoglobal.com
 cname-sin01-stsdk09.vivoglobal.com
+co-domaincfg.vivoglobal.com
 co-pnrt-stsdk.vivoglobal.com
 co-romsp-unifyconfig.vivoglobal.com
 co-st-sl.vivoglobal.com

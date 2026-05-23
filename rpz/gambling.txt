@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779529980 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779566940 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 23 May 2026 09:53 UTC
-; Version: 2026.0523.0953.43
+; Last modified: 23 May 2026 20:09 UTC
+; Version: 2026.0523.2009.28
 ; Syntax: RPZ
-; Number of entries: 415574
+; Number of entries: 415560
 ;
 1xbet.ac CNAME .
 *.1xbet.ac CNAME .
@@ -15126,10 +15126,6 @@ slots.cafe CNAME .
 *.1xbet-k4z1n0.cam CNAME .
 1xbet-kkv82.cam CNAME .
 *.1xbet-kkv82.cam CNAME .
-1xbet-krq51.cam CNAME .
-*.1xbet-krq51.cam CNAME .
-1xbet-kvi93.cam CNAME .
-*.1xbet-kvi93.cam CNAME .
 1xbet-kwd64.cam CNAME .
 *.1xbet-kwd64.cam CNAME .
 1xbet-kze54.cam CNAME .
@@ -15286,8 +15282,6 @@ slots.cafe CNAME .
 *.1xbet-xlu99.cam CNAME .
 1xbet-xmi87.cam CNAME .
 *.1xbet-xmi87.cam CNAME .
-1xbet-xqn85.cam CNAME .
-*.1xbet-xqn85.cam CNAME .
 1xbet-xsw55.cam CNAME .
 *.1xbet-xsw55.cam CNAME .
 1xbet-xyo24.cam CNAME .
@@ -83750,6 +83744,8 @@ web-377bet-vip-2025-377betcom-377.377-hello.com CNAME .
 *.37idr1.com CNAME .
 37jili.com CNAME .
 *.37jili.com CNAME .
+37kkk.com CNAME .
+*.37kkk.com CNAME .
 37krwin.com CNAME .
 *.37krwin.com CNAME .
 37maoap.com CNAME .
@@ -145122,8 +145118,6 @@ betsytucker.com CNAME .
 *.betsytucker.com CNAME .
 betsyweldy.com CNAME .
 *.betsyweldy.com CNAME .
-betsywilliamson.com CNAME .
-*.betsywilliamson.com CNAME .
 bettakultcha.com CNAME .
 *.bettakultcha.com CNAME .
 bettap.com CNAME .
@@ -147258,8 +147252,6 @@ bitstarzcasinoaccess.com CNAME .
 *.bitstarzcasinoaccess.com CNAME .
 bitstarzcasinoaustralia.com CNAME .
 *.bitstarzcasinoaustralia.com CNAME .
-bitstarzcasinoch.com CNAME .
-*.bitstarzcasinoch.com CNAME .
 bitstarzcasinonz.com CNAME .
 *.bitstarzcasinonz.com CNAME .
 bitstarzcasinosite.com CNAME .
@@ -158440,8 +158432,6 @@ casinocamaple.com CNAME .
 *.casinocamaple.com CNAME .
 casinocamelot.com CNAME .
 *.casinocamelot.com CNAME .
-casinocamera.com CNAME .
-*.casinocamera.com CNAME .
 casinocanada.com CNAME .
 *.casinocanada.com CNAME .
 casinocanada10.com CNAME .
@@ -226594,6 +226584,8 @@ mt68casinovip.com CNAME .
 *.mt68casinovip.com CNAME .
 mt68casinowin.com CNAME .
 *.mt68casinowin.com CNAME .
+mt82.com CNAME .
+*.mt82.com CNAME .
 mtamsal.com CNAME .
 *.mtamsal.com CNAME .
 mtbillsupport.com CNAME .
@@ -323652,8 +323644,6 @@ casino-toto.net CNAME .
 *.casino-toto.net CNAME .
 casino-twindor-polska.net CNAME .
 *.casino-twindor-polska.net CNAME .
-casino-ua.net CNAME .
-*.casino-ua.net CNAME .
 casino-utan-svensk-licens.net CNAME .
 *.casino-utan-svensk-licens.net CNAME .
 casino-utansvensklicens.net CNAME .
@@ -348852,8 +348842,6 @@ redstagcasinologin.org CNAME .
 *.redstagcasinologin.org CNAME .
 redtigercasino.org CNAME .
 *.redtigercasino.org CNAME .
-redwoodempireepc.org CNAME .
-*.redwoodempireepc.org CNAME .
 reefspins-casino.org CNAME .
 *.reefspins-casino.org CNAME .
 reelcasino.org CNAME .
@@ -383934,8 +383922,6 @@ casino770.top CNAME .
 *.casino770.top CNAME .
 casino777.top CNAME .
 *.casino777.top CNAME .
-casino777sports.top CNAME .
-*.casino777sports.top CNAME .
 casino820.top CNAME .
 *.casino820.top CNAME .
 casino888.top CNAME .

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 May 2026 09:58 UTC
-# Version: 2026.0523.0958.07
+# Last modified: 23 May 2026 20:07 UTC
+# Version: 2026.0523.2007.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12910
+# Number of entries: 12912
 #
 local=/hichemtigsetorgy.0fees.net/
 local=/tracker.0x7c0.com/
@@ -5226,6 +5226,7 @@ local=/freeiptvserver.com/
 local=/freeky.to/
 local=/freeline.ws/
 local=/freemediabd.com/
+local=/freemovie-sites.net/
 local=/freemovies.media/
 local=/freemovies360.com/
 local=/freemoviesfull.com/
@@ -10239,6 +10240,7 @@ local=/streamcomplet.io/
 local=/streamcomplet.me/
 local=/streamcomplets.net/
 local=/streamconnect.us/
+local=/streamcorner.cc/
 local=/streamcorner.click/
 local=/streamcouch.com/
 local=/streamdeouf.rip/

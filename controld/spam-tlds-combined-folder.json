@@ -2758,6 +2758,13 @@
       }
     },
     {
+      "PK": "found.center",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "frame.work",
       "action": {
         "do": 1,
@@ -3207,6 +3214,13 @@
     },
     {
       "PK": "guns.lol",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "gurkistan.shop",
       "action": {
         "do": 1,
         "status": 1

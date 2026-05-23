@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 May 2026 17:11 UTC
-# Version: 2026.0522.1711.00
+# Last modified: 23 May 2026 20:16 UTC
+# Version: 2026.0523.2016.20
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 375
+# Number of entries: 376
 #
 local=/c-bingapis-com.dual-a-0034.a-msedge.net/
 local=/measure.office.com.akamaized.net/
@@ -356,6 +356,7 @@ local=/analyticsehnwe.servicebus.windows.net/
 local=/citrixanalyticseh.servicebus.windows.net/
 local=/citrixanalyticseh-alias.servicebus.windows.net/
 local=/citrixanalyticseh2-alias.servicebus.windows.net/
+local=/citrixanalyticseh3.servicebus.windows.net/
 local=/citrixanalyticseh3-alias.servicebus.windows.net/
 local=/citrixanalyticsehaps.servicebus.windows.net/
 local=/citrixanalyticsehaps-alias.servicebus.windows.net/
