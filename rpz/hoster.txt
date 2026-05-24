@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779528120 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779585300 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 23 May 2026 09:22 UTC
-; Version: 2026.0523.0922.51
+; Last modified: 24 May 2026 01:15 UTC
+; Version: 2026.0524.0115.57
 ; Syntax: RPZ
-; Number of entries: 2030
+; Number of entries: 2034
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -350,6 +350,8 @@ emyspot.com CNAME .
 *.emyspot.com CNAME .
 enraptureminims.com CNAME .
 *.enraptureminims.com CNAME .
+entekpartners.com CNAME .
+*.entekpartners.com CNAME .
 enterprisedeliveries.com CNAME .
 *.enterprisedeliveries.com CNAME .
 epizy.com CNAME .
@@ -1100,6 +1102,8 @@ blogspot.fr CNAME .
 *.blogspot.fr CNAME .
 de.gd CNAME .
 *.de.gd CNAME .
+gamer.gd CNAME .
+*.gamer.gd CNAME .
 page.gd CNAME .
 *.page.gd CNAME .
 rf.gd CNAME .

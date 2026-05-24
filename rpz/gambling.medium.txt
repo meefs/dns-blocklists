@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779567060 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779587340 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - medium version
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 23 May 2026 20:11 UTC
-; Version: 2026.0523.2011.28
+; Last modified: 24 May 2026 01:49 UTC
+; Version: 2026.0524.0149.56
 ; Syntax: RPZ
-; Number of entries: 186348
+; Number of entries: 186350
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -181754,6 +181754,8 @@ up777.vip CNAME .
 *.up777.vip CNAME .
 uptown-pokies-casino.vip CNAME .
 *.uptown-pokies-casino.vip CNAME .
+uptownpokies.vip CNAME .
+*.uptownpokies.vip CNAME .
 uptownpokies-casino.vip CNAME .
 *.uptownpokies-casino.vip CNAME .
 usd111.vip CNAME .

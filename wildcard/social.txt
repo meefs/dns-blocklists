@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 May 2026 17:03 UTC
-# Version: 2026.0521.1703.10
+# Last modified: 23 May 2026 22:08 UTC
+# Version: 2026.0523.2208.24
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 888
+# Number of entries: 889
 #
 *.2ch.org
 *.4cdn.org
@@ -828,6 +828,7 @@
 *.toot.wales
 *.toplayerserver.com
 *.troet.cafe
+*.truthsocial.com
 *.ttlivecdn.com.c.bytefcdn-oversea.com
 *.ttlivecdn.com
 *.tumblr.com

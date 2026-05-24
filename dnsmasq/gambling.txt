@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 May 2026 20:09 UTC
-# Version: 2026.0523.2009.28
+# Last modified: 24 May 2026 01:47 UTC
+# Version: 2026.0524.0147.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 207780
+# Number of entries: 207781
 #
 local=/vip.039-vip6.com/
 local=/cdnapiif.039casinocdnhd.com/
@@ -190718,6 +190718,7 @@ local=/uptownaces.casino/
 local=/uptownaces.eu/
 local=/uptownacescasino.us/
 local=/uptownpokies.com/
+local=/uptownpokies.vip/
 local=/uptownpokies-casino.online/
 local=/uptownpokies-casino.vip/
 local=/uptownpokiesau.com/

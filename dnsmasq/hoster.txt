@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 May 2026 09:22 UTC
-# Version: 2026.0523.0922.51
+# Last modified: 24 May 2026 01:15 UTC
+# Version: 2026.0524.0115.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1015
+# Number of entries: 1017
 #
 local=/one4u.0lx.net/
 local=/free.bizhat.com/
@@ -383,6 +383,7 @@ local=/elementfx.com/
 local=/emyspot.com/
 local=/english.lc/
 local=/enraptureminims.com/
+local=/entekpartners.com/
 local=/enterprisedeliveries.com/
 local=/envy.nu/
 local=/eo3.de/
@@ -485,6 +486,7 @@ local=/fw.bz/
 local=/fwb4me.us/
 local=/fwh.is/
 local=/game.lc/
+local=/gamer.gd/
 local=/gaming.lc/
 local=/gerentebr.com/
 local=/getenjoyment.net/

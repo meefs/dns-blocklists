@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779382980 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779574080 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Social Networks DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 May 2026 17:03 UTC
-; Version: 2026.0521.1703.10
+; Last modified: 23 May 2026 22:08 UTC
+; Version: 2026.0523.2208.24
 ; Syntax: RPZ
-; Number of entries: 1776
+; Number of entries: 1778
 ;
 masto.ai CNAME .
 *.masto.ai CNAME .
@@ -1040,6 +1040,8 @@ tiktokv.com CNAME .
 *.tiktokv.com CNAME .
 toplayerserver.com CNAME .
 *.toplayerserver.com CNAME .
+truthsocial.com CNAME .
+*.truthsocial.com CNAME .
 ttlivecdn.com CNAME .
 *.ttlivecdn.com CNAME .
 tumblr.com CNAME .
