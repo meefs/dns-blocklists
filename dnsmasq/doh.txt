@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 May 2026 11:44 UTC
-# Version: 2026.0522.1144.20
+# Last modified: 24 May 2026 10:08 UTC
+# Version: 2026.0524.1008.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3431
+# Number of entries: 3413
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -941,13 +941,6 @@ local=/doh-lb-in.dnsflex.com/
 local=/doh-lb-sg.dnsflex.com/
 local=/doh-lb-tr.dnsflex.com/
 local=/dns.dnshome.de/
-local=/a.family.ns.dnslify.com/
-local=/b.family.ns.dnslify.com/
-local=/a.safe.ns.dnslify.com/
-local=/b.safe.ns.dnslify.com/
-local=/a.ns.dnslify.com/
-local=/b.ns.dnslify.com/
-local=/doh.dnslify.com/
 local=/dns.dnsoverhttps.net/
 local=/adguard2.dnsovertor.cc/
 local=/chuncheon.dnsovertor.cc/
@@ -1033,7 +1026,6 @@ local=/rcpc2.duckdns.org/
 local=/rexdns.duckdns.org/
 local=/sabeendns.duckdns.org/
 local=/salvadoserver.duckdns.org/
-local=/site-2.duckdns.org/
 local=/site-3.duckdns.org/
 local=/soporte-premium.duckdns.org/
 local=/surviil.duckdns.org/
@@ -1041,7 +1033,6 @@ local=/thaibksri.duckdns.org/
 local=/theadblocksg.duckdns.org/
 local=/ts653d.duckdns.org/
 local=/tuandns.duckdns.org/
-local=/tungdnsne.duckdns.org/
 local=/unixfox.duckdns.org/
 local=/wired-guardian.duckdns.org/
 local=/workcavestl.duckdns.org/
@@ -1058,7 +1049,6 @@ local=/adguard.ekhozie.dynu.net/
 local=/ccadguard.dynu.net/
 local=/flyloadguard.dynu.net/
 local=/quangdo92.dynu.net/
-local=/saomai.dynu.com/
 local=/adg.dz.ax/
 local=/az.dz4fun.top/
 local=/dns.dzkji.cn/
@@ -1175,7 +1165,6 @@ local=/dns.farshidhakimy.de/
 local=/dns.farshmc.ru/
 local=/adh.fastpacefixit.info/
 local=/adguardhome.favrep.ovh/
-local=/dns.faze.dev/
 local=/ns0.fdn.fr/
 local=/ns1.fdn.fr/
 local=/agh.feblab.click/
@@ -1257,6 +1246,7 @@ local=/ablock.fuckit.ovh/
 local=/dns.fulgore.fr/
 local=/doh.funil.de/
 local=/doh.funtopia.tv/
+local=/dns.furrix.zone/
 local=/dns.furrydns.de/
 local=/doh.futa.app/
 local=/doh.futa.gg/
@@ -1630,7 +1620,6 @@ local=/dns.k3nny.fr/
 local=/agh.kacike.cl/
 local=/adguard.kalyanmudumby.com/
 local=/dns.kamilszczepanski.com/
-local=/jp.kano.sh/
 local=/dns.kapite.in/
 local=/dns.kapoww.tk/
 local=/dns.karadag.me/
@@ -1809,7 +1798,6 @@ local=/extra.mask.ad/
 local=/standard.mask.ad/
 local=/doh.maskab.com/
 local=/dns.mateo.ovh/
-local=/dns.mathewakhil.online/
 local=/rasp.matthias-iwer.de/
 local=/dns.matthias-prost.com/
 local=/dns.maybe.icu/
@@ -1844,7 +1832,6 @@ local=/next.miao.ninja/
 local=/dns.michelo.cl/
 local=/ss.microbaidu.com/
 local=/doh.micronets.in/
-local=/dns.midping.ir/
 local=/dns.mihalcea.eu/
 local=/agh.mihanentalpo.me/
 local=/dns.mihanentalpo.me/
@@ -2617,7 +2604,6 @@ local=/dns-br.leonardo.tec.br/
 local=/dns.techcpu.net/
 local=/dns1.techeasy.org/
 local=/adguard.techlike.in/
-local=/vpn.technicule.info/
 local=/dns1.techniverse.net/
 local=/doh.technochat.in/
 local=/dns.technologycage.com/
@@ -2637,8 +2623,6 @@ local=/agh.srv.tenete.net/
 local=/iana.tenta.io/
 local=/opennic.tenta.io/
 local=/ag.teqilla.tk/
-local=/tx.teradns.org/
-local=/uk.teradns.org/
 local=/apne1.dns.terumi.club/
 local=/dns.soldier.terumi.club/
 local=/dns.tesem.dog/
@@ -2754,7 +2738,6 @@ local=/adguard.vegann.space/
 local=/dns.veikus.com/
 local=/dns.vemo.cc/
 local=/dns.venclous.org/
-local=/securedns.vendorvista.xyz/
 local=/ad.viet.date/
 local=/dns.vietdns.vn/
 local=/kids.vietdns.vn/
@@ -3399,7 +3382,6 @@ local=/villalazza.stream/
 local=/vladpro.ru/
 local=/vorlif.org/
 local=/vpnhellings.nl/
-local=/vtcuong.site/
 local=/vuivn.site/
 local=/wallpap.eu/
 local=/wantaquddin.com/

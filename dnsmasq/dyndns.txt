@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 May 2026 16:59 UTC
-# Version: 2026.0519.1659.22
+# Last modified: 24 May 2026 10:07 UTC
+# Version: 2026.0524.1007.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1491
+# Number of entries: 1490
 #
 local=/dyn.addr.tools/
 local=/changeip.co.uk/
@@ -118,7 +118,6 @@ local=/authorizeddns.org/
 local=/authorizeddns.us/
 local=/autoipset.com/
 local=/avandns.com/
-local=/awiki.org/
 local=/ax.lt/
 local=/b0tnet.com/
 local=/b33r.us/

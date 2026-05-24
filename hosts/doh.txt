@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 May 2026 11:44 UTC
-# Version: 2026.0522.1144.20
+# Last modified: 24 May 2026 10:08 UTC
+# Version: 2026.0524.1008.30
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3892
+# Number of entries: 3872
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1082,8 +1082,6 @@
 0.0.0.0 srv04.dns64.de
 0.0.0.0 dns8.org
 0.0.0.0 dnsbunker.org
-0.0.0.0 alpha.dnsbunker.org
-0.0.0.0 bravo.dnsbunker.org
 0.0.0.0 ns1.recursive.dnsbycomodo.com
 0.0.0.0 ns2.recursive.dnsbycomodo.com
 0.0.0.0 2.dnscrypt-cert.shield-2.dnsbycomodo.com
@@ -1271,13 +1269,6 @@
 0.0.0.0 dnsguard.pub
 0.0.0.0 dns.dnsguard.pub
 0.0.0.0 dns.dnshome.de
-0.0.0.0 doh.dnslify.com
-0.0.0.0 a.ns.dnslify.com
-0.0.0.0 b.ns.dnslify.com
-0.0.0.0 a.family.ns.dnslify.com
-0.0.0.0 b.family.ns.dnslify.com
-0.0.0.0 a.safe.ns.dnslify.com
-0.0.0.0 b.safe.ns.dnslify.com
 0.0.0.0 dnslow.me
 0.0.0.0 dns.dnsoverhttps.net
 0.0.0.0 adguard2.dnsovertor.cc
@@ -1425,7 +1416,6 @@
 0.0.0.0 rexdns.duckdns.org
 0.0.0.0 sabeendns.duckdns.org
 0.0.0.0 salvadoserver.duckdns.org
-0.0.0.0 site-2.duckdns.org
 0.0.0.0 site-3.duckdns.org
 0.0.0.0 soporte-premium.duckdns.org
 0.0.0.0 surviil.duckdns.org
@@ -1433,7 +1423,6 @@
 0.0.0.0 theadblocksg.duckdns.org
 0.0.0.0 ts653d.duckdns.org
 0.0.0.0 tuandns.duckdns.org
-0.0.0.0 tungdnsne.duckdns.org
 0.0.0.0 unixfox.duckdns.org
 0.0.0.0 wired-guardian.duckdns.org
 0.0.0.0 workcavestl.duckdns.org
@@ -1456,7 +1445,6 @@
 0.0.0.0 adguard.ekhozie.dynu.net
 0.0.0.0 flyloadguard.dynu.net
 0.0.0.0 quangdo92.dynu.net
-0.0.0.0 saomai.dynu.com
 0.0.0.0 adg.dz.ax
 0.0.0.0 az.dz4fun.top
 0.0.0.0 dns.dzkji.cn
@@ -1596,7 +1584,6 @@
 0.0.0.0 dns.farshmc.ru
 0.0.0.0 adh.fastpacefixit.info
 0.0.0.0 adguardhome.favrep.ovh
-0.0.0.0 dns.faze.dev
 0.0.0.0 ns0.fdn.fr
 0.0.0.0 ns1.fdn.fr
 0.0.0.0 agh.feblab.click
@@ -1687,6 +1674,7 @@
 0.0.0.0 funti.cc
 0.0.0.0 funtikspb.ru
 0.0.0.0 doh.funtopia.tv
+0.0.0.0 dns.furrix.zone
 0.0.0.0 dns.furrydns.de
 0.0.0.0 furrytech.io
 0.0.0.0 doh.futa.app
@@ -2191,7 +2179,6 @@
 0.0.0.0 kallemarc.de
 0.0.0.0 adguard.kalyanmudumby.com
 0.0.0.0 dns.kamilszczepanski.com
-0.0.0.0 jp.kano.sh
 0.0.0.0 dns.kapite.in
 0.0.0.0 dns.kapoww.tk
 0.0.0.0 dns.karadag.me
@@ -2422,7 +2409,6 @@
 0.0.0.0 masters-of-cloud.de
 0.0.0.0 www.masters-of-cloud.de
 0.0.0.0 dns.mateo.ovh
-0.0.0.0 dns.mathewakhil.online
 0.0.0.0 rasp.matthias-iwer.de
 0.0.0.0 dns.matthias-prost.com
 0.0.0.0 maxfong.cc
@@ -2465,7 +2451,6 @@
 0.0.0.0 dns.michelo.cl
 0.0.0.0 ss.microbaidu.com
 0.0.0.0 doh.micronets.in
-0.0.0.0 dns.midping.ir
 0.0.0.0 dns.mihalcea.eu
 0.0.0.0 agh.mihanentalpo.me
 0.0.0.0 dns.mihanentalpo.me
@@ -3453,7 +3438,6 @@
 0.0.0.0 dns.techcpu.net
 0.0.0.0 dns1.techeasy.org
 0.0.0.0 adguard.techlike.in
-0.0.0.0 vpn.technicule.info
 0.0.0.0 dns1.techniverse.net
 0.0.0.0 doh.technochat.in
 0.0.0.0 dns.technologycage.com
@@ -3477,8 +3461,6 @@
 0.0.0.0 iana.tenta.io
 0.0.0.0 opennic.tenta.io
 0.0.0.0 ag.teqilla.tk
-0.0.0.0 tx.teradns.org
-0.0.0.0 uk.teradns.org
 0.0.0.0 apne1.dns.terumi.club
 0.0.0.0 dns.soldier.terumi.club
 0.0.0.0 dns.tesem.dog
@@ -3639,7 +3621,6 @@
 0.0.0.0 dns.veikus.com
 0.0.0.0 dns.vemo.cc
 0.0.0.0 dns.venclous.org
-0.0.0.0 securedns.vendorvista.xyz
 0.0.0.0 veraris.online
 0.0.0.0 vernikpro.ru
 0.0.0.0 ad.viet.date
@@ -3682,7 +3663,6 @@
 0.0.0.0 vpnhellings.nl
 0.0.0.0 www.vpnhellings.nl
 0.0.0.0 dns.vps.pw
-0.0.0.0 vtcuong.site
 0.0.0.0 vuivn.site
 0.0.0.0 ns1.vuivn.site
 0.0.0.0 ns2.vuivn.site

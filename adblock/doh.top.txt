@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 22 May 2026 11:44 UTC
-! Version: 2026.0522.1144.52
+! Last modified: 24 May 2026 10:09 UTC
+! Version: 2026.0524.1009.02
 ! Syntax: AdBlock
-! Number of entries: 3369
+! Number of entries: 3352
 !
 ||ss.0001.xyz^
 ||ns.00dani.me^
@@ -926,13 +926,6 @@
 ||doh-lb-sg.dnsflex.com^
 ||doh-lb-tr.dnsflex.com^
 ||dns.dnshome.de^
-||a.family.ns.dnslify.com^
-||b.family.ns.dnslify.com^
-||a.safe.ns.dnslify.com^
-||b.safe.ns.dnslify.com^
-||a.ns.dnslify.com^
-||b.ns.dnslify.com^
-||doh.dnslify.com^
 ||dns.dnsoverhttps.net^
 ||adguard2.dnsovertor.cc^
 ||chuncheon.dnsovertor.cc^
@@ -1016,7 +1009,6 @@
 ||rexdns.duckdns.org^
 ||sabeendns.duckdns.org^
 ||salvadoserver.duckdns.org^
-||site-2.duckdns.org^
 ||site-3.duckdns.org^
 ||soporte-premium.duckdns.org^
 ||surviil.duckdns.org^
@@ -1024,7 +1016,6 @@
 ||theadblocksg.duckdns.org^
 ||ts653d.duckdns.org^
 ||tuandns.duckdns.org^
-||tungdnsne.duckdns.org^
 ||unixfox.duckdns.org^
 ||wired-guardian.duckdns.org^
 ||workcavestl.duckdns.org^
@@ -1041,7 +1032,6 @@
 ||ccadguard.dynu.net^
 ||flyloadguard.dynu.net^
 ||quangdo92.dynu.net^
-||saomai.dynu.com^
 ||adg.dz.ax^
 ||az.dz4fun.top^
 ||dns.dzkji.cn^
@@ -1156,7 +1146,6 @@
 ||dns.farshmc.ru^
 ||adh.fastpacefixit.info^
 ||adguardhome.favrep.ovh^
-||dns.faze.dev^
 ||ns0.fdn.fr^
 ||ns1.fdn.fr^
 ||agh.feblab.click^
@@ -1234,6 +1223,7 @@
 ||dns.fulgore.fr^
 ||doh.funil.de^
 ||doh.funtopia.tv^
+||dns.furrix.zone^
 ||dns.furrydns.de^
 ||doh.futa.app^
 ||doh.futa.gg^
@@ -1775,7 +1765,6 @@
 ||standard.mask.ad^
 ||doh.maskab.com^
 ||dns.mateo.ovh^
-||dns.mathewakhil.online^
 ||rasp.matthias-iwer.de^
 ||dns.matthias-prost.com^
 ||dns.maybe.icu^
@@ -1809,7 +1798,6 @@
 ||next.miao.ninja^
 ||dns.michelo.cl^
 ||ss.microbaidu.com^
-||dns.midping.ir^
 ||dns.mihalcea.eu^
 ||agh.mihanentalpo.me^
 ||dns.mihanentalpo.me^
@@ -2567,7 +2555,6 @@
 ||dns.techcpu.net^
 ||dns1.techeasy.org^
 ||adguard.techlike.in^
-||vpn.technicule.info^
 ||dns1.techniverse.net^
 ||doh.technochat.in^
 ||dns.technologycage.com^
@@ -2587,8 +2574,6 @@
 ||iana.tenta.io^
 ||opennic.tenta.io^
 ||ag.teqilla.tk^
-||tx.teradns.org^
-||uk.teradns.org^
 ||apne1.dns.terumi.club^
 ||dns.soldier.terumi.club^
 ||dns.tesem.dog^
@@ -2704,7 +2689,6 @@
 ||dns.veikus.com^
 ||dns.vemo.cc^
 ||dns.venclous.org^
-||securedns.vendorvista.xyz^
 ||ad.viet.date^
 ||dns.vietdns.vn^
 ||kids.vietdns.vn^
@@ -3338,7 +3322,6 @@
 ||vladpro.ru^
 ||vorlif.org^
 ||vpnhellings.nl^
-||vtcuong.site^
 ||vuivn.site^
 ||wallpap.eu^
 ||wantaquddin.com^

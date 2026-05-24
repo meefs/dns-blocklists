@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 May 2026 11:44 UTC
-# Version: 2026.0522.1144.20
+# Last modified: 24 May 2026 10:08 UTC
+# Version: 2026.0524.1008.30
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3892
+# Number of entries: 3872
 #
 ss.0001.xyz
 003153.xyz
@@ -1082,8 +1082,6 @@ srv03.dns64.de
 srv04.dns64.de
 dns8.org
 dnsbunker.org
-alpha.dnsbunker.org
-bravo.dnsbunker.org
 ns1.recursive.dnsbycomodo.com
 ns2.recursive.dnsbycomodo.com
 2.dnscrypt-cert.shield-2.dnsbycomodo.com
@@ -1271,13 +1269,6 @@ www.dnsforge.de
 dnsguard.pub
 dns.dnsguard.pub
 dns.dnshome.de
-doh.dnslify.com
-a.ns.dnslify.com
-b.ns.dnslify.com
-a.family.ns.dnslify.com
-b.family.ns.dnslify.com
-a.safe.ns.dnslify.com
-b.safe.ns.dnslify.com
 dnslow.me
 dns.dnsoverhttps.net
 adguard2.dnsovertor.cc
@@ -1425,7 +1416,6 @@ rcpc2.duckdns.org
 rexdns.duckdns.org
 sabeendns.duckdns.org
 salvadoserver.duckdns.org
-site-2.duckdns.org
 site-3.duckdns.org
 soporte-premium.duckdns.org
 surviil.duckdns.org
@@ -1433,7 +1423,6 @@ thaibksri.duckdns.org
 theadblocksg.duckdns.org
 ts653d.duckdns.org
 tuandns.duckdns.org
-tungdnsne.duckdns.org
 unixfox.duckdns.org
 wired-guardian.duckdns.org
 workcavestl.duckdns.org
@@ -1456,7 +1445,6 @@ ccadguard.dynu.net
 adguard.ekhozie.dynu.net
 flyloadguard.dynu.net
 quangdo92.dynu.net
-saomai.dynu.com
 adg.dz.ax
 az.dz4fun.top
 dns.dzkji.cn
@@ -1596,7 +1584,6 @@ dns.farshidhakimy.de
 dns.farshmc.ru
 adh.fastpacefixit.info
 adguardhome.favrep.ovh
-dns.faze.dev
 ns0.fdn.fr
 ns1.fdn.fr
 agh.feblab.click
@@ -1687,6 +1674,7 @@ doh.funil.de
 funti.cc
 funtikspb.ru
 doh.funtopia.tv
+dns.furrix.zone
 dns.furrydns.de
 furrytech.io
 doh.futa.app
@@ -2191,7 +2179,6 @@ kaiwu.xyz
 kallemarc.de
 adguard.kalyanmudumby.com
 dns.kamilszczepanski.com
-jp.kano.sh
 dns.kapite.in
 dns.kapoww.tk
 dns.karadag.me
@@ -2422,7 +2409,6 @@ mastergad.me
 masters-of-cloud.de
 www.masters-of-cloud.de
 dns.mateo.ovh
-dns.mathewakhil.online
 rasp.matthias-iwer.de
 dns.matthias-prost.com
 maxfong.cc
@@ -2465,7 +2451,6 @@ next.miao.ninja
 dns.michelo.cl
 ss.microbaidu.com
 doh.micronets.in
-dns.midping.ir
 dns.mihalcea.eu
 agh.mihanentalpo.me
 dns.mihanentalpo.me
@@ -3453,7 +3438,6 @@ tecdrive.site
 dns.techcpu.net
 dns1.techeasy.org
 adguard.techlike.in
-vpn.technicule.info
 dns1.techniverse.net
 doh.technochat.in
 dns.technologycage.com
@@ -3477,8 +3461,6 @@ agh.srv.tenete.net
 iana.tenta.io
 opennic.tenta.io
 ag.teqilla.tk
-tx.teradns.org
-uk.teradns.org
 apne1.dns.terumi.club
 dns.soldier.terumi.club
 dns.tesem.dog
@@ -3639,7 +3621,6 @@ adguard.vegann.space
 dns.veikus.com
 dns.vemo.cc
 dns.venclous.org
-securedns.vendorvista.xyz
 veraris.online
 vernikpro.ru
 ad.viet.date
@@ -3682,7 +3663,6 @@ killads.vpms.xyz
 vpnhellings.nl
 www.vpnhellings.nl
 dns.vps.pw
-vtcuong.site
 vuivn.site
 ns1.vuivn.site
 ns2.vuivn.site

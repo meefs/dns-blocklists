@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779450240 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779617280 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 22 May 2026 11:44 UTC
-; Version: 2026.0522.1144.20
+; Last modified: 24 May 2026 10:08 UTC
+; Version: 2026.0524.1008.30
 ; Syntax: RPZ
-; Number of entries: 6862
+; Number of entries: 6826
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -971,20 +971,6 @@ doh-lb-tr.dnsflex.com CNAME .
 *.doh-lb-tr.dnsflex.com CNAME .
 dnsforfamily.com CNAME .
 *.dnsforfamily.com CNAME .
-doh.dnslify.com CNAME .
-*.doh.dnslify.com CNAME .
-a.ns.dnslify.com CNAME .
-*.a.ns.dnslify.com CNAME .
-b.ns.dnslify.com CNAME .
-*.b.ns.dnslify.com CNAME .
-a.family.ns.dnslify.com CNAME .
-*.a.family.ns.dnslify.com CNAME .
-b.family.ns.dnslify.com CNAME .
-*.b.family.ns.dnslify.com CNAME .
-a.safe.ns.dnslify.com CNAME .
-*.a.safe.ns.dnslify.com CNAME .
-b.safe.ns.dnslify.com CNAME .
-*.b.safe.ns.dnslify.com CNAME .
 dnspod.com CNAME .
 *.dnspod.com CNAME .
 adblock-dot.dnswarden.com CNAME .
@@ -1031,8 +1017,6 @@ roucious.dyndns-remote.com CNAME .
 *.roucious.dyndns-remote.com CNAME .
 rafi.dynns.com CNAME .
 *.rafi.dynns.com CNAME .
-saomai.dynu.com CNAME .
-*.saomai.dynu.com CNAME .
 safe.eaccelera.com CNAME .
 *.safe.eaccelera.com CNAME .
 easyhandshake.com CNAME .
@@ -2273,8 +2257,6 @@ dns.edison42.dev CNAME .
 *.dns.edison42.dev CNAME .
 ejaysss.dev CNAME .
 *.ejaysss.dev CNAME .
-dns.faze.dev CNAME .
-*.dns.faze.dev CNAME .
 dns.hanahira.dev CNAME .
 *.dns.hanahira.dev CNAME .
 adg.herry.dev CNAME .
@@ -3051,8 +3033,6 @@ selsby.info CNAME .
 *.selsby.info CNAME .
 gr.skrsteam.info CNAME .
 *.gr.skrsteam.info CNAME .
-vpn.technicule.info CNAME .
-*.vpn.technicule.info CNAME .
 dns.hee.ink CNAME .
 *.dns.hee.ink CNAME .
 pub.hsuan.ink CNAME .
@@ -3191,8 +3171,6 @@ kcolspacrm.ir CNAME .
 *.kcolspacrm.ir CNAME .
 maincloud.ir CNAME .
 *.maincloud.ir CNAME .
-dns.midping.ir CNAME .
-*.dns.midping.ir CNAME .
 adguard.nostaloogia.ir CNAME .
 *.adguard.nostaloogia.ir CNAME .
 dns.sbstructure.ir CNAME .
@@ -4575,8 +4553,6 @@ dns.mahiro.online CNAME .
 *.dns.mahiro.online CNAME .
 ddns.martinmore.online CNAME .
 *.ddns.martinmore.online CNAME .
-dns.mathewakhil.online CNAME .
-*.dns.mathewakhil.online CNAME .
 dns.mymachinepanda.online CNAME .
 *.dns.mymachinepanda.online CNAME .
 n8nmegapixar.online CNAME .
@@ -4747,8 +4723,6 @@ sabeendns.duckdns.org CNAME .
 *.sabeendns.duckdns.org CNAME .
 salvadoserver.duckdns.org CNAME .
 *.salvadoserver.duckdns.org CNAME .
-site-2.duckdns.org CNAME .
-*.site-2.duckdns.org CNAME .
 site-3.duckdns.org CNAME .
 *.site-3.duckdns.org CNAME .
 soporte-premium.duckdns.org CNAME .
@@ -4763,8 +4737,6 @@ ts653d.duckdns.org CNAME .
 *.ts653d.duckdns.org CNAME .
 tuandns.duckdns.org CNAME .
 *.tuandns.duckdns.org CNAME .
-tungdnsne.duckdns.org CNAME .
-*.tungdnsne.duckdns.org CNAME .
 unixfox.duckdns.org CNAME .
 *.unixfox.duckdns.org CNAME .
 wired-guardian.duckdns.org CNAME .
@@ -5011,10 +4983,6 @@ dn5.talesam.org CNAME .
 *.dn5.talesam.org CNAME .
 dns1.techeasy.org CNAME .
 *.dns1.techeasy.org CNAME .
-tx.teradns.org CNAME .
-*.tx.teradns.org CNAME .
-uk.teradns.org CNAME .
-*.uk.teradns.org CNAME .
 dns.thebuckners.org CNAME .
 *.dns.thebuckners.org CNAME .
 yh.themcgoughs.org CNAME .
@@ -5917,8 +5885,6 @@ adguard.netmasc.services CNAME .
 *.adguard.netmasc.services CNAME .
 dns.9999.sg CNAME .
 *.dns.9999.sg CNAME .
-jp.kano.sh CNAME .
-*.jp.kano.sh CNAME .
 dns.moog.sh CNAME .
 *.dns.moog.sh CNAME .
 dns.rin.sh CNAME .
@@ -5969,8 +5935,6 @@ agha.sunryu.site CNAME .
 *.agha.sunryu.site CNAME .
 tecdrive.site CNAME .
 *.tecdrive.site CNAME .
-vtcuong.site CNAME .
-*.vtcuong.site CNAME .
 vuivn.site CNAME .
 *.vuivn.site CNAME .
 dns.levonet.sk CNAME .
@@ -6841,8 +6805,6 @@ dns.usualposts.xyz CNAME .
 *.dns.usualposts.xyz CNAME .
 dns.vaioswolke.xyz CNAME .
 *.dns.vaioswolke.xyz CNAME .
-securedns.vendorvista.xyz CNAME .
-*.securedns.vendorvista.xyz CNAME .
 dns.vinnyp.xyz CNAME .
 *.dns.vinnyp.xyz CNAME .
 dns.vip-kingstore.xyz CNAME .
@@ -6877,3 +6839,5 @@ paulo.nom.za CNAME .
 *.paulo.nom.za CNAME .
 dns.froth.zone CNAME .
 *.dns.froth.zone CNAME .
+dns.furrix.zone CNAME .
+*.dns.furrix.zone CNAME .
