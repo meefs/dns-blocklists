@@ -5,10 +5,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 24 May 2026 08:41 UTC
-! Version: 2026.0524.0841.00
+! Last modified: 24 May 2026 16:29 UTC
+! Version: 2026.0524.1629.56
 ! Syntax: AdBlock
-! Number of entries: 1388
+! Number of entries: 1387
 !
 ||l.1mp.ru^
 ||links.2ns.fi^
@@ -501,7 +501,6 @@
 ||click.chp.kohls.com^
 ||click.s.kohls.com^
 ||click.e.krogermail.com^
-||apiservices.krxd.net^
 ||r.lafamo.com^
 ||click.landsend.com^
 ||pxl.leads.su^

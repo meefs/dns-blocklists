@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779616920 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779641580 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 May 2026 10:02 UTC
-; Version: 2026.0524.1002.42
+; Last modified: 24 May 2026 16:53 UTC
+; Version: 2026.0524.1653.19
 ; Syntax: RPZ
-; Number of entries: 25530
+; Number of entries: 25552
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -1252,6 +1252,8 @@ tanti-film.bond CNAME .
 *.tanti-film.bond CNAME .
 thepiratebay.bond CNAME .
 *.thepiratebay.bond CNAME .
+vegamovles.bond CNAME .
+*.vegamovles.bond CNAME .
 cineblog01.boo CNAME .
 *.cineblog01.boo CNAME .
 coflix.boo CNAME .
@@ -2052,6 +2054,8 @@ vegamovies.center CNAME .
 *.vegamovies.center CNAME .
 hdmovie2.ceo CNAME .
 *.hdmovie2.ceo CNAME .
+hdmovin2.ceo CNAME .
+*.hdmovin2.ceo CNAME .
 kinox.ceo CNAME .
 *.kinox.ceo CNAME .
 mkvcinemas.ceo CNAME .
@@ -2590,6 +2594,8 @@ uaserial.club CNAME .
 *.uaserial.club CNAME .
 newalbumreleases.unblockit.club CNAME .
 *.newalbumreleases.unblockit.club CNAME .
+vegamovis.club CNAME .
+*.vegamovis.club CNAME .
 vod78d.club CNAME .
 *.vod78d.club CNAME .
 vrpirates.club CNAME .
@@ -5546,8 +5552,12 @@ hdmoviesnxt.com CNAME .
 *.hdmoviesnxt.com CNAME .
 hdmoviespark.com CNAME .
 *.hdmoviespark.com CNAME .
+hdmovif2.com CNAME .
+*.hdmovif2.com CNAME .
 hdmovil2.com CNAME .
 *.hdmovil2.com CNAME .
+hdmovin2.com CNAME .
+*.hdmovin2.com CNAME .
 hdmovit2.com CNAME .
 *.hdmovit2.com CNAME .
 hdrezka-ua.com CNAME .
@@ -9760,6 +9770,8 @@ drive.massgravel.workers.dev CNAME .
 *.drive.massgravel.workers.dev CNAME .
 z-lib.dev CNAME .
 *.z-lib.dev CNAME .
+vegamovies.diamonds CNAME .
+*.vegamovies.diamonds CNAME .
 123moviesfree9.digital CNAME .
 *.123moviesfree9.digital CNAME .
 9anime.digital CNAME .
@@ -10178,6 +10190,8 @@ vegamovies.express CNAME .
 *.vegamovies.express CNAME .
 9kmovies.fail CNAME .
 *.9kmovies.fail CNAME .
+hdmovin2.fail CNAME .
+*.hdmovin2.fail CNAME .
 thepiratebay.fail CNAME .
 *.thepiratebay.fail CNAME .
 vegamovies.fail CNAME .
@@ -10222,6 +10236,8 @@ vegamovies.fans CNAME .
 *.vegamovies.fans CNAME .
 flemmix.farm CNAME .
 *.flemmix.farm CNAME .
+hdmovin2.farm CNAME .
+*.hdmovin2.farm CNAME .
 kinox.farm CNAME .
 *.kinox.farm CNAME .
 moviesmod.farm CNAME .
@@ -10990,6 +11006,8 @@ streaming-community.guru CNAME .
 *.streaming-community.guru CNAME .
 streamingcommunityz.guru CNAME .
 *.streamingcommunityz.guru CNAME .
+vegamoveis.guru CNAME .
+*.vegamoveis.guru CNAME .
 hdmovie2.gy CNAME .
 *.hdmovie2.gy CNAME .
 9kmovies.hair CNAME .
@@ -11892,6 +11910,8 @@ yeyemo.info CNAME .
 *.yeyemo.info CNAME .
 zonestreaming.info CNAME .
 *.zonestreaming.info CNAME .
+hdmovin2.ing CNAME .
+*.hdmovin2.ing CNAME .
 rlsbb.unblockit.ing CNAME .
 *.rlsbb.unblockit.ing CNAME .
 9animetv.ink CNAME .
@@ -12256,6 +12276,8 @@ soft98.ir CNAME .
 *.9kmovies.irish CNAME .
 flemmix.irish CNAME .
 *.flemmix.irish CNAME .
+hdmovin2.irish CNAME .
+*.hdmovin2.irish CNAME .
 streamingcommunityz.irish CNAME .
 *.streamingcommunityz.irish CNAME .
 123movies.is CNAME .

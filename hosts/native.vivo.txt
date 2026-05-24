@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 May 2026 20:21 UTC
-# Version: 2026.0523.2021.48
+# Last modified: 24 May 2026 17:06 UTC
+# Version: 2026.0524.1706.59
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 235
+# Number of entries: 241
 #
 0.0.0.0 vhs.wwstat.com.eo.unicomcdn.com.cn
 0.0.0.0 adlog.vivo.com.cn
@@ -59,7 +59,9 @@
 0.0.0.0 asia-vcode-or.vivoglobal.com
 0.0.0.0 asia-vpushonrt-stsdk.vivoglobal.com
 0.0.0.0 asia-vpushort-stsdk.vivoglobal.com
+0.0.0.0 au-vcode-od.vivoglobal.com
 0.0.0.0 br-p.vivoglobal.com
+0.0.0.0 cl-vcode-od.vivoglobal.com
 0.0.0.0 cname-ali-asia-stsdk.vivoglobal.com
 0.0.0.0 cname-asia-comonrt-stsdk.vivoglobal.com
 0.0.0.0 cname-asia-st-exappupgrade.vivoglobal.com
@@ -138,10 +140,12 @@
 0.0.0.0 kz-ort-stsdk.vivoglobal.com
 0.0.0.0 kz-pnrt-stsdk.vivoglobal.com
 0.0.0.0 kz-prt-stsdk.vivoglobal.com
+0.0.0.0 kz-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 kz-st-exappupgrade.vivoglobal.com
 0.0.0.0 kz-st-sl.vivoglobal.com
 0.0.0.0 kz-st-sysupgrade.vivoglobal.com
 0.0.0.0 kz-stsdk.vivoglobal.com
+0.0.0.0 kz-vcode-api.vivoglobal.com
 0.0.0.0 kz-vcode-od.vivoglobal.com
 0.0.0.0 kz-vcode-or.vivoglobal.com
 0.0.0.0 monitor-stsdk.vivoglobal.com
@@ -188,11 +192,13 @@
 0.0.0.0 ru-vcode-api.vivoglobal.com
 0.0.0.0 ru-vcode-od.vivoglobal.com
 0.0.0.0 ru-vcode-or.vivoglobal.com
+0.0.0.0 sca-cota.vivoglobal.com
 0.0.0.0 sca-domaincfg.vivoglobal.com
 0.0.0.0 sca-err-up.vivoglobal.com
 0.0.0.0 sca-onrt-stsdk.vivoglobal.com
 0.0.0.0 sca-ort-stsdk.vivoglobal.com
 0.0.0.0 sca-p.vivoglobal.com
+0.0.0.0 sca-pnrt-stsdk.vivoglobal.com
 0.0.0.0 sca-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 sca-st-sl.vivoglobal.com
 0.0.0.0 sca-stsdk.vivoglobal.com

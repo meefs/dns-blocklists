@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779567360 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779642120 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Windows/Office Tracker DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 23 May 2026 20:16 UTC
-; Version: 2026.0523.2016.20
+; Last modified: 24 May 2026 17:02 UTC
+; Version: 2026.0524.1702.09
 ; Syntax: RPZ
-; Number of entries: 752
+; Number of entries: 748
 ;
 h4g3z1-native.winoffice.web.app CNAME .
 *.h4g3z1-native.winoffice.web.app CNAME .
@@ -606,8 +606,6 @@ analytics-listener.trafficmanager.net CNAME .
 *.analytics-listener.trafficmanager.net CNAME .
 beacons.trafficmanager.net CNAME .
 *.beacons.trafficmanager.net CNAME .
-bingads.trafficmanager.net CNAME .
-*.bingads.trafficmanager.net CNAME .
 collector-main.trafficmanager.net CNAME .
 *.collector-main.trafficmanager.net CNAME .
 tracker.flightview.com.trafficmanager.net CNAME .
@@ -710,8 +708,6 @@ citrixanalyticseh-alias.servicebus.windows.net CNAME .
 *.citrixanalyticseh-alias.servicebus.windows.net CNAME .
 citrixanalyticseh2-alias.servicebus.windows.net CNAME .
 *.citrixanalyticseh2-alias.servicebus.windows.net CNAME .
-citrixanalyticseh3.servicebus.windows.net CNAME .
-*.citrixanalyticseh3.servicebus.windows.net CNAME .
 citrixanalyticseh3-alias.servicebus.windows.net CNAME .
 *.citrixanalyticseh3-alias.servicebus.windows.net CNAME .
 citrixanalyticsehaps.servicebus.windows.net CNAME .

@@ -372,13 +372,6 @@
       }
     },
     {
-      "PK": "bingads.trafficmanager.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "brc-visio-telemetry.officeapps.live.com",
       "action": {
         "do": 0,
@@ -590,13 +583,6 @@
     },
     {
       "PK": "citrixanalyticseh3-alias.servicebus.windows.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "citrixanalyticseh3.servicebus.windows.net",
       "action": {
         "do": 0,
         "status": 1

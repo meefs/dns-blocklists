@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779612900 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779642600 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 May 2026 08:55 UTC
-; Version: 2026.0524.0855.09
+; Last modified: 24 May 2026 17:10 UTC
+; Version: 2026.0524.1710.49
 ; Syntax: RPZ
-; Number of entries: 31308
+; Number of entries: 31342
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -1290,6 +1290,8 @@ annamodehaus.ch CNAME .
 *.annamodehaus.ch CNAME .
 babybox-schweiz.ch CNAME .
 *.babybox-schweiz.ch CNAME .
+baumgarten.ch CNAME .
+*.baumgarten.ch CNAME .
 bergmann-mode.ch CNAME .
 *.bergmann-mode.ch CNAME .
 bike-in-jenaz.ch CNAME .
@@ -19644,6 +19646,8 @@ aktion-motorrad.de CNAME .
 *.aktion-motorrad.de CNAME .
 aktionheizung.de CNAME .
 *.aktionheizung.de CNAME .
+aktionstag-familie2008.de CNAME .
+*.aktionstag-familie2008.de CNAME .
 aktivabenteuer.de CNAME .
 *.aktivabenteuer.de CNAME .
 store.aktuellerezensionen.de CNAME .
@@ -19756,6 +19760,8 @@ andreaskehrer.de CNAME .
 *.andreaskehrer.de CNAME .
 andreaswerkstatt.de CNAME .
 *.andreaswerkstatt.de CNAME .
+angebote-erstellen.de CNAME .
+*.angebote-erstellen.de CNAME .
 angebote-kauf.de CNAME .
 *.angebote-kauf.de CNAME .
 angenehme.de CNAME .
@@ -20370,6 +20376,8 @@ blumenshopdeutschland.de CNAME .
 *.blumenshopdeutschland.de CNAME .
 blyss-shop.de CNAME .
 *.blyss-shop.de CNAME .
+bmn-online.de CNAME .
+*.bmn-online.de CNAME .
 bmw-bikertreff-bonsberg.de CNAME .
 *.bmw-bikertreff-bonsberg.de CNAME .
 boardss.de CNAME .
@@ -20852,6 +20860,8 @@ csschwindt.de CNAME .
 *.csschwindt.de CNAME .
 cubeu.de CNAME .
 *.cubeu.de CNAME .
+curacaoonlinecasino.de CNAME .
+*.curacaoonlinecasino.de CNAME .
 curvedream.de CNAME .
 *.curvedream.de CNAME .
 cutterfarm.de CNAME .
@@ -21190,6 +21200,8 @@ dinem-tech.de CNAME .
 *.dinem-tech.de CNAME .
 direkt-payout.de CNAME .
 *.direkt-payout.de CNAME .
+direkt-zahlungid.de CNAME .
+*.direkt-zahlungid.de CNAME .
 direktbericht.de CNAME .
 *.direktbericht.de CNAME .
 direktblick.de CNAME .
@@ -21278,6 +21290,8 @@ druckerpratonen.de CNAME .
 *.druckerpratonen.de CNAME .
 druckerzubbehoer.de CNAME .
 *.druckerzubbehoer.de CNAME .
+dsenergieberatung.de CNAME .
+*.dsenergieberatung.de CNAME .
 dsquared2de.de CNAME .
 *.dsquared2de.de CNAME .
 duckflix.de CNAME .
@@ -21348,6 +21362,8 @@ edelmar.de CNAME .
 *.edelmar.de CNAME .
 edelmetall-koeppen.de CNAME .
 *.edelmetall-koeppen.de CNAME .
+edelmetalle-investment-online.de CNAME .
+*.edelmetalle-investment-online.de CNAME .
 edelrhein-metalle.de CNAME .
 *.edelrhein-metalle.de CNAME .
 edelstein-berlin.de CNAME .
@@ -23222,6 +23238,8 @@ jobs-consulting.de CNAME .
 *.jobs-consulting.de CNAME .
 johannis-apotheke-bielefeld.de CNAME .
 *.johannis-apotheke-bielefeld.de CNAME .
+jokery-casino-online.de CNAME .
+*.jokery-casino-online.de CNAME .
 jokerycasino-online.de CNAME .
 *.jokerycasino-online.de CNAME .
 jon-balkanshop.de CNAME .
@@ -23982,6 +24000,8 @@ luxus-berlin.de CNAME .
 *.luxus-berlin.de CNAME .
 m-b-grosshandel.de CNAME .
 *.m-b-grosshandel.de CNAME .
+m-sicherekauf.de CNAME .
+*.m-sicherekauf.de CNAME .
 m3-campus.de CNAME .
 *.m3-campus.de CNAME .
 machineland.de CNAME .
@@ -24102,6 +24122,8 @@ mayoberlin.de CNAME .
 *.mayoberlin.de CNAME .
 mb-hindernisse.de CNAME .
 *.mb-hindernisse.de CNAME .
+mcmoutlet.de CNAME .
+*.mcmoutlet.de CNAME .
 meamarkt.de CNAME .
 *.meamarkt.de CNAME .
 mechtildfiebig.de CNAME .
@@ -24506,6 +24528,8 @@ muttermode.de CNAME .
 *.muttermode.de CNAME .
 muzam.de CNAME .
 *.muzam.de CNAME .
+mvleingarten.de CNAME .
+*.mvleingarten.de CNAME .
 myakkushop.de CNAME .
 *.myakkushop.de CNAME .
 myfitnessdealz.de CNAME .
@@ -24902,6 +24926,8 @@ onlinecasinodeutschliste.de CNAME .
 *.onlinecasinodeutschliste.de CNAME .
 onlinecasinosmitechtgeld.de CNAME .
 *.onlinecasinosmitechtgeld.de CNAME .
+onlinecasinosohneverifizierung.de CNAME .
+*.onlinecasinosohneverifizierung.de CNAME .
 onlinedamen.de CNAME .
 *.onlinedamen.de CNAME .
 onlineindiespiele.de CNAME .
@@ -25720,6 +25746,8 @@ schoeppe-heizoel.de CNAME .
 *.schoeppe-heizoel.de CNAME .
 schoneswetter.de CNAME .
 *.schoneswetter.de CNAME .
+schrebergarten-finden.de CNAME .
+*.schrebergarten-finden.de CNAME .
 schreyer-ra.de CNAME .
 *.schreyer-ra.de CNAME .
 schuhegunstignice.de CNAME .
@@ -27274,6 +27302,8 @@ zoomil.de CNAME .
 *.zoomil.de CNAME .
 zoralia.de CNAME .
 *.zoralia.de CNAME .
+zrhspwerkstatt.de CNAME .
+*.zrhspwerkstatt.de CNAME .
 zubemarkt.de CNAME .
 *.zubemarkt.de CNAME .
 zuedy.de CNAME .
@@ -31012,6 +31042,10 @@ magentaappat.top CNAME .
 *.magentaappat.top CNAME .
 marrbudm.top CNAME .
 *.marrbudm.top CNAME .
+mymedicalshop365.top CNAME .
+*.mymedicalshop365.top CNAME .
+online-closed-gmbh.top CNAME .
+*.online-closed-gmbh.top CNAME .
 optimia.top CNAME .
 *.optimia.top CNAME .
 pavan.top CNAME .

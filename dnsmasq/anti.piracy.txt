@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 May 2026 10:02 UTC
-# Version: 2026.0524.1002.42
+# Last modified: 24 May 2026 16:53 UTC
+# Version: 2026.0524.1653.19
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12765
+# Number of entries: 12776
 #
 local=/hichemtigsetorgy.0fees.net/
 local=/tracker.0x7c0.com/
@@ -6024,8 +6024,15 @@ local=/hdmovieshub.nl/
 local=/hdmoviesnxt.com/
 local=/hdmoviespark.com/
 local=/hdmoviesverse.xyz/
+local=/hdmovif2.com/
 local=/hdmovil.xyz/
 local=/hdmovil2.com/
+local=/hdmovin2.ceo/
+local=/hdmovin2.com/
+local=/hdmovin2.fail/
+local=/hdmovin2.farm/
+local=/hdmovin2.ing/
+local=/hdmovin2.irish/
 local=/hdmovit2.com/
 local=/hdmoviz2.xyz/
 local=/hdo.app/
@@ -11674,6 +11681,7 @@ local=/vedek.pro/
 local=/vediq.fun/
 local=/veev.to/
 local=/veevcdn.co/
+local=/vegamoveis.guru/
 local=/vegamovies.ad/
 local=/vegamovies.ae/
 local=/vegamovies.agency/
@@ -11715,6 +11723,7 @@ local=/vegamovies.cv/
 local=/vegamovies.dad/
 local=/vegamovies.dating/
 local=/vegamovies.degree/
+local=/vegamovies.diamonds/
 local=/vegamovies.directory/
 local=/vegamovies.diy/
 local=/vegamovies.dog/
@@ -11849,6 +11858,8 @@ local=/vegamovies.zip/
 local=/vegamovies6.com/
 local=/vegamoviesa.diy/
 local=/vegamoviesog.site/
+local=/vegamovis.club/
+local=/vegamovles.bond/
 local=/vegamovles.com/
 local=/vegamovles.pics/
 local=/veidtr.com/

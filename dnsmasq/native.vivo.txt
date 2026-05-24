@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 May 2026 20:21 UTC
-# Version: 2026.0523.2021.48
+# Last modified: 24 May 2026 17:06 UTC
+# Version: 2026.0524.1706.59
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 231
+# Number of entries: 237
 #
 local=/vhs.wwstat.com.eo.unicomcdn.com.cn/
 local=/az.appstore.vivo.com.cn/
@@ -60,7 +60,9 @@ local=/asia-vcode-od.vivoglobal.com/
 local=/asia-vcode-or.vivoglobal.com/
 local=/asia-vpushonrt-stsdk.vivoglobal.com/
 local=/asia-vpushort-stsdk.vivoglobal.com/
+local=/au-vcode-od.vivoglobal.com/
 local=/br-p.vivoglobal.com/
+local=/cl-vcode-od.vivoglobal.com/
 local=/cname-ali-asia-stsdk.vivoglobal.com/
 local=/cname-asia-comonrt-stsdk.vivoglobal.com/
 local=/cname-asia-st-exappupgrade.vivoglobal.com/
@@ -139,10 +141,12 @@ local=/kz-onrt-stsdk.vivoglobal.com/
 local=/kz-ort-stsdk.vivoglobal.com/
 local=/kz-pnrt-stsdk.vivoglobal.com/
 local=/kz-prt-stsdk.vivoglobal.com/
+local=/kz-romsp-unifyconfig.vivoglobal.com/
 local=/kz-st-exappupgrade.vivoglobal.com/
 local=/kz-st-sl.vivoglobal.com/
 local=/kz-st-sysupgrade.vivoglobal.com/
 local=/kz-stsdk.vivoglobal.com/
+local=/kz-vcode-api.vivoglobal.com/
 local=/kz-vcode-od.vivoglobal.com/
 local=/kz-vcode-or.vivoglobal.com/
 local=/monitor-stsdk.vivoglobal.com/
@@ -189,11 +193,13 @@ local=/ru-timesync.vivoglobal.com/
 local=/ru-vcode-api.vivoglobal.com/
 local=/ru-vcode-od.vivoglobal.com/
 local=/ru-vcode-or.vivoglobal.com/
+local=/sca-cota.vivoglobal.com/
 local=/sca-domaincfg.vivoglobal.com/
 local=/sca-err-up.vivoglobal.com/
 local=/sca-onrt-stsdk.vivoglobal.com/
 local=/sca-ort-stsdk.vivoglobal.com/
 local=/sca-p.vivoglobal.com/
+local=/sca-pnrt-stsdk.vivoglobal.com/
 local=/sca-romsp-unifyconfig.vivoglobal.com/
 local=/sca-st-sl.vivoglobal.com/
 local=/sca-stsdk.vivoglobal.com/
