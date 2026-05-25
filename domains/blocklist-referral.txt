@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 May 2026 16:29 UTC
-# Version: 2026.0524.1629.56
+# Last modified: 25 May 2026 08:22 UTC
+# Version: 2026.0525.0822.57
 # Syntax: Domains (including possible subdomains)
 # Number of entries: 2030
 #
@@ -455,6 +455,7 @@ seu2.cleverreach.com
 418968.seu2.cleverreach.com
 420624.seu2.cleverreach.com
 423117.seu2.cleverreach.com
+423697.seu2.cleverreach.com
 424055.seu2.cleverreach.com
 426304.seu2.cleverreach.com
 427967.seu2.cleverreach.com
@@ -563,7 +564,6 @@ el2.convertkit-mail.com
 open.convertkit-mail.com
 001881fb.open.convertkit-mail.com
 1accc1c9.open.convertkit-mail.com
-3fcbbe8c.open.convertkit-mail.com
 4d40e5c7.open.convertkit-mail.com
 8534faf0.open.convertkit-mail.com
 86db75f9.open.convertkit-mail.com
@@ -642,6 +642,7 @@ ff42b03a.click.convertkit-mail4.com
 el2.convertkit-mail4.com
 open.convertkit-mail4.com
 011f8976.open.convertkit-mail4.com
+01c8a64a.open.convertkit-mail4.com
 021ccec7.open.convertkit-mail4.com
 035df47c.open.convertkit-mail4.com
 042705c9.open.convertkit-mail4.com
@@ -663,7 +664,9 @@ open.convertkit-mail4.com
 9adb1e69.open.convertkit-mail4.com
 9dd0b3de.open.convertkit-mail4.com
 a01c829f.open.convertkit-mail4.com
+a4d65a79.open.convertkit-mail4.com
 b43d6384.open.convertkit-mail4.com
+b54e0fd7.open.convertkit-mail4.com
 bbdc1d35.open.convertkit-mail4.com
 bc25b130.open.convertkit-mail4.com
 bfe50086.open.convertkit-mail4.com
@@ -809,7 +812,6 @@ suite14.emarsys.net
 suite15.emarsys.net
 suite16.emarsys.net
 suite17.emarsys.net
-suite17-cf.emarsys.net
 suite20.emarsys.net
 suite22.emarsys.net
 suite24.emarsys.net
@@ -833,6 +835,7 @@ suite43.emarsys.net
 suite45.emarsys.net
 suite45-cf.emarsys.net
 suite46.emarsys.net
+suite47-cf.emarsys.net
 suite5.emarsys.net
 suite50.emarsys.net
 suite52.emarsys.net
@@ -891,6 +894,7 @@ bounce.s11.exacttarget.com
 mc.s11.exacttarget.com
 members.s11.exacttarget.com
 view.s11.exacttarget.com
+virt.s11.exacttarget.com
 click.virt.s11.exacttarget.com
 s12.exacttarget.com
 bounce.s12.exacttarget.com
@@ -928,7 +932,6 @@ click.virt.s6.exacttarget.com
 s7.exacttarget.com
 image.s7.exacttarget.com
 inbound.s7.exacttarget.com
-inbound-reply.s7.exacttarget.com
 mc.s7.exacttarget.com
 pages.s7.exacttarget.com
 pub.s7.exacttarget.com
@@ -944,7 +947,6 @@ cdn.eu1.exponea.com
 fis-royalcopenhagen-cdn.exponea.com
 cdn.ftspecialist.exponea.com
 cdn.mie.exponea.com
-neoengage-va-cdn.exponea.com
 cdn.network.exponea.com
 pan-cdn.exponea.com
 puc-cdn.exponea.com
@@ -1118,7 +1120,6 @@ sites.hscoscdn-eu1.net
 27001291.sites.hscoscdn-eu1.net
 27031067.sites.hscoscdn-eu1.net
 27039070.sites.hscoscdn-eu1.net
-27090143.sites.hscoscdn-eu1.net
 5955977.sites.hscoscdn-eu1.net
 7885891.sites.hscoscdn-eu1.net
 group0.sites.hscoscdn-eu1.net
@@ -1581,7 +1582,6 @@ link.mobupps.com
 api-02.moengage.com
 api-03.moengage.com
 api-04.moengage.com
-api-101.moengage.com
 t.emailing.monoprix.fr
 af.mopo.jp
 cj.mplxtms.com

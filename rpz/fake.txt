@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779642600 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779698160 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 May 2026 17:10 UTC
-; Version: 2026.0524.1710.49
+; Last modified: 25 May 2026 08:36 UTC
+; Version: 2026.0525.0836.41
 ; Syntax: RPZ
-; Number of entries: 31342
+; Number of entries: 31346
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -5462,6 +5462,8 @@ dehundegeschaft.com CNAME .
 *.dehundegeschaft.com CNAME .
 deichmannshoe.com CNAME .
 *.deichmannshoe.com CNAME .
+deini.com CNAME .
+*.deini.com CNAME .
 deinmodetrends.com CNAME .
 *.deinmodetrends.com CNAME .
 deinrufretter.com CNAME .
@@ -8334,8 +8336,6 @@ greatescapery.com CNAME .
 *.greatescapery.com CNAME .
 greatestpod.com CNAME .
 *.greatestpod.com CNAME .
-greatpillsshops.com CNAME .
-*.greatpillsshops.com CNAME .
 greattioa.com CNAME .
 *.greattioa.com CNAME .
 greecefarmakeio.com CNAME .
@@ -8718,8 +8718,6 @@ healthlifereport.com CNAME .
 *.healthlifereport.com CNAME .
 healthonlineshop24.com CNAME .
 *.healthonlineshop24.com CNAME .
-healthpillsonline.com CNAME .
-*.healthpillsonline.com CNAME .
 healthroutine.com CNAME .
 *.healthroutine.com CNAME .
 healththrivewith.com CNAME .
@@ -10298,8 +10296,6 @@ kitomagazine.com CNAME .
 *.kitomagazine.com CNAME .
 kitsolairerabais.com CNAME .
 *.kitsolairerabais.com CNAME .
-kiwidrug.com CNAME .
-*.kiwidrug.com CNAME .
 kiwifunk.com CNAME .
 *.kiwifunk.com CNAME .
 kjbeautysalon.com CNAME .
@@ -18528,6 +18524,8 @@ vitanourishhub.com CNAME .
 *.vitanourishhub.com CNAME .
 vivagopro.com CNAME .
 *.vivagopro.com CNAME .
+vivaiacollection.com CNAME .
+*.vivaiacollection.com CNAME .
 vivaiaschuhe.com CNAME .
 *.vivaiaschuhe.com CNAME .
 vivaiaschweiz.com CNAME .
@@ -21784,6 +21782,8 @@ felino-sport.de CNAME .
 *.felino-sport.de CNAME .
 felira.de CNAME .
 *.felira.de CNAME .
+felsquellgarten.de CNAME .
+*.felsquellgarten.de CNAME .
 fembeck-finanzen.de CNAME .
 *.fembeck-finanzen.de CNAME .
 femmefrei.de CNAME .
@@ -24940,6 +24940,8 @@ onrunningoutletdeutschland.de CNAME .
 *.onrunningoutletdeutschland.de CNAME .
 onrunningsoutlet.de CNAME .
 *.onrunningsoutlet.de CNAME .
+oopbuyshop.de CNAME .
+*.oopbuyshop.de CNAME .
 openwatershop.de CNAME .
 *.openwatershop.de CNAME .
 operate-handel.de CNAME .
@@ -29078,6 +29080,8 @@ pharmacy-xl.org CNAME .
 *.pharmacy-xl.org CNAME .
 phmall.org CNAME .
 *.phmall.org CNAME .
+piccu.org CNAME .
+*.piccu.org CNAME .
 pillz888.org CNAME .
 *.pillz888.org CNAME .
 poolslot.org CNAME .

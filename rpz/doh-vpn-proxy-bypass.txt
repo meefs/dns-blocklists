@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779673500 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779702660 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 25 May 2026 01:45 UTC
-; Version: 2026.0525.0145.21
+; Last modified: 25 May 2026 09:51 UTC
+; Version: 2026.0525.0951.52
 ; Syntax: RPZ
-; Number of entries: 34620
+; Number of entries: 34626
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -13801,6 +13801,8 @@ sainttech.spencerbosworth.com CNAME .
 *.sainttech.spencerbosworth.com CNAME .
 spicevpn.com CNAME .
 *.spicevpn.com CNAME .
+www-testus.spiderprx.com CNAME .
+*.www-testus.spiderprx.com CNAME .
 split-tool.com CNAME .
 *.split-tool.com CNAME .
 sports-vpn.com CNAME .
@@ -20475,6 +20477,8 @@ solaxy.live CNAME .
 *.solaxy.live CNAME .
 speedstream.live CNAME .
 *.speedstream.live CNAME .
+tproxyru.live CNAME .
+*.tproxyru.live CNAME .
 turbo-vpn.live CNAME .
 *.turbo-vpn.live CNAME .
 verifica.live CNAME .
@@ -21343,6 +21347,8 @@ speedtopvpn.mom CNAME .
 *.speedtopvpn.mom CNAME .
 telegramvpn.mom CNAME .
 *.telegramvpn.mom CNAME .
+tproxy.mom CNAME .
+*.tproxy.mom CNAME .
 tunnelbearvpn.mom CNAME .
 *.tunnelbearvpn.mom CNAME .
 turbovpn.mom CNAME .

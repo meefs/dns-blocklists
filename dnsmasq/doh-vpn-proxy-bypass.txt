@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 May 2026 01:45 UTC
-# Version: 2026.0525.0145.21
+# Last modified: 25 May 2026 09:51 UTC
+# Version: 2026.0525.0951.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 17310
+# Number of entries: 17313
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -6330,6 +6330,7 @@ local=/doh-01.spectrum.com/
 local=/doh-02.spectrum.com/
 local=/doh-03.spectrum.com/
 local=/sainttech.spencerbosworth.com/
+local=/www-testus.spiderprx.com/
 local=/www-proxy.spin.rip/
 local=/dns.spirio.fr/
 local=/soadfjrksf.lasdkfj.sportconceptmedia.ru/
@@ -15634,6 +15635,8 @@ local=/towctro.cn/
 local=/towersflowerss.com/
 local=/towervpn.com/
 local=/tproxy.ink/
+local=/tproxy.mom/
+local=/tproxyru.live/
 local=/tpymainx01.ru/
 local=/tq8izzzrqtktkdoarptl3u.online/
 local=/tqqzrbjd.com/

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 May 2026 17:10 UTC
-# Version: 2026.0524.1710.49
+# Last modified: 25 May 2026 08:36 UTC
+# Version: 2026.0525.0836.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 15671
+# Number of entries: 15673
 #
 local=/trader.212group.de/
 local=/eu.2bagsvalley.cn/
@@ -3723,6 +3723,7 @@ local=/deinenergieplan.de/
 local=/deinetierliebe.de/
 local=/deinhandwerkershop.de/
 local=/deinheizoel.de/
+local=/deini.com/
 local=/deinliebesmensch.de/
 local=/deinlieblingstier.co/
 local=/deinmodetrends.com/
@@ -5059,6 +5060,7 @@ local=/felgenprada.de/
 local=/felgenwelt.com/
 local=/felino-sport.de/
 local=/felira.de/
+local=/felsquellgarten.de/
 local=/feltbicycleshop.com/
 local=/female-house.com/
 local=/fembeck-finanzen.de/
@@ -6186,7 +6188,6 @@ local=/grazmodehaus.at/
 local=/great-market.com/
 local=/greatescapery.com/
 local=/greatestpod.com/
-local=/greatpillsshops.com/
 local=/greattioa.com/
 local=/greecefarmakeio.com/
 local=/greenbird-shop.com/
@@ -6541,7 +6542,6 @@ local=/healthcarebanker.com/
 local=/healthful-pills.com/
 local=/healthlifereport.com/
 local=/healthonlineshop24.com/
-local=/healthpillsonline.com/
 local=/healthroutine.com/
 local=/healththrivewith.com/
 local=/healthybear.io/
@@ -8050,7 +8050,6 @@ local=/kithery.com/
 local=/kitomagazine.com/
 local=/kitsolairerabais.com/
 local=/kittinis.de/
-local=/kiwidrug.com/
 local=/kiwifunk.com/
 local=/kizaro.de/
 local=/kizwnbbm.shop/
@@ -10684,6 +10683,7 @@ local=/oofos--canada.com/
 local=/oofos-sandals.net/
 local=/oofossingaporestore.com/
 local=/oolongtime.com/
+local=/oopbuyshop.de/
 local=/opabitcoin.com/
 local=/opcte.com/
 local=/openwatershop.de/
@@ -11165,6 +11165,7 @@ local=/physicisti.com/
 local=/phytrix1.com/
 local=/pianidicotturascontato.com/
 local=/pibok.de/
+local=/piccu.org/
 local=/pickleballoffer.com/
 local=/pickledfoodonline.com/
 local=/picom-nfz.de/
@@ -14860,6 +14861,7 @@ local=/vivabikes.de/
 local=/vivagopro.com/
 local=/vivaia-schuhe.de/
 local=/vivaiabuty.pl/
+local=/vivaiacollection.com/
 local=/vivaiaschuhe.at/
 local=/vivaiaschuhe.com/
 local=/vivaiaschuhe.de/

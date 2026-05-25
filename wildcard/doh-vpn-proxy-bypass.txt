@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 May 2026 01:45 UTC
-# Version: 2026.0525.0145.21
+# Last modified: 25 May 2026 09:51 UTC
+# Version: 2026.0525.0951.52
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 17310
+# Number of entries: 17313
 #
 *.ss.0001.xyz
 *.ilovethiswebsite.001-lab.space
@@ -6330,6 +6330,7 @@
 *.doh-02.spectrum.com
 *.doh-03.spectrum.com
 *.sainttech.spencerbosworth.com
+*.www-testus.spiderprx.com
 *.www-proxy.spin.rip
 *.dns.spirio.fr
 *.soadfjrksf.lasdkfj.sportconceptmedia.ru
@@ -15634,6 +15635,8 @@
 *.towersflowerss.com
 *.towervpn.com
 *.tproxy.ink
+*.tproxy.mom
+*.tproxyru.live
 *.tpymainx01.ru
 *.tq8izzzrqtktkdoarptl3u.online
 *.tqqzrbjd.com
