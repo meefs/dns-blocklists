@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 May 2026 09:45 UTC
-# Version: 2026.0525.0945.38
+# Last modified: 25 May 2026 16:54 UTC
+# Version: 2026.0525.1654.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12780
+# Number of entries: 12788
 #
 local=/hichemtigsetorgy.0fees.net/
 local=/tracker.0x7c0.com/
@@ -4608,6 +4608,7 @@ local=/ff6hacking.com/
 local=/ffbox.org/
 local=/ffh4xapks.com/
 local=/ffilms.club/
+local=/ffilmycandy.com/
 local=/ffmovies.biz/
 local=/ffmovies.ru/
 local=/ffmovies.ws/
@@ -4892,15 +4893,20 @@ local=/filmy-online.tv/
 local=/filmy4kat.site/
 local=/filmy4play.xyz/
 local=/filmy4wap.de/
+local=/filmyblend.com/
 local=/filmyentry.com/
 local=/filmyfly.deals/
 local=/filmyfly.how/
 local=/filmyfly.republican/
 local=/filmyh.com/
+local=/filmykidaa.com/
 local=/filmyloud.com/
 local=/filmyon.org/
 local=/filmyone.com/
 local=/filmypure.com/
+local=/filmyshout.com/
+local=/filmytee.com/
+local=/filmyvap.com/
 local=/filmywap.one/
 local=/filmzenstream.tube/
 local=/filmzevkim.com/
@@ -6021,6 +6027,7 @@ local=/hdmovie26.xyz/
 local=/hdmovie2hack.com/
 local=/hdmoviearea.com/
 local=/hdmoviehubz.com/
+local=/hdmoviel2.com/
 local=/hdmovieshub.click/
 local=/hdmovieshub.nl/
 local=/hdmoviesnxt.com/
@@ -10081,6 +10088,7 @@ local=/stanthecaddy.com/
 local=/star4m.com/
 local=/starckfilmes-v14.com/
 local=/starckfilmes-v15.com/
+local=/starckfilmes-v16.com/
 local=/stardiima.top/
 local=/starfiles.co/
 local=/starflixbd.com/

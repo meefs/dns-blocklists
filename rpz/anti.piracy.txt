@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779702300 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779728040 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 25 May 2026 09:45 UTC
-; Version: 2026.0525.0945.38
+; Last modified: 25 May 2026 16:54 UTC
+; Version: 2026.0525.1654.11
 ; Syntax: RPZ
-; Number of entries: 25560
+; Number of entries: 25576
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -4952,6 +4952,8 @@ ff6hacking.com CNAME .
 *.ff6hacking.com CNAME .
 ffh4xapks.com CNAME .
 *.ffh4xapks.com CNAME .
+ffilmycandy.com CNAME .
+*.ffilmycandy.com CNAME .
 fiberstresser.com CNAME .
 *.fiberstresser.com CNAME .
 fidigger.com CNAME .
@@ -5032,16 +5034,26 @@ filmstreaming.com CNAME .
 *.filmstreaming.com CNAME .
 filmstreamingx1.com CNAME .
 *.filmstreamingx1.com CNAME .
+filmyblend.com CNAME .
+*.filmyblend.com CNAME .
 filmyentry.com CNAME .
 *.filmyentry.com CNAME .
 filmyh.com CNAME .
 *.filmyh.com CNAME .
+filmykidaa.com CNAME .
+*.filmykidaa.com CNAME .
 filmyloud.com CNAME .
 *.filmyloud.com CNAME .
 filmyone.com CNAME .
 *.filmyone.com CNAME .
 filmypure.com CNAME .
 *.filmypure.com CNAME .
+filmyshout.com CNAME .
+*.filmyshout.com CNAME .
+filmytee.com CNAME .
+*.filmytee.com CNAME .
+filmyvap.com CNAME .
+*.filmyvap.com CNAME .
 filmzevkim.com CNAME .
 *.filmzevkim.com CNAME .
 filmzie.com CNAME .
@@ -5548,6 +5560,8 @@ hdmoviearea.com CNAME .
 *.hdmoviearea.com CNAME .
 hdmoviehubz.com CNAME .
 *.hdmoviehubz.com CNAME .
+hdmoviel2.com CNAME .
+*.hdmoviel2.com CNAME .
 hdmoviesnxt.com CNAME .
 *.hdmoviesnxt.com CNAME .
 hdmoviespark.com CNAME .
@@ -7866,6 +7880,8 @@ starckfilmes-v14.com CNAME .
 *.starckfilmes-v14.com CNAME .
 starckfilmes-v15.com CNAME .
 *.starckfilmes-v15.com CNAME .
+starckfilmes-v16.com CNAME .
+*.starckfilmes-v16.com CNAME .
 starflixbd.com CNAME .
 *.starflixbd.com CNAME .
 starnetworkbd.com CNAME .

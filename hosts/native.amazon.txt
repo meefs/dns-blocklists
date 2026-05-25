@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 May 2026 17:01 UTC
-# Version: 2026.0524.1701.21
+# Last modified: 25 May 2026 17:02 UTC
+# Version: 2026.0525.1702.26
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 695
 #
@@ -59,7 +59,6 @@
 0.0.0.0 aax-events-cell01-cf.us-east.aps.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell01-cf.us-east.ono.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell01-cf.us-west.3px.axp.amazon-adsystem.com
-0.0.0.0 aax-events-cell01.eu-west.aps.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell01.us-east.aps.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell02-cf.ap-southeast.3px.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell02-cf.ap-southeast.aps.axp.amazon-adsystem.com
@@ -260,6 +259,7 @@
 0.0.0.0 cell7011.fra.mobile.bid-eu.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7011.fra.mobile.event-eu.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7021.sin.mobile.bid-fe.ads.aps.amazon-adsystem.com
+0.0.0.0 cell7021.sin.mobile.event-fe.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8001.iad.mobile.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8001.iad.mobile.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8001.iad.pg.event-na.ads.aps.amazon-adsystem.com

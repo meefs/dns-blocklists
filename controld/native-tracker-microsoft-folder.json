@@ -1198,6 +1198,13 @@
       }
     },
     {
+      "PK": "hme-live-loganalytics-namespace.servicebus.windows.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "hme-uat-loganalytics-namespace.servicebus.windows.net",
       "action": {
         "do": 0,

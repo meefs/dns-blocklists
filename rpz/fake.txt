@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779698160 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779729060 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 25 May 2026 08:36 UTC
-; Version: 2026.0525.0836.41
+; Last modified: 25 May 2026 17:11 UTC
+; Version: 2026.0525.1711.49
 ; Syntax: RPZ
-; Number of entries: 31346
+; Number of entries: 31378
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -1770,6 +1770,8 @@ ai.55aiagents.com CNAME .
 *.7econds.com CNAME .
 7k9lod.com CNAME .
 *.7k9lod.com CNAME .
+7tup-shop.com CNAME .
+*.7tup-shop.com CNAME .
 81ex.com CNAME .
 *.81ex.com CNAME .
 85-bktrade.com CNAME .
@@ -22572,8 +22574,6 @@ haustechnik-muenchen.de CNAME .
 *.haustechnik-muenchen.de CNAME .
 haustechnikmeine.de CNAME .
 *.haustechnikmeine.de CNAME .
-haustierstolz.de CNAME .
-*.haustierstolz.de CNAME .
 haustirwelten.de CNAME .
 *.haustirwelten.de CNAME .
 havro.de CNAME .
@@ -23732,6 +23732,8 @@ lauradiva.de CNAME .
 *.lauradiva.de CNAME .
 lautenberg-mode.de CNAME .
 *.lautenberg-mode.de CNAME .
+lautisbikeshop.de CNAME .
+*.lautisbikeshop.de CNAME .
 lavers.de CNAME .
 *.lavers.de CNAME .
 lavina-berlin.de CNAME .
@@ -24916,6 +24918,8 @@ online-apotheke-westbevern.de CNAME .
 *.online-apotheke-westbevern.de CNAME .
 online-betrugs-hilfe.de CNAME .
 *.online-betrugs-hilfe.de CNAME .
+online-casino-ohne-lizenz.de CNAME .
+*.online-casino-ohne-lizenz.de CNAME .
 online-indiegames.de CNAME .
 *.online-indiegames.de CNAME .
 online-indiespiele.de CNAME .
@@ -25712,6 +25716,8 @@ scharfemesser.de CNAME .
 *.scharfemesser.de CNAME .
 sche.de CNAME .
 *.sche.de CNAME .
+scheller-lanz-ersatzteile.de CNAME .
+*.scheller-lanz-ersatzteile.de CNAME .
 schickort.de CNAME .
 *.schickort.de CNAME .
 schildbaum-gartencenter.de CNAME .
@@ -28652,8 +28658,12 @@ victoriousgamingentertainment.net CNAME .
 *.victoriousgamingentertainment.net CNAME .
 vivobarefootbrasil.net CNAME .
 *.vivobarefootbrasil.net CNAME .
+vortexashop.net CNAME .
+*.vortexashop.net CNAME .
 vswatches.net CNAME .
 *.vswatches.net CNAME .
+wakato-online.net CNAME .
+*.wakato-online.net CNAME .
 webhubtest.net CNAME .
 *.webhubtest.net CNAME .
 wefashion.net CNAME .
@@ -28806,6 +28816,8 @@ greencrosspharmacy.online CNAME .
 *.greencrosspharmacy.online CNAME .
 herbalsoultions.online CNAME .
 *.herbalsoultions.online CNAME .
+hitenergysolar.online CNAME .
+*.hitenergysolar.online CNAME .
 hypersneakers.online CNAME .
 *.hypersneakers.online CNAME .
 isipisi.online CNAME .
@@ -28876,6 +28888,8 @@ shopsolaraswimwear.online CNAME .
 *.shopsolaraswimwear.online CNAME .
 solar4uhouston.online CNAME .
 *.solar4uhouston.online CNAME .
+solaragentuk.online CNAME .
+*.solaragentuk.online CNAME .
 solarmatchs.online CNAME .
 *.solarmatchs.online CNAME .
 stake-online24.online CNAME .
@@ -28900,6 +28914,8 @@ viagra-cialis-kamagra.online CNAME .
 *.viagra-cialis-kamagra.online CNAME .
 zertifikate24.online CNAME .
 *.zertifikate24.online CNAME .
+3sixteenonline.org CNAME .
+*.3sixteenonline.org CNAME .
 allforyourlife.org CNAME .
 *.allforyourlife.org CNAME .
 amffrance.org CNAME .
@@ -28928,6 +28944,8 @@ carolinebeck.org CNAME .
 *.carolinebeck.org CNAME .
 cnfashion.org CNAME .
 *.cnfashion.org CNAME .
+convertmitiondocmentinsationonlinevralidsion.org CNAME .
+*.convertmitiondocmentinsationonlinevralidsion.org CNAME .
 cwl-experts.org CNAME .
 *.cwl-experts.org CNAME .
 cyberearth.org CNAME .
@@ -29440,6 +29458,8 @@ brnghl.shop CNAME .
 *.brnghl.shop CNAME .
 buyalwansolar.shop CNAME .
 *.buyalwansolar.shop CNAME .
+cannibeauty.shop CNAME .
+*.cannibeauty.shop CNAME .
 cbeoeql.shop CNAME .
 *.cbeoeql.shop CNAME .
 christmasonline.shop CNAME .
@@ -29530,6 +29550,8 @@ dptdopni.shop CNAME .
 *.dptdopni.shop CNAME .
 drdiscount.shop CNAME .
 *.drdiscount.shop CNAME .
+drgglobalbeauty.shop CNAME .
+*.drgglobalbeauty.shop CNAME .
 droxen.shop CNAME .
 *.droxen.shop CNAME .
 dutztechh.shop CNAME .
@@ -29540,6 +29562,8 @@ eaglepharma.shop CNAME .
 *.eaglepharma.shop CNAME .
 eazzy.shop CNAME .
 *.eazzy.shop CNAME .
+ebonylinebeauty.shop CNAME .
+*.ebonylinebeauty.shop CNAME .
 ecohubfast.shop CNAME .
 *.ecohubfast.shop CNAME .
 ecooflow.shop CNAME .
@@ -29640,6 +29664,8 @@ gawude.shop CNAME .
 *.gawude.shop CNAME .
 generika-profi.shop CNAME .
 *.generika-profi.shop CNAME .
+getebikeshop.shop CNAME .
+*.getebikeshop.shop CNAME .
 getgartenwerkzeugshop.shop CNAME .
 *.getgartenwerkzeugshop.shop CNAME .
 getsolarscooters.shop CNAME .
@@ -29652,6 +29678,8 @@ ginatricoeu.shop CNAME .
 *.ginatricoeu.shop CNAME .
 glamkit.shop CNAME .
 *.glamkit.shop CNAME .
+glassybabyofficial.shop CNAME .
+*.glassybabyofficial.shop CNAME .
 gloryfeel.shop CNAME .
 *.gloryfeel.shop CNAME .
 glowhaven.shop CNAME .
@@ -30456,6 +30484,8 @@ wsmiccraev.shop CNAME .
 *.wsmiccraev.shop CNAME .
 adllwyj67.wuhlzk.shop CNAME .
 *.adllwyj67.wuhlzk.shop CNAME .
+wyrmkinsolar.shop CNAME .
+*.wyrmkinsolar.shop CNAME .
 xbkbest.shop CNAME .
 *.xbkbest.shop CNAME .
 xcren.shop CNAME .
@@ -30552,6 +30582,8 @@ paitohkpools.site CNAME .
 *.paitohkpools.site CNAME .
 prednisone-buyonline.site CNAME .
 *.prednisone-buyonline.site CNAME .
+shoplyo-deal.site CNAME .
+*.shoplyo-deal.site CNAME .
 schluesseldienst.valers.site CNAME .
 *.schluesseldienst.valers.site CNAME .
 veddey.site CNAME .

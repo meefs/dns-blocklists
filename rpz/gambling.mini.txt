@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779702300 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779728400 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 25 May 2026 09:45 UTC
-; Version: 2026.0525.0945.14
+; Last modified: 25 May 2026 17:00 UTC
+; Version: 2026.0525.1700.04
 ; Syntax: RPZ
-; Number of entries: 106146
+; Number of entries: 106122
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -38576,8 +38576,6 @@ gultik4dalternatif.com CNAME .
 *.gultik4dalternatif.com CNAME .
 guncelbets10resmi.com CNAME .
 *.guncelbets10resmi.com CNAME .
-guncelink-vaycasino.com CNAME .
-*.guncelink-vaycasino.com CNAME .
 gunlakecasino.com CNAME .
 *.gunlakecasino.com CNAME .
 gunqiu-casino.com CNAME .
@@ -48590,8 +48588,6 @@ phlago-download.com CNAME .
 *.phlago-download.com CNAME .
 phlagoa.com CNAME .
 *.phlagoa.com CNAME .
-phlagosvip.com CNAME .
-*.phlagosvip.com CNAME .
 phmacao507.com CNAME .
 *.phmacao507.com CNAME .
 phoxao.com CNAME .
@@ -54320,8 +54316,6 @@ sportpesacasino-uk.com CNAME .
 *.sportpesacasino-uk.com CNAME .
 sports-king.com CNAME .
 *.sports-king.com CNAME .
-sports-vaycasino.com CNAME .
-*.sports-vaycasino.com CNAME .
 sportsbet.com CNAME .
 *.sportsbet.com CNAME .
 sportsbetcasino-se.com CNAME .
@@ -65312,8 +65306,6 @@ betsmovebonuscu.icu CNAME .
 *.betsmovebonuscu.icu CNAME .
 betsmovecasino.icu CNAME .
 *.betsmovecasino.icu CNAME .
-betsmovegercekgiris.icu CNAME .
-*.betsmovegercekgiris.icu CNAME .
 betsmoveturkiyegiris.icu CNAME .
 *.betsmoveturkiyegiris.icu CNAME .
 betsort.icu CNAME .
@@ -66294,8 +66286,6 @@ supernova.im CNAME .
 *.247games.in CNAME .
 abcvip.in CNAME .
 *.abcvip.in CNAME .
-b2bslots.in CNAME .
-*.b2bslots.in CNAME .
 bet-pari.in CNAME .
 *.bet-pari.in CNAME .
 casino-pro.in CNAME .
@@ -69616,8 +69606,6 @@ vipluckcasino.live CNAME .
 *.vipluckcasino.live CNAME .
 vipspinscasino.live CNAME .
 *.vipspinscasino.live CNAME .
-vox-casino-polska.live CNAME .
-*.vox-casino-polska.live CNAME .
 vua88play.live CNAME .
 *.vua88play.live CNAME .
 vulkanoriginal.live CNAME .
@@ -83672,8 +83660,6 @@ cadoolacasino.pro CNAME .
 *.cadoolacasino.pro CNAME .
 canli-casino-siteleri.pro CNAME .
 *.canli-casino-siteleri.pro CNAME .
-caridisini.pro CNAME .
-*.caridisini.pro CNAME .
 casibom-casino.pro CNAME .
 *.casibom-casino.pro CNAME .
 casino-maxbet.pro CNAME .
@@ -93506,8 +93492,6 @@ casinomagiconlinebet.top CNAME .
 *.casinomagiconlinebet.top CNAME .
 casinomilyon-siteler2026.top CNAME .
 *.casinomilyon-siteler2026.top CNAME .
-casinongsbahisoriqinal.top CNAME .
-*.casinongsbahisoriqinal.top CNAME .
 casinonic.top CNAME .
 *.casinonic.top CNAME .
 casinonic-casino-au.top CNAME .
@@ -96952,8 +96936,6 @@ melstroy-casino-gotmw.top CNAME .
 *.melstroy-casino-gotmw.top CNAME .
 melstroy-casino-goxio.top CNAME .
 *.melstroy-casino-goxio.top CNAME .
-mercurecasino-smash2026.top CNAME .
-*.mercurecasino-smash2026.top CNAME .
 mers-casino.top CNAME .
 *.mers-casino.top CNAME .
 mers-casino-go04e.top CNAME .
@@ -102000,8 +101982,6 @@ bets10-guncel2026.vip CNAME .
 *.bets10-guncel2026.vip CNAME .
 bets10-guncelgirisler26.vip CNAME .
 *.bets10-guncelgirisler26.vip CNAME .
-bets10-mobilgirisler.vip CNAME .
-*.bets10-mobilgirisler.vip CNAME .
 bets10-tekadres.vip CNAME .
 *.bets10-tekadres.vip CNAME .
 bets10-yenilenenadres.vip CNAME .
@@ -103774,8 +103754,6 @@ superslots-casino.vip CNAME .
 *.superslots-casino.vip CNAME .
 superslots-games.vip CNAME .
 *.superslots-games.vip CNAME .
-superspeed.vip CNAME .
-*.superspeed.vip CNAME .
 supertoto.vip CNAME .
 *.supertoto.vip CNAME .
 surat4d.vip CNAME .
@@ -105128,8 +105106,6 @@ apex-casino.xyz CNAME .
 *.apex-casino.xyz CNAME .
 app-casino.xyz CNAME .
 *.app-casino.xyz CNAME .
-arapey.xyz CNAME .
-*.arapey.xyz CNAME .
 avalanchebets.xyz CNAME .
 *.avalanchebets.xyz CNAME .
 axecasinowins.xyz CNAME .

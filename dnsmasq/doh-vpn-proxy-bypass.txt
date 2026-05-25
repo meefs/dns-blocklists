@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 May 2026 09:51 UTC
-# Version: 2026.0525.0951.52
+# Last modified: 25 May 2026 16:52 UTC
+# Version: 2026.0525.1652.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 17313
+# Number of entries: 17312
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -15004,7 +15004,6 @@ local=/sitenable.ch/
 local=/sitenable.com/
 local=/sitenable.in/
 local=/sitenable.org/
-local=/sitescrack.host/
 local=/sitespeedtest.net/
 local=/sitesunblocked.com/
 local=/siteunblock.org/

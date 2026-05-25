@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779642360 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779728880 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Vivo Tracker DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 May 2026 17:06 UTC
-; Version: 2026.0524.1706.59
+; Last modified: 25 May 2026 17:08 UTC
+; Version: 2026.0525.1708.06
 ; Syntax: RPZ
 ; Number of entries: 474
 ;
@@ -114,8 +114,6 @@ au-vcode-od.vivoglobal.com CNAME .
 *.au-vcode-od.vivoglobal.com CNAME .
 br-p.vivoglobal.com CNAME .
 *.br-p.vivoglobal.com CNAME .
-cl-vcode-od.vivoglobal.com CNAME .
-*.cl-vcode-od.vivoglobal.com CNAME .
 cname-ali-asia-stsdk.vivoglobal.com CNAME .
 *.cname-ali-asia-stsdk.vivoglobal.com CNAME .
 cname-asia-comonrt-stsdk.vivoglobal.com CNAME .
@@ -194,6 +192,8 @@ id-analyzer-appstore.vivoglobal.com CNAME .
 *.id-analyzer-appstore.vivoglobal.com CNAME .
 id-third-appstore.vivoglobal.com CNAME .
 *.id-third-appstore.vivoglobal.com CNAME .
+il-vcode-od.vivoglobal.com CNAME .
+*.il-vcode-od.vivoglobal.com CNAME .
 in-ad-mkt-vivofs.vivoglobal.com CNAME .
 *.in-ad-mkt-vivofs.vivoglobal.com CNAME .
 in-adlog.vivoglobal.com CNAME .

@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 22 May 2026 17:13 UTC
-! Version: 2026.0522.1713.41
+! Last modified: 25 May 2026 17:28 UTC
+! Version: 2026.0525.1728.37
 ! Syntax: AdBlock
-! Number of entries: 536
+! Number of entries: 538
 !
 ||p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net^
 ||frontier23-normal-alisg.tiktokv.com.bpgslb.com^
@@ -102,6 +102,7 @@
 ||mcs-i18n.tiktok.com.edgekey.net^
 ||mcs-sg.tiktok.com.edgekey.net^
 ||mcs-va.tiktok.com.edgekey.net^
+||ad-instantpage-sg.tiktokv.com.edgekey.net^
 ||frontier-ru.tiktokv.com.edgekey.net^
 ||mcs-sg.tiktokv.com.edgekey.net^
 ||mcs-va.tiktokv.com.edgekey.net^
@@ -234,6 +235,7 @@
 ||ad.tiktokv.com^
 ||ad.tiktokv.us^
 ||ad-instantpage.tiktokv.us^
+||ad-instantpage-ru.tiktokv.com^
 ||ad-instantpage-sg.tiktokv.com^
 ||ad-instantpage-ttp2.tiktokv.eu^
 ||ad-instantpage-ttp2.tiktokv.us^

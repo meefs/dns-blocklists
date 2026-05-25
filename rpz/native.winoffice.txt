@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779642120 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779728580 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Windows/Office Tracker DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 May 2026 17:02 UTC
-; Version: 2026.0524.1702.09
+; Last modified: 25 May 2026 17:03 UTC
+; Version: 2026.0525.1703.14
 ; Syntax: RPZ
-; Number of entries: 748
+; Number of entries: 750
 ;
 h4g3z1-native.winoffice.web.app CNAME .
 *.h4g3z1-native.winoffice.web.app CNAME .
@@ -730,6 +730,8 @@ ehtelemetrystaging-alias.servicebus.windows.net CNAME .
 *.ehtelemetrystaging-alias.servicebus.windows.net CNAME .
 ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net CNAME .
 *.ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net CNAME .
+hme-live-loganalytics-namespace.servicebus.windows.net CNAME .
+*.hme-live-loganalytics-namespace.servicebus.windows.net CNAME .
 hme-uat-loganalytics-namespace.servicebus.windows.net CNAME .
 *.hme-uat-loganalytics-namespace.servicebus.windows.net CNAME .
 licensingtelemetry-prod.servicebus.windows.net CNAME .

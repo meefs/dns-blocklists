@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 May 2026 17:06 UTC
-# Version: 2026.0524.1706.59
+# Last modified: 25 May 2026 17:08 UTC
+# Version: 2026.0525.1708.06
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 241
 #
@@ -61,7 +61,6 @@
 0.0.0.0 asia-vpushort-stsdk.vivoglobal.com
 0.0.0.0 au-vcode-od.vivoglobal.com
 0.0.0.0 br-p.vivoglobal.com
-0.0.0.0 cl-vcode-od.vivoglobal.com
 0.0.0.0 cname-ali-asia-stsdk.vivoglobal.com
 0.0.0.0 cname-asia-comonrt-stsdk.vivoglobal.com
 0.0.0.0 cname-asia-st-exappupgrade.vivoglobal.com
@@ -101,6 +100,7 @@
 0.0.0.0 ex-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 id-analyzer-appstore.vivoglobal.com
 0.0.0.0 id-third-appstore.vivoglobal.com
+0.0.0.0 il-vcode-od.vivoglobal.com
 0.0.0.0 in-ad-mkt-vivofs.vivoglobal.com
 0.0.0.0 in-adlog.vivoglobal.com
 0.0.0.0 in-adreq.vivoglobal.com

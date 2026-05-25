@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 May 2026 17:13 UTC
-# Version: 2026.0522.1713.41
+# Last modified: 25 May 2026 17:28 UTC
+# Version: 2026.0525.1728.37
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 536
+# Number of entries: 538
 #
 local=/p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net/
 local=/frontier23-normal-alisg.tiktokv.com.bpgslb.com/
@@ -101,6 +101,7 @@ local=/mcs16-normal-no1a.tiktokw.eu.dvaitas.lt/
 local=/mcs-i18n.tiktok.com.edgekey.net/
 local=/mcs-sg.tiktok.com.edgekey.net/
 local=/mcs-va.tiktok.com.edgekey.net/
+local=/ad-instantpage-sg.tiktokv.com.edgekey.net/
 local=/frontier-ru.tiktokv.com.edgekey.net/
 local=/mcs-sg.tiktokv.com.edgekey.net/
 local=/mcs-va.tiktokv.com.edgekey.net/
@@ -233,6 +234,7 @@ local=/xlog16-platform-useast5.us.tiktokv.com/
 local=/ad.tiktokv.com/
 local=/ad.tiktokv.us/
 local=/ad-instantpage.tiktokv.us/
+local=/ad-instantpage-ru.tiktokv.com/
 local=/ad-instantpage-sg.tiktokv.com/
 local=/ad-instantpage-ttp2.tiktokv.eu/
 local=/ad-instantpage-ttp2.tiktokv.us/

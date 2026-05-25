@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 May 2026 17:13 UTC
-# Version: 2026.0522.1713.41
+# Last modified: 25 May 2026 17:28 UTC
+# Version: 2026.0525.1728.37
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 538
+# Number of entries: 540
 #
 0.0.0.0 p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net
 0.0.0.0 frontier23-normal-alisg.tiktokv.com.bpgslb.com
@@ -101,6 +101,7 @@
 0.0.0.0 mcs-i18n.tiktok.com.edgekey.net
 0.0.0.0 mcs-sg.tiktok.com.edgekey.net
 0.0.0.0 mcs-va.tiktok.com.edgekey.net
+0.0.0.0 ad-instantpage-sg.tiktokv.com.edgekey.net
 0.0.0.0 frontier-ru.tiktokv.com.edgekey.net
 0.0.0.0 mcs-sg.tiktokv.com.edgekey.net
 0.0.0.0 mcs-va.tiktokv.com.edgekey.net
@@ -211,6 +212,7 @@
 0.0.0.0 ad.tiktokv.com
 0.0.0.0 ad.tiktokv.us
 0.0.0.0 ad-instantpage.tiktokv.us
+0.0.0.0 ad-instantpage-ru.tiktokv.com
 0.0.0.0 ad-instantpage-sg.tiktokv.com
 0.0.0.0 ad-instantpage-ttp2.tiktokv.eu
 0.0.0.0 ad-instantpage-ttp2.tiktokv.us
