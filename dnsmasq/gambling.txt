@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 May 2026 16:55 UTC
-# Version: 2026.0524.1655.20
+# Last modified: 25 May 2026 01:34 UTC
+# Version: 2026.0525.0134.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 221143
+# Number of entries: 221144
 #
 local=/vip.039-vip6.com/
 local=/cdnapiif.039casinocdnhd.com/
@@ -75078,6 +75078,7 @@ local=/bdkj21.org/
 local=/bdl03.com/
 local=/bdl07.com/
 local=/bdm-bet-casino-bg.com/
+local=/bdmbe.com/
 local=/bdmbet.bet/
 local=/bdmbet.casino/
 local=/bdmbet.com/

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 May 2026 16:53 UTC
-# Version: 2026.0524.1653.19
+# Last modified: 25 May 2026 01:38 UTC
+# Version: 2026.0525.0138.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12776
+# Number of entries: 12779
 #
 local=/hichemtigsetorgy.0fees.net/
 local=/tracker.0x7c0.com/
@@ -4452,6 +4452,7 @@ local=/eurostreamings.casa/
 local=/eurostreamings.cfd/
 local=/eurostreamings.click/
 local=/eurostreamings.com/
+local=/eurostreamings.fit/
 local=/eurostreamings.fun/
 local=/eurostreamings.hair/
 local=/eurostreamings.homes/
@@ -7411,6 +7412,7 @@ local=/megakino3.org/
 local=/megakino3.to/
 local=/megakino4.com/
 local=/megakino4.org/
+local=/megakino4.to/
 local=/megakinox.top/
 local=/megamanmaker.com/
 local=/megamodapk.com/
@@ -11490,6 +11492,7 @@ local=/uhdmovies.net/
 local=/uhdmovies.online/
 local=/uhdmovies.pink/
 local=/uhdmovies.rip/
+local=/uhdmovies.rodeo/
 local=/uhdmovies.shop/
 local=/uhdmovies.skin/
 local=/uhdmovies.store/

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 May 2026 17:53 UTC
-# Version: 2026.0524.1753.29
+# Last modified: 25 May 2026 01:17 UTC
+# Version: 2026.0525.0117.07
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 157254
+# Number of entries: 157247
 #
 0.0.0.0 0.beer
 0.0.0.0 www.0.beer
@@ -45,6 +45,7 @@
 0.0.0.0 00857cca77b615c369f48ead5f8eb7f3.com
 0.0.0.0 0086ok.com
 0.0.0.0 0091fc0c5f5fa9f2055360122e91dd52.top
+0.0.0.0 009297292839391.com
 0.0.0.0 00a3a7eaf10ddce6.top
 0.0.0.0 00a4722597.com
 0.0.0.0 00b3e041a3a05821.top
@@ -6113,6 +6114,7 @@
 0.0.0.0 m.33win.com
 0.0.0.0 34.cfd
 0.0.0.0 3400.org
+0.0.0.0 34000519ysusrxhdpo220.top
 0.0.0.0 345ddz.com
 0.0.0.0 c.345ddz.com
 0.0.0.0 d.345ddz.com
@@ -7451,7 +7453,6 @@
 0.0.0.0 882793fb7a.com
 0.0.0.0 4df2fe12a4.882793fb7a.com
 0.0.0.0 8837dd64833.top
-0.0.0.0 8866.org
 0.0.0.0 888.com
 0.0.0.0 help.888.com
 0.0.0.0 www.888.com
@@ -35598,6 +35599,7 @@
 0.0.0.0 hb.aralego.com
 0.0.0.0 sync.aralego.com
 0.0.0.0 bi-metrics.aramuz.net
+0.0.0.0 arangoclawk.com
 0.0.0.0 araoyljo.com
 0.0.0.0 araschuheoutlet.de
 0.0.0.0 matomo.araymond.com
@@ -41314,7 +41316,6 @@
 0.0.0.0 c8a00c4189948b0b7dae230c79bcf233d1058cb78a11977c980d8cb3844f5aa.link
 0.0.0.0 984aea54f6.c8aae076f1.com
 0.0.0.0 c8fd8ed1db3ae210018742bd7ace6f78.ru
-0.0.0.0 c8zbug.cfd
 0.0.0.0 c93927b09967.xyz
 0.0.0.0 eewgngktlxl48v.c97tl1im6nf8ztm2e.cfd
 0.0.0.0 c986d4e9198fefbf706ea01c84b78006e4d9720518d7f0963faadf8b4c6509e.link
@@ -48044,7 +48045,6 @@
 0.0.0.0 webstats.juniperwebsites.co.uk
 0.0.0.0 affiliate.juno.co.uk
 0.0.0.0 tpr-ss-analytics-uk.katespade.co.uk
-0.0.0.0 kopisusu.co.id
 0.0.0.0 kway.co.il
 0.0.0.0 ads.kway.co.il
 0.0.0.0 ip2c.landscape.co.jp
@@ -48963,7 +48963,6 @@
 0.0.0.0 analytics.dominos.com.au
 0.0.0.0 analytics.dominos.com.my
 0.0.0.0 metrics.dominos.com.tr
-0.0.0.0 donjuandistribuidor.com.ar
 0.0.0.0 double-wendingyule.com.cn
 0.0.0.0 analytics.drive.com.au
 0.0.0.0 metrics.drogal.com.br
@@ -49392,7 +49391,6 @@
 0.0.0.0 pcdstm.petbarn.com.au
 0.0.0.0 smetrics.petbarn.com.au
 0.0.0.0 pgluck-wending.com.cn
-0.0.0.0 pharmnet.com.cn
 0.0.0.0 pheenecs.com.ua
 0.0.0.0 pi-line.com.cn
 0.0.0.0 rtb.pixad.com.tr
@@ -55017,7 +55015,6 @@
 0.0.0.0 sat.dipamaid.net
 0.0.0.0 dipan.com
 0.0.0.0 analyse.dipf.de
-0.0.0.0 dipi.online
 0.0.0.0 a.dipi.online
 0.0.0.0 diploickalian.shop
 0.0.0.0 gtm.diploma.de
@@ -55146,7 +55143,6 @@
 0.0.0.0 disconnectedlasting.com
 0.0.0.0 www.discount-pool-park.com
 0.0.0.0 discountdrugsfromcanada.com
-0.0.0.0 discountitool.shop
 0.0.0.0 smetrics.discounttire.com
 0.0.0.0 discourage072925.shop
 0.0.0.0 discourageearlapfully.com
@@ -55409,6 +55405,7 @@
 0.0.0.0 playerdiagnosticscollector-prod-aws-us-west-2.dmxleo.com
 0.0.0.0 prod-pbc-us-east-2.dmxleo.com
 0.0.0.0 public-prod-dspcookiematching.dmxleo.com
+0.0.0.0 dmyzf4op0.com
 0.0.0.0 dmzjmp.com
 0.0.0.0 creative.dmzjmp.com
 0.0.0.0 go.dmzjmp.com
@@ -55464,7 +55461,6 @@
 0.0.0.0 analytics.dobremedia.sk
 0.0.0.0 dobrezrodla.com
 0.0.0.0 matomo.doc-cirrus.com
-0.0.0.0 doc-web.org
 0.0.0.0 stat.doc88.com
 0.0.0.0 adserver.doccheck.com
 0.0.0.0 matomo.doccleservices.eu
@@ -55545,6 +55541,7 @@
 0.0.0.0 kv.dogt.xyz
 0.0.0.0 dogtoindustries.com
 0.0.0.0 dogtrack.es
+0.0.0.0 dohaunting.com
 0.0.0.0 dohcovwwmvsnnpfcgexq.com
 0.0.0.0 dohteraulas.cyou
 0.0.0.0 doitdogsecure.com
@@ -60803,6 +60800,7 @@
 0.0.0.0 telemetry.doxy.me
 0.0.0.0 cdn.doyouad.com
 0.0.0.0 umami.dp.tech
+0.0.0.0 dp8pzu.top
 0.0.0.0 log.dpa.com
 0.0.0.0 dpanosjvcveona.com
 0.0.0.0 www.dpanosjvcveona.com
@@ -62839,6 +62837,7 @@
 0.0.0.0 metrics.easyverein.com
 0.0.0.0 t.easywebland.my
 0.0.0.0 easywebsiteanalytics.com
+0.0.0.0 eatcells.com
 0.0.0.0 matomo.eatketo.de
 0.0.0.0 eavailandpro.com
 0.0.0.0 eavesdropthenashame.com
@@ -63249,7 +63248,6 @@
 0.0.0.0 eduforms.org
 0.0.0.0 tracking.edugroup.at
 0.0.0.0 gtm.eduki.com
-0.0.0.0 edulcdisci.cyou
 0.0.0.0 edumsg.org
 0.0.0.0 edvfwlacluo.com
 0.0.0.0 metrics.edwardjones.com
@@ -63305,6 +63303,8 @@
 0.0.0.0 ad.effectdoctorslondon.com
 0.0.0.0 effectivecpmcontent.com
 0.0.0.0 effectivecpmgate.com
+0.0.0.0 effectivecpmnetwork.com
+0.0.0.0 www.effectivecpmnetwork.com
 0.0.0.0 effectivecreativeformat.com
 0.0.0.0 www.effectivecreativeformat.com
 0.0.0.0 effectivedisplaycontent.com
@@ -64924,7 +64924,6 @@
 0.0.0.0 euonfb.shop
 0.0.0.0 euonlinedeal.shop
 0.0.0.0 euotwhsrizcnj.site
-0.0.0.0 eupetzlsale.shop
 0.0.0.0 euphuescaamapaschal.cyou
 0.0.0.0 euptnsyts.com
 0.0.0.0 www.euptnsyts.com
@@ -91703,6 +91702,7 @@
 0.0.0.0 iamghostproducer.com
 0.0.0.0 iamnaughty.com
 0.0.0.0 m.iamnaughty.com
+0.0.0.0 iap2e750o.com
 0.0.0.0 analytics.iapure.com
 0.0.0.0 iaudienc.com
 0.0.0.0 s.iaudienc.com
@@ -92674,7 +92674,6 @@
 0.0.0.0 pointblank.imp2aff.com
 0.0.0.0 surgex.imp2aff.com
 0.0.0.0 thingortwo.imp2aff.com
-0.0.0.0 impacbatte.cyou
 0.0.0.0 trkapi.impact.com
 0.0.0.0 ak.impact-ad.jp
 0.0.0.0 img.ak.impact-ad.jp
@@ -96584,7 +96583,6 @@
 0.0.0.0 analytics2-api.institut-ida.de
 0.0.0.0 matomo.institutfrancais.com
 0.0.0.0 ad.inston.ltd
-0.0.0.0 instrck.com
 0.0.0.0 instreamatic.com
 0.0.0.0 x.instreamatic.com
 0.0.0.0 x3.instreamatic.com
@@ -98883,6 +98881,7 @@
 0.0.0.0 jpod826135.pro
 0.0.0.0 jpod826159.pro
 0.0.0.0 jpod826183.pro
+0.0.0.0 jpod8812146.pro
 0.0.0.0 jpod8812170.pro
 0.0.0.0 jpsajylbhqof.com
 0.0.0.0 jpslydzc.com
@@ -100830,6 +100829,7 @@
 0.0.0.0 www.kreomfoq.com
 0.0.0.0 stats.kreuzfahrtstudio.de
 0.0.0.0 loader.kreuzwortraetsel.de
+0.0.0.0 krgirls.beauty
 0.0.0.0 gr9594.kri45879oupj5plpcl.cfd
 0.0.0.0 matomo.kribbelbunt.de
 0.0.0.0 matomo.krick-interactive.com
@@ -102995,6 +102995,7 @@
 0.0.0.0 lldsnrhnacgbx.com
 0.0.0.0 lleana.com
 0.0.0.0 llibero.it
+0.0.0.0 alodd.llikeyoudate.com
 0.0.0.0 www.llnbumix.com
 0.0.0.0 llog.pl
 0.0.0.0 llovesgreat.com
@@ -105773,7 +105774,6 @@
 0.0.0.0 plausible.mevrik.com
 0.0.0.0 dump.mewcdn.online
 0.0.0.0 analytics.mewwallet.dev
-0.0.0.0 mexvavor.shop
 0.0.0.0 meyen-garten.com
 0.0.0.0 analytics.meyer.it
 0.0.0.0 webanalytics.meyer-shop.com
@@ -108388,6 +108388,7 @@
 0.0.0.0 my-free.website
 0.0.0.0 my-jinsha-online.com
 0.0.0.0 my-leyou-online.com
+0.0.0.0 my-near-wallet.app
 0.0.0.0 my-promo7.com
 0.0.0.0 my-rewards.tech
 0.0.0.0 applytics.my1337jog.run
@@ -118100,6 +118101,7 @@
 0.0.0.0 ofz6hz.top
 0.0.0.0 tazeay.ofz6hz.top
 0.0.0.0 ofzl3q285oifbt1ct757.cfd
+0.0.0.0 og2ebeuxa.com
 0.0.0.0 stats.ogames.kz
 0.0.0.0 ogammugwump.com
 0.0.0.0 ogcfcnwrveqrs.com
@@ -119821,7 +119823,6 @@
 0.0.0.0 umami.orhun.dev
 0.0.0.0 oribi.io
 0.0.0.0 pixel.orichi.info
-0.0.0.0 oridero.cyou
 0.0.0.0 orientalknitotherwise.com
 0.0.0.0 webstats.oriented.net
 0.0.0.0 orientscoigne.shop
@@ -121966,6 +121967,7 @@
 0.0.0.0 zeta-568626cc1fcb4a.pingpong.us
 0.0.0.0 pingwincasino.com
 0.0.0.0 pinion.gg
+0.0.0.0 pink-shop.top
 0.0.0.0 s.pinkads.org
 0.0.0.0 pinkkola.com
 0.0.0.0 pinklabel.com
@@ -122733,7 +122735,6 @@
 0.0.0.0 plrjs.org
 0.0.0.0 v2.plrjs.org
 0.0.0.0 now.plsgotoasg.com
-0.0.0.0 plsigherere.com
 0.0.0.0 pltraffic8.com
 0.0.0.0 pluckypocket.com
 0.0.0.0 zevdh.plug.tech
@@ -122934,7 +122935,6 @@
 0.0.0.0 poloptrex.com
 0.0.0.0 www.poloptrex.com
 0.0.0.0 polosanitizertrusting.com
-0.0.0.0 poltravor.shop
 0.0.0.0 www.polwsvwygkymm.com
 0.0.0.0 analytics.polyarcgames.com
 0.0.0.0 polyfill.io
@@ -122945,7 +122945,6 @@
 0.0.0.0 polymorphicads.jp
 0.0.0.0 img.polymorphicads.jp
 0.0.0.0 statistik.polyneo.de
-0.0.0.0 polzorix.shop
 0.0.0.0 pomegranatestaff.com
 0.0.0.0 pompass.net
 0.0.0.0 stp.pompe-moteur.fr
@@ -123412,6 +123411,7 @@
 0.0.0.0 pressize.com
 0.0.0.0 cpm.pressize.com
 0.0.0.0 static.pressize.com
+0.0.0.0 pressolviaa.pro
 0.0.0.0 flog.pressplay.cc
 0.0.0.0 presssnews.biz
 0.0.0.0 prestigiousdauntdistressed.com
@@ -124362,6 +124362,7 @@
 0.0.0.0 edge.pubtm.com
 0.0.0.0 pubtrky.com
 0.0.0.0 pubwise.io
+0.0.0.0 puckishverdin.qpon
 0.0.0.0 fs.pudaf.com
 0.0.0.0 pueriledod.qpon
 0.0.0.0 chalta.puffilyenlaced.shop
@@ -137439,7 +137440,6 @@
 0.0.0.0 static.smoads.com
 0.0.0.0 smoggy-construction.com
 0.0.0.0 smoggysongs.com
-0.0.0.0 smokeappreciative.cfd
 0.0.0.0 smokeledger.com
 0.0.0.0 apex.smokerfiascos.cyou
 0.0.0.0 smokilysapwort.shop
@@ -139498,7 +139498,6 @@
 0.0.0.0 ssa.stepstone.com
 0.0.0.0 tags.stepstone.com
 0.0.0.0 adcdn.ster.nl
-0.0.0.0 stereobumb.cyou
 0.0.0.0 stereoproxy.com
 0.0.0.0 stereospoutfireextinguisher.com
 0.0.0.0 stereotypedsugar.com
@@ -140099,7 +140098,6 @@
 0.0.0.0 superledger.co
 0.0.0.0 superledgerai.com
 0.0.0.0 supermanapp.com
-0.0.0.0 supermarkets-pl.shop
 0.0.0.0 supermekids.com
 0.0.0.0 analytics.superology.pro
 0.0.0.0 superonclick.com
@@ -141177,7 +141175,6 @@
 0.0.0.0 ads.tara24.at
 0.0.0.0 tardierrouges.com
 0.0.0.0 tardtodtimpi.com
-0.0.0.0 player.target-video.com
 0.0.0.0 vm.target-video.com
 0.0.0.0 target2sell.com
 0.0.0.0 api.target2sell.com
@@ -141534,6 +141531,7 @@
 0.0.0.0 analytics.teepublic.com
 0.0.0.0 teethesmitsvah.com
 0.0.0.0 teethundercoverhowever.com
+0.0.0.0 teetymitring.com
 0.0.0.0 matomo.tegos-systeme.de
 0.0.0.0 matomo.teha.biz
 0.0.0.0 matomo.tehik.ee
@@ -141969,14 +141967,6 @@
 0.0.0.0 wbtrkk.teufelaudio.at
 0.0.0.0 texasledgerbookkeeping.com
 0.0.0.0 events.texaspridetrailers.com
-0.0.0.0 texecxplrn.cyou
-0.0.0.0 texecxplrq.cyou
-0.0.0.0 texefxplrn.cyou
-0.0.0.0 texefxqlrn.cyou
-0.0.0.0 texefxqlrn.icu
-0.0.0.0 texegxplrd.cyou
-0.0.0.0 texegxplrn.cyou
-0.0.0.0 texegxplrn.icu
 0.0.0.0 www.texhbnxw.com
 0.0.0.0 text-link-ads.com
 0.0.0.0 analytics.text2speech.app
@@ -142586,6 +142576,7 @@
 0.0.0.0 analytics-sports.tigocloud.net
 0.0.0.0 mixpanel.tigocloud.net
 0.0.0.0 analytics.tigress.cloud
+0.0.0.0 tigronesizzles.com
 0.0.0.0 tihealth.com
 0.0.0.0 cdn.tihealth.com
 0.0.0.0 tracking-pixel-prod.tihealth.com
@@ -143314,6 +143305,7 @@
 0.0.0.0 torpapa.com
 0.0.0.0 www.torpapa.com
 0.0.0.0 torpig-sinkhole.org
+0.0.0.0 torqelix.shop
 0.0.0.0 torrenssolarx.com
 0.0.0.0 torrentmir.ru
 0.0.0.0 analytics.torrid.com
@@ -146625,6 +146617,7 @@
 0.0.0.0 urgerrebasis.com
 0.0.0.0 uri6.com
 0.0.0.0 urimnugocfr.com
+0.0.0.0 urineimprobable.com
 0.0.0.0 matomo.uriot.de
 0.0.0.0 urlaub-reise-flug.eu
 0.0.0.0 matomo.urlaubambauernhof.at
@@ -147719,6 +147712,7 @@
 0.0.0.0 matomo.vibb.ax
 0.0.0.0 s.vibe.co
 0.0.0.0 t.vibe.co
+0.0.0.0 vibeoutlet.shop
 0.0.0.0 ads-d.viber.com
 0.0.0.0 ads.cdn.viber.com
 0.0.0.0 data-events.cdn.viber.com
@@ -154510,7 +154504,7 @@
 0.0.0.0 xajlxv.icu
 0.0.0.0 xakinarsljlwm.space
 0.0.0.0 matomo.xal.com
-0.0.0.0 xalvukor.shop
+0.0.0.0 xalvoriq.shop
 0.0.0.0 xamubee.ru
 0.0.0.0 xanalytics.vip
 0.0.0.0 fsn.xanalytics.vip
@@ -155270,7 +155264,6 @@
 0.0.0.0 seeds-open.xycdn.com
 0.0.0.0 seeds-sina.xycdn.com
 0.0.0.0 jb.xylenolshivahs.com
-0.0.0.0 xyo-v.com
 0.0.0.0 xyowqtdc.com
 0.0.0.0 www.xyowqtdc.com
 0.0.0.0 xyslcrmgwxyxev.com
@@ -156517,7 +156510,6 @@
 0.0.0.0 trk.zamnesia.com
 0.0.0.0 zamocwtuh.com
 0.0.0.0 www.zamocwtuh.com
-0.0.0.0 zamowienie142.lat
 0.0.0.0 zanalytics.vip
 0.0.0.0 zanevipshop.com
 0.0.0.0 ad.zankhana.ltd
@@ -156545,6 +156537,7 @@
 0.0.0.0 img.zarad.net
 0.0.0.0 zarebasdezaley.com
 0.0.0.0 zarnechobbil.cfd
+0.0.0.0 zarniqo.shop
 0.0.0.0 zarpop.com
 0.0.0.0 zarpop.ir
 0.0.0.0 www.zarpop.ir
@@ -156815,6 +156808,7 @@
 0.0.0.0 zfepfyopfa.com
 0.0.0.0 zfwicysjemzklw.com
 0.0.0.0 www.zfwicysjemzklw.com
+0.0.0.0 zfycjxxnevffb.online
 0.0.0.0 cs.zg-api.com
 0.0.0.0 e.zg-api.com
 0.0.0.0 www.zgdqoynfvsuv.com
@@ -157163,7 +157157,6 @@
 0.0.0.0 ztod.com
 0.0.0.0 ztohteoqf.in
 0.0.0.0 ztomy.com
-0.0.0.0 ztshu.com
 0.0.0.0 ztsrv.com
 0.0.0.0 ztwolf.com
 0.0.0.0 www.zubivu.com

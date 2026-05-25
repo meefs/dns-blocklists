@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779641700 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779672840 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 May 2026 16:55 UTC
-; Version: 2026.0524.1655.20
+; Last modified: 25 May 2026 01:34 UTC
+; Version: 2026.0525.0134.50
 ; Syntax: RPZ
-; Number of entries: 442286
+; Number of entries: 442288
 ;
 1xbet.ac CNAME .
 *.1xbet.ac CNAME .
@@ -144498,6 +144498,8 @@ bdl07.com CNAME .
 *.bdl07.com CNAME .
 bdm-bet-casino-bg.com CNAME .
 *.bdm-bet-casino-bg.com CNAME .
+bdmbe.com CNAME .
+*.bdmbe.com CNAME .
 bdmbet.com CNAME .
 *.bdmbet.com CNAME .
 bdmbet-at.com CNAME .

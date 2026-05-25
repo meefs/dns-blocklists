@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 May 2026 10:09 UTC
-# Version: 2026.0524.1009.17
+# Last modified: 25 May 2026 01:45 UTC
+# Version: 2026.0525.0145.21
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 17309
+# Number of entries: 17310
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -15633,6 +15633,7 @@ local=/tovira.ru/
 local=/towctro.cn/
 local=/towersflowerss.com/
 local=/towervpn.com/
+local=/tproxy.ink/
 local=/tpymainx01.ru/
 local=/tq8izzzrqtktkdoarptl3u.online/
 local=/tqqzrbjd.com/

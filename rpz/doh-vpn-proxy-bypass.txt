@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779617340 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779673500 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 May 2026 10:09 UTC
-; Version: 2026.0524.1009.17
+; Last modified: 25 May 2026 01:45 UTC
+; Version: 2026.0525.0145.21
 ; Syntax: RPZ
-; Number of entries: 34618
+; Number of entries: 34620
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -19291,6 +19291,8 @@ storefront.ink CNAME .
 *.storefront.ink CNAME .
 theproxy.ink CNAME .
 *.theproxy.ink CNAME .
+tproxy.ink CNAME .
+*.tproxy.ink CNAME .
 dns.tracker.ink CNAME .
 *.dns.tracker.ink CNAME .
 vpns.ink CNAME .

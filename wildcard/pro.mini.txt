@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 May 2026 18:00 UTC
-# Version: 2026.0524.1800.08
+# Last modified: 25 May 2026 01:22 UTC
+# Version: 2026.0525.0122.15
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 71700
+# Number of entries: 71691
 #
 *.www.0.wedding
 *.adobeversao24.000.pe
@@ -589,7 +589,6 @@
 *.gxeu17.5ln2vl94rl576p39t7xe.cfd
 *.xk54q65.5lz3n3y4ztroby.cfd
 *.z.5ntikb83gxc48t.cfd
-*.pixel.s1.5playdisk.com
 *.mi95.5tukn694h3byqj.cfd
 *.ads.5vnetwork.com
 *.b.5w8v8395iej8n4jwefgm.cfd
@@ -3602,6 +3601,7 @@
 *.icon.eu.atmnd.com
 *.icon.eu.atmndx.com
 *.matomo.atmosfair.de
+*.stat.atol.tech
 *.analytics.atom.com
 *.sentry.atomecorp.com
 *.umami.atomicmail.io
@@ -4544,7 +4544,6 @@
 *.smetrics.bet.com
 *.ssc.bet.plus
 *.banner.bet365partners.com
-*.metro.sentry.beta.agency
 *.piwik.betaalvereniging.nl
 *.analytics.betaflight.com
 *.dd.betano.com
@@ -7005,6 +7004,7 @@
 *.metrics.cef.co.uk
 *.telemetry.chase.co.uk
 *.load.sgtm.click2pharmacy.co.uk
+*.error.completesavings.co.uk
 *.analytics.coop.co.uk
 *.caterpillarsigns.coversandall.co.uk
 *.server.creamchargerswarehouse.co.uk
@@ -8223,7 +8223,6 @@
 *.dingyanyuhang.com.cn
 *.dingziwan.com.cn
 *.doithecao.com.vn
-*.donjuandistribuidor.com.ar
 *.double-wendingyule.com.cn
 *.dropbox.com.ua
 *.duiba.com.cn
@@ -8456,7 +8455,6 @@
 *.pepsico.com.cn
 *.pepsico.com.co
 *.pgluck-wending.com.cn
-*.pharmnet.com.cn
 *.pheenecs.com.ua
 *.pi-line.com.cn
 *.pixad.com.tr
@@ -10042,6 +10040,7 @@
 *.ambassadors.diorinsider.com
 *.sat.dipamaid.net
 *.analyse.dipf.de
+*.a.dipi.online
 *.gtm.diploma.de
 *.analytics.diply.com
 *.umami.diptesh.me
@@ -15990,6 +15989,7 @@
 *.stats-api.infowars.com
 *.rb.infox.sg
 *.analytics-client-cm-prod.cf.common-prod.infra-moonactive.net
+*.sentry-public.infrasys.tools
 *.x.infzm.com
 *.analytics.ing.dk
 *.analyticsbusiness.ing.ro
@@ -17215,7 +17215,6 @@
 *.m886.kmbc.com
 *.log.kmplayer.com
 *.gplayer.kmpmedia.net
-*.www.kmsauto.info
 *.brand-sdk.kmsmep.com
 *.brands.kmsmep.com
 *.metrics.kmsmep.com
@@ -18336,6 +18335,7 @@
 *.b.lksbnrs.com
 *.eth.llamarpc.com
 *.stats.llaun.ch
+*.alodd.llikeyoudate.com
 *.mr-proxy.digital-analytics.lllapi.com
 *.www.llnbumix.com
 *.analytics.data.lloydsbankinggroup.com
@@ -25066,6 +25066,7 @@
 *.sentry.profitroom.dev
 *.l.profitshare.ro
 *.t2.profityi.com
+*.ads.t.proga.space
 *.res.programme-television.org
 *.cqpmvc.programme-tv.net
 *.utiq.programme-tv.net
@@ -30075,7 +30076,6 @@
 *.analytics.taquiri.de
 *.ads.tara24.at
 *.sentry.taracloud.de
-*.player.target-video.com
 *.vm.target-video.com
 *.match.targetrtb.com
 *.adserver.targroup-media.de
@@ -34657,6 +34657,7 @@
 *.databoat.zenkube.com
 *.puzzle-recomd.zenkube.com
 *.word-bi.zenkube.com
+*.logger.zenmatch.net
 *.logger.zenmatchgame.com
 *.mxvp-feature-toggle-prod-1.zenmxapps.com
 *.insights.zennioptical.com
@@ -35832,6 +35833,7 @@
 *.33win.com
 *.34.cfd
 *.3400.org
+*.34000519ysusrxhdpo220.top
 *.342879r2g312o.lat
 *.345ddz.com
 *.345f9447a3ed.xyz
@@ -36674,7 +36676,6 @@
 *.8810h-54.cfd
 *.882793fb7a.com
 *.8837dd64833.top
-*.8866.org
 *.888.com
 *.8882889.cfd
 *.8883448.com
@@ -40024,6 +40025,7 @@
 *.aracestern.cyou
 *.aralego.com
 *.aralego.net
+*.arangoclawk.com
 *.araoyljo.com
 *.araschuheoutlet.de
 *.arbiflow-app.com
@@ -42583,7 +42585,6 @@
 *.c84332962b522e2f62a48680858a1db6.org
 *.c8a00c4189948b0b7dae230c79bcf233d1058cb78a11977c980d8cb3844f5aa.link
 *.c8fd8ed1db3ae210018742bd7ace6f78.ru
-*.c8zbug.cfd
 *.c93927b09967.xyz
 *.c986d4e9198fefbf706ea01c84b78006e4d9720518d7f0963faadf8b4c6509e.link
 *.c9ce9253ebd7.xyz
@@ -45838,7 +45839,6 @@
 *.diorismkeltswryest.cyou
 *.dioxidedigamy.shop
 *.dipan.com
-*.dipi.online
 *.diploickalian.shop
 *.diplomaticamazingbazaar.com
 *.dipperflightrecommend.com
@@ -45945,7 +45945,6 @@
 *.discountclub-pl.shop
 *.discountdeal-pl.shop
 *.discountdrugsfromcanada.com
-*.discountitool.shop
 *.discountmalls-pl.shop
 *.discountmarket-pl.shop
 *.discountoutlet-pl.shop
@@ -46092,6 +46091,7 @@
 *.dmvbdfblevxvx.com
 *.dmwbspizchjlu.website
 *.dmxleo.com
+*.dmyzf4op0.com
 *.dmzjmp.com
 *.dn9.biz
 *.dna-sklad.ru
@@ -46118,7 +46118,6 @@
 *.dobbymuggily.com
 *.dobermanmedia.com
 *.dobrezrodla.com
-*.doc-web.org
 *.doceree.com
 *.docgbeauty.de
 *.dochase.com
@@ -46166,6 +46165,7 @@
 *.dogt.xyz
 *.dogtoindustries.com
 *.dogtrack.es
+*.dohaunting.com
 *.dohcovwwmvsnnpfcgexq.com
 *.dohteraulas.cyou
 *.doitdogsecure.com
@@ -46314,6 +46314,7 @@
 *.downloadlocked.com
 *.downloadstep.com
 *.downyattainprojects.com
+*.dp8pzu.top
 *.dpanosjvcveona.com
 *.dpd-package.lat
 *.dpde.lat
@@ -47430,7 +47431,6 @@
 *.educatorpages.com
 *.eduflat.de
 *.eduforms.org
-*.edulcdisci.cyou
 *.edumsg.org
 *.edvfwlacluo.com
 *.edwardsanba.qpon
@@ -48019,7 +48019,6 @@
 *.euonlinedeal.shop
 *.euonlines.shop
 *.euotwhsrizcnj.site
-*.eupetzlsale.shop
 *.euphuescaamapaschal.cyou
 *.euptnsyts.com
 *.eurekster.com
@@ -51949,6 +51948,7 @@
 *.ialoop.net
 *.iamghostproducer.com
 *.iamnaughty.com
+*.iap2e750o.com
 *.iaudienc.com
 *.iaukcj8321920-h345.lat
 *.iavlxljzdclmz.space
@@ -52191,7 +52191,6 @@
 *.imop.com
 *.imorningplus.click
 *.imp2aff.com
-*.impacbatte.cyou
 *.impact-betegy.com
 *.impactcdn.com
 *.impactify.io
@@ -52580,7 +52579,6 @@
 *.instinct365intelligent.com
 *.instinctiveads.com
 *.institto.casa
-*.instrck.com
 *.instreamatic.com
 *.instreamvideo.ru
 *.instruments102.com
@@ -53354,6 +53352,7 @@
 *.jpod826135.pro
 *.jpod826159.pro
 *.jpod826183.pro
+*.jpod8812146.pro
 *.jpod8812170.pro
 *.jpsajylbhqof.com
 *.jpsdj.com
@@ -54080,6 +54079,7 @@
 *.krealxrwaoh.in
 *.kreoledger.com
 *.kreomfoq.com
+*.krgirls.beauty
 *.kriddoshop.com
 *.krimhilde-1.cfd
 *.krimhilde-2.cfd
@@ -56282,7 +56282,6 @@
 *.mextrano.shop
 *.mextrivo.shop
 *.mexvaniq.shop
-*.mexvavor.shop
 *.mexvori.shop
 *.mexvoriq.shop
 *.mexvuko.shop
@@ -57107,6 +57106,7 @@
 *.my-free.website
 *.my-jinsha-online.com
 *.my-leyou-online.com
+*.my-near-wallet.app
 *.my-pishvaz.com
 *.my-promo7.com
 *.my-rewards.cloud
@@ -58476,6 +58476,7 @@
 *.ofz6hz.top
 *.ofzl3q285oifbt1ct757.cfd
 *.og-shopee9.com
+*.og2ebeuxa.com
 *.ogads.com
 *.ogammugwump.com
 *.ogcfcnwrveqrs.com
@@ -59048,7 +59049,6 @@
 *.orgassme.com
 *.orguxptcjchuj.website
 *.oribi.io
-*.oridero.cyou
 *.orientalknitotherwise.com
 *.orientscoigne.shop
 *.origunix.com
@@ -60126,6 +60126,7 @@
 *.pingpong.us
 *.pingwincasino.com
 *.pinion.gg
+*.pink-shop.top
 *.pinkkola.com
 *.pinklabel.com
 *.pinkoonlinestore.top
@@ -60347,7 +60348,6 @@
 *.plrjs.org
 *.plshop-eobuwie.sbs
 *.plsigherer.com
-*.plsigherere.com
 *.plsighereresiri.com
 *.plsighereresirige.com
 *.pltraffic8.com
@@ -60500,7 +60500,6 @@
 *.polskizakup.shop
 *.poltradeai.org
 *.poltravo.shop
-*.poltravor.shop
 *.polvaki.shop
 *.polvaniq.shop
 *.polvestionplus.net
@@ -60512,7 +60511,6 @@
 *.polymarket-fr.fr
 *.polymorphicads.jp
 *.polzano.shop
-*.polzorix.shop
 *.pomaranchpo.com
 *.pomebonsku.com
 *.pomegranatestaff.com
@@ -60750,6 +60748,7 @@
 *.presscllad.com
 *.pressflex.com
 *.pressize.com
+*.pressolviaa.pro
 *.presssnews.biz
 *.prestigeflowbitnex-app.com
 *.prestigiousdauntdistressed.com
@@ -61283,6 +61282,7 @@
 *.pubtm.com
 *.pubtrky.com
 *.pubwise.io
+*.puckishverdin.qpon
 *.pueriledod.qpon
 *.puffledger.com
 *.puffypaste.com
@@ -64686,7 +64686,6 @@
 *.smobyclub.com
 *.smoggy-construction.com
 *.smoggysongs.com
-*.smokeappreciative.cfd
 *.smokeledger.com
 *.smokeshopofficial.com
 *.smokilysapwort.shop
@@ -65457,7 +65456,6 @@
 *.stepnation.com
 *.stepnseat.com
 *.stepprsinsolesstore.com
-*.stereobumb.cyou
 *.stereoproxy.com
 *.stereospoutfireextinguisher.com
 *.stereotypedsugar.com
@@ -65781,7 +65779,6 @@
 *.superledgerai.com
 *.supermanapp.com
 *.supermarket-pl.shop
-*.supermarkets-pl.shop
 *.supermekids.com
 *.superonclick.com
 *.superpointlesshamsters.com
@@ -66392,14 +66389,6 @@
 *.tevewavix.click
 *.tevewavro.site
 *.texasledgerbookkeeping.com
-*.texecxplrn.cyou
-*.texecxplrq.cyou
-*.texefxplrn.cyou
-*.texefxqlrn.cyou
-*.texefxqlrn.icu
-*.texegxplrd.cyou
-*.texegxplrn.cyou
-*.texegxplrn.icu
 *.text-link-ads.com
 *.textad.net
 *.tezmzursoqgcm.com
@@ -67055,6 +67044,7 @@
 *.torqanu.shop
 *.torqelinara.pro
 *.torqeliv.shop
+*.torqelix.shop
 *.torqelvoria.info
 *.torqexo.shop
 *.torqori.shop
@@ -68295,6 +68285,7 @@
 *.uri6.com
 *.urielray.com
 *.urimnugocfr.com
+*.urineimprobable.com
 *.urineshefa.shop
 *.urioy.com
 *.urjamernadls.site
@@ -68810,6 +68801,7 @@
 *.viantinc.com
 *.viarla.com
 *.vibe.co
+*.vibeoutlet.shop
 *.vibetrezor.com
 *.vibeviewnet.com
 *.vibnpoar.com
@@ -70451,8 +70443,8 @@
 *.xalvexiq.shop
 *.xalvireta.info
 *.xalvori.shop
+*.xalvoriq.shop
 *.xalvuko.shop
-*.xalvukor.shop
 *.xamberolit.info
 *.xamubee.ru
 *.xanalytics.vip
@@ -70795,7 +70787,6 @@
 *.xyijw.com
 *.xyjzs.com
 *.xymoravestu.xyz
-*.xyo-v.com
 *.xyowqtdc.com
 *.xyslcrmgwxyxev.com
 *.xywlapi.cc
@@ -71320,7 +71311,6 @@
 *.zamocwtuh.com
 *.zamowienie-ck.com
 *.zamowienie-sc.com
-*.zamowienie142.lat
 *.zamowienie4413.biz
 *.zamowieniecxc.com
 *.zamowieniemm.com
@@ -71344,6 +71334,7 @@
 *.zarnechobbil.cfd
 *.zarnelix.shop
 *.zarnelo.shop
+*.zarniqo.shop
 *.zarnivoq.shop
 *.zarnukix.shop
 *.zarpop.com
@@ -71479,6 +71470,7 @@
 *.zfedutamj.in
 *.zfepfyopfa.com
 *.zfwicysjemzklw.com
+*.zfycjxxnevffb.online
 *.zgdri.com
 *.zgkrxxudimfdj.space
 *.zgrdy.com
@@ -71648,7 +71640,6 @@
 *.ztod.com
 *.ztohteoqf.in
 *.ztomy.com
-*.ztshu.com
 *.ztsrv.com
 *.ztwolf.com
 *.zucks.net

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779641580 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779673080 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 May 2026 16:53 UTC
-; Version: 2026.0524.1653.19
+; Last modified: 25 May 2026 01:38 UTC
+; Version: 2026.0525.0138.57
 ; Syntax: RPZ
-; Number of entries: 25552
+; Number of entries: 25558
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -10298,6 +10298,8 @@ doodstream.fit CNAME .
 *.doodstream.fit CNAME .
 eonmovies.fit CNAME .
 *.eonmovies.fit CNAME .
+eurostreamings.fit CNAME .
+*.eurostreamings.fit CNAME .
 extraflix.fit CNAME .
 *.extraflix.fit CNAME .
 flemmix.fit CNAME .
@@ -20026,6 +20028,8 @@ hdmovie2.rodeo CNAME .
 *.hdmovie2.rodeo CNAME .
 mkvcinemas.rodeo CNAME .
 *.mkvcinemas.rodeo CNAME .
+uhdmovies.rodeo CNAME .
+*.uhdmovies.rodeo CNAME .
 123-movies.rs CNAME .
 *.123-movies.rs CNAME .
 actvid.rs CNAME .
@@ -22410,6 +22414,8 @@ mega-stream.to CNAME .
 *.mega-stream.to CNAME .
 megakino3.to CNAME .
 *.megakino3.to CNAME .
+megakino4.to CNAME .
+*.megakino4.to CNAME .
 meteor-stresser.to CNAME .
 *.meteor-stresser.to CNAME .
 mflix.to CNAME .

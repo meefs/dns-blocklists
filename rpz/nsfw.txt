@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779646500 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779673200 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 May 2026 18:15 UTC
-; Version: 2026.0524.1815.30
+; Last modified: 25 May 2026 01:40 UTC
+; Version: 2026.0525.0140.57
 ; Syntax: RPZ
-; Number of entries: 188366
+; Number of entries: 188376
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -2056,6 +2056,8 @@ einsames-vergnuegen.at CNAME .
 *.einsames-vergnuegen.at CNAME .
 erotic.at CNAME .
 *.erotic.at CNAME .
+erotic24.at CNAME .
+*.erotic24.at CNAME .
 erotikanzeige.at CNAME .
 *.erotikanzeige.at CNAME .
 erotikforum.at CNAME .
@@ -3200,6 +3202,8 @@ sexymoms.best CNAME .
 *.sexymoms.best CNAME .
 smotretporno.best CNAME .
 *.smotretporno.best CNAME .
+strip-chat.best CNAME .
+*.strip-chat.best CNAME .
 superakbov.best CNAME .
 *.superakbov.best CNAME .
 sxxx.best CNAME .
@@ -24776,6 +24780,8 @@ bigplanetcomics.com CNAME .
 *.bigplanetcomics.com CNAME .
 bigporn.com CNAME .
 *.bigporn.com CNAME .
+bigpornai.com CNAME .
+*.bigpornai.com CNAME .
 bigpornsex.com CNAME .
 *.bigpornsex.com CNAME .
 bigpuffies.com CNAME .
@@ -153622,6 +153628,8 @@ tupperwarepolska.pl CNAME .
 *.tupperwarepolska.pl CNAME .
 utopiaguide.pl CNAME .
 *.utopiaguide.pl CNAME .
+vanalp.pl CNAME .
+*.vanalp.pl CNAME .
 virgins.pl CNAME .
 *.virgins.pl CNAME .
 warsztatbdsm.pl CNAME .
@@ -181028,6 +181036,8 @@ sexygame6666.website CNAME .
 *.sexygame6666.website CNAME .
 stripchat.website CNAME .
 *.stripchat.website CNAME .
+stripchats.website CNAME .
+*.stripchats.website CNAME .
 synapsex.website CNAME .
 *.synapsex.website CNAME .
 tamilsexscandals.website CNAME .
