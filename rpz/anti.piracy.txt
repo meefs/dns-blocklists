@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779728040 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779759540 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 25 May 2026 16:54 UTC
-; Version: 2026.0525.1654.11
+; Last modified: 26 May 2026 01:39 UTC
+; Version: 2026.0526.0139.32
 ; Syntax: RPZ
-; Number of entries: 25576
+; Number of entries: 25580
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -4564,6 +4564,8 @@ dizipal1550.com CNAME .
 *.dizipal1550.com CNAME .
 dizipal1553.com CNAME .
 *.dizipal1553.com CNAME .
+dizipal1554.com CNAME .
+*.dizipal1554.com CNAME .
 dizipal1936.com CNAME .
 *.dizipal1936.com CNAME .
 dizipal2062.com CNAME .
@@ -25440,6 +25442,8 @@ tomehub.xyz CNAME .
 *.tomehub.xyz CNAME .
 toonitalia.xyz CNAME .
 *.toonitalia.xyz CNAME .
+top123movies.xyz CNAME .
+*.top123movies.xyz CNAME .
 torr9.xyz CNAME .
 *.torr9.xyz CNAME .
 torrentz2fr.xyz CNAME .

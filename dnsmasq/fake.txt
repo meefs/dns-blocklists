@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 May 2026 17:11 UTC
-# Version: 2026.0525.1711.49
+# Last modified: 26 May 2026 00:33 UTC
+# Version: 2026.0526.0033.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 15689
+# Number of entries: 15690
 #
 local=/trader.212group.de/
 local=/eu.2bagsvalley.cn/
@@ -6521,6 +6521,7 @@ local=/haustieralles.com/
 local=/haustierbedarfshop.com/
 local=/haustiererabatt.com/
 local=/haustiereshop.com/
+local=/haustierstolz.de/
 local=/haustirwelten.de/
 local=/hausture.com/
 local=/hausundgarten.haus/

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 May 2026 16:54 UTC
-# Version: 2026.0525.1654.11
+# Last modified: 26 May 2026 01:39 UTC
+# Version: 2026.0526.0139.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12788
+# Number of entries: 12790
 #
 local=/hichemtigsetorgy.0fees.net/
 local=/tracker.0x7c0.com/
@@ -3906,6 +3906,7 @@ local=/dizipal1543.com/
 local=/dizipal1544.com/
 local=/dizipal1550.com/
 local=/dizipal1553.com/
+local=/dizipal1554.com/
 local=/dizipal1936.com/
 local=/dizipal2062.com/
 local=/dizipal2063.com/
@@ -11027,6 +11028,7 @@ local=/toorgle.com/
 local=/top-flix.homes/
 local=/top-serie.org/
 local=/top123movies.com/
+local=/top123movies.xyz/
 local=/topanalyse.org/
 local=/topbytes.net/
 local=/topcartoons.tv/

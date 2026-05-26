@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779728160 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779759360 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 25 May 2026 16:56 UTC
-; Version: 2026.0525.1656.13
+; Last modified: 26 May 2026 01:36 UTC
+; Version: 2026.0526.0136.03
 ; Syntax: RPZ
-; Number of entries: 445460
+; Number of entries: 445464
 ;
 1xbet.ac CNAME .
 *.1xbet.ac CNAME .
@@ -73582,6 +73582,8 @@ pixel-us.1winsa.com CNAME .
 *.20079333.com CNAME .
 20079555.com CNAME .
 *.20079555.com CNAME .
+2007a.com CNAME .
+*.2007a.com CNAME .
 2007ccc.com CNAME .
 *.2007ccc.com CNAME .
 2007daohang.com CNAME .
@@ -208182,6 +208184,8 @@ icebet88.com CNAME .
 *.icebet88.com CNAME .
 icebetcasino-at.com CNAME .
 *.icebetcasino-at.com CNAME .
+icecasin.com CNAME .
+*.icecasin.com CNAME .
 icecasino.com CNAME .
 *.icecasino.com CNAME .
 icecasino-app.com CNAME .

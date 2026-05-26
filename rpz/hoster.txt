@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779644700 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779757560 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 May 2026 17:45 UTC
-; Version: 2026.0524.1745.34
+; Last modified: 26 May 2026 01:06 UTC
+; Version: 2026.0526.0106.12
 ; Syntax: RPZ
-; Number of entries: 2016
+; Number of entries: 2020
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -168,6 +168,8 @@ pagedemo.co CNAME .
 *.pagedemo.co CNAME .
 synergize.co CNAME .
 *.synergize.co CNAME .
+000nethost.com CNAME .
+*.000nethost.com CNAME .
 000webhost.com CNAME .
 *.000webhost.com CNAME .
 000webhostapp.com CNAME .
@@ -1842,6 +1844,8 @@ regruhosting.ru CNAME .
 *.regruhosting.ru CNAME .
 seite.ru CNAME .
 *.seite.ru CNAME .
+tehno-politen.ru CNAME .
+*.tehno-politen.ru CNAME .
 tmweb.ru CNAME .
 *.tmweb.ru CNAME .
 tw1.ru CNAME .

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779728280 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779759480 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - medium version
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 25 May 2026 16:58 UTC
-; Version: 2026.0525.1658.15
+; Last modified: 26 May 2026 01:38 UTC
+; Version: 2026.0526.0138.10
 ; Syntax: RPZ
-; Number of entries: 147068
+; Number of entries: 147070
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -28500,6 +28500,8 @@ k6b7.1stlvyou.com CNAME .
 *.20-bet.com CNAME .
 2000casino.com CNAME .
 *.2000casino.com CNAME .
+2007a.com CNAME .
+*.2007a.com CNAME .
 200poker.com CNAME .
 *.200poker.com CNAME .
 200tsars.com CNAME .
