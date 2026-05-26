@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 May 2026 10:08 UTC
-# Version: 2026.0524.1008.30
+# Last modified: 26 May 2026 10:35 UTC
+# Version: 2026.0526.1035.24
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3413
+# Number of entries: 3416
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -536,6 +536,7 @@ local=/dns2.thylacine.co.nz/
 local=/doh.tsmu.co.id/
 local=/dns1.understandingcyber.co.uk/
 local=/dns.unknown-universe.co.uk/
+local=/doh.vpsdns.co.za/
 local=/dns.walshnet.co.uk/
 local=/agh.workfordemo.co.in/
 local=/crusnik80.co.za/
@@ -2037,6 +2038,8 @@ local=/odvr.nic.cz/
 local=/dns.niccoli.cc/
 local=/dns.nick-slowinski.de/
 local=/dns.nicolas.vip/
+local=/doh-recursive-to-root.technitium.nicolas-dorriere.fr/
+local=/doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr/
 local=/doh-own-recursion.nicolas-dorriere.fr/
 local=/doh-random-upstream.nicolas-dorriere.fr/
 local=/dns1.nielsdb.be/

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 May 2026 10:08 UTC
-# Version: 2026.0524.1008.30
+# Last modified: 26 May 2026 10:35 UTC
+# Version: 2026.0526.1035.24
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3872
+# Number of entries: 3875
 #
 ss.0001.xyz
 003153.xyz
@@ -762,6 +762,7 @@ dns2.thylacine.co.nz
 doh.tsmu.co.id
 dns1.understandingcyber.co.uk
 dns.unknown-universe.co.uk
+doh.vpsdns.co.za
 dns.walshnet.co.uk
 augne.dns.walshnet.co.uk
 aviemore.dns.walshnet.co.uk
@@ -2707,8 +2708,10 @@ dns.niccoli.cc
 dns.nick-slowinski.de
 nickcan.xyz
 dns.nicolas.vip
+doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr
 doh-own-recursion.nicolas-dorriere.fr
 doh-random-upstream.nicolas-dorriere.fr
+doh-recursive-to-root.technitium.nicolas-dorriere.fr
 nicsezcheckfbi.gov
 dns1.nielsdb.be
 adguard.nielsenhost.dk

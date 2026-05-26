@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779755580 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779787440 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 26 May 2026 00:33 UTC
-; Version: 2026.0526.0033.50
+; Last modified: 26 May 2026 09:24 UTC
+; Version: 2026.0526.0924.48
 ; Syntax: RPZ
-; Number of entries: 31380
+; Number of entries: 31388
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -3708,8 +3708,6 @@ bioluxgmbh.com CNAME .
 *.bioluxgmbh.com CNAME .
 bionaturkosmetik.com CNAME .
 *.bionaturkosmetik.com CNAME .
-bioxtrim.com CNAME .
-*.bioxtrim.com CNAME .
 biranco.com CNAME .
 *.biranco.com CNAME .
 birkenstoreoutletsale.com CNAME .
@@ -8338,6 +8336,8 @@ greatescapery.com CNAME .
 *.greatescapery.com CNAME .
 greatestpod.com CNAME .
 *.greatestpod.com CNAME .
+greatpillsshops.com CNAME .
+*.greatpillsshops.com CNAME .
 greattioa.com CNAME .
 *.greattioa.com CNAME .
 greecefarmakeio.com CNAME .
@@ -8720,6 +8720,8 @@ healthlifereport.com CNAME .
 *.healthlifereport.com CNAME .
 healthonlineshop24.com CNAME .
 *.healthonlineshop24.com CNAME .
+healthpillsonline.com CNAME .
+*.healthpillsonline.com CNAME .
 healthroutine.com CNAME .
 *.healthroutine.com CNAME .
 healththrivewith.com CNAME .
@@ -9816,8 +9818,6 @@ jerusalemcharity.com CNAME .
 *.jerusalemcharity.com CNAME .
 jessena.com CNAME .
 *.jessena.com CNAME .
-jetterix.com CNAME .
-*.jetterix.com CNAME .
 jewellery-palace.com CNAME .
 *.jewellery-palace.com CNAME .
 jewelleryina.com CNAME .
@@ -17062,8 +17062,6 @@ teslaxtrading.com CNAME .
 *.teslaxtrading.com CNAME .
 test-iq-online.com CNAME .
 *.test-iq-online.com CNAME .
-test4.com CNAME .
-*.test4.com CNAME .
 testcortiy.com CNAME .
 *.testcortiy.com CNAME .
 testereo.com CNAME .
@@ -20274,6 +20272,8 @@ bierbankdruckerei.de CNAME .
 *.bierbankdruckerei.de CNAME .
 biergarten-am-kuenettegraben.de CNAME .
 *.biergarten-am-kuenettegraben.de CNAME .
+bierundgarten.de CNAME .
+*.bierundgarten.de CNAME .
 bigsofasde.de CNAME .
 *.bigsofasde.de CNAME .
 bike-trailer24.de CNAME .
@@ -20362,6 +20362,8 @@ bluehend-land.de CNAME .
 *.bluehend-land.de CNAME .
 blueoceanproject.de CNAME .
 *.blueoceanproject.de CNAME .
+bluestonesolar.de CNAME .
+*.bluestonesolar.de CNAME .
 blum-film.de CNAME .
 *.blum-film.de CNAME .
 blumen-fusshoeller.de CNAME .
@@ -23312,6 +23314,8 @@ kaffeetime.de CNAME .
 *.kaffeetime.de CNAME .
 kagokamin.de CNAME .
 *.kagokamin.de CNAME .
+kahmannskaffee.de CNAME .
+*.kahmannskaffee.de CNAME .
 kahrmannsown.de CNAME .
 *.kahrmannsown.de CNAME .
 kaimoro.de CNAME .
@@ -25306,6 +25310,8 @@ qualishopde.de CNAME .
 *.qualishopde.de CNAME .
 quellshop.de CNAME .
 *.quellshop.de CNAME .
+quentisolarveix.de CNAME .
+*.quentisolarveix.de CNAME .
 quijotekaffee.de CNAME .
 *.quijotekaffee.de CNAME .
 quordlepuzzles.de CNAME .
@@ -27100,6 +27106,8 @@ winterkraft.de CNAME .
 *.winterkraft.de CNAME .
 wivaro.de CNAME .
 *.wivaro.de CNAME .
+wlandrucker-tests.de CNAME .
+*.wlandrucker-tests.de CNAME .
 wmbra.de CNAME .
 *.wmbra.de CNAME .
 wodstand.de CNAME .
@@ -28768,6 +28776,8 @@ anhaengers.online CNAME .
 *.anhaengers.online CNAME .
 apexdealscore.online CNAME .
 *.apexdealscore.online CNAME .
+apothekerwissen.online CNAME .
+*.apothekerwissen.online CNAME .
 araujopecas.online CNAME .
 *.araujopecas.online CNAME .
 aurorababyspa.online CNAME .
@@ -29100,8 +29110,6 @@ pharmacy-xl.org CNAME .
 *.pharmacy-xl.org CNAME .
 phmall.org CNAME .
 *.phmall.org CNAME .
-piccu.org CNAME .
-*.piccu.org CNAME .
 pillz888.org CNAME .
 *.pillz888.org CNAME .
 poolslot.org CNAME .

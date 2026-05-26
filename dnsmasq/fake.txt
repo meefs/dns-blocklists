@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 May 2026 00:33 UTC
-# Version: 2026.0526.0033.50
+# Last modified: 26 May 2026 09:24 UTC
+# Version: 2026.0526.0924.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 15690
+# Number of entries: 15694
 #
 local=/trader.212group.de/
 local=/eu.2bagsvalley.cn/
@@ -1311,6 +1311,7 @@ local=/apotheken-sicher.at/
 local=/apotheken24de.com/
 local=/apothekeohnerezept.de/
 local=/apotheker365.com/
+local=/apothekerwissen.online/
 local=/apoversand24.com/
 local=/app-alpha.net/
 local=/app-analyse.de/
@@ -2195,6 +2196,7 @@ local=/bienenstock-potsdam.com/
 local=/bienll.de/
 local=/bierbankdruckerei.de/
 local=/biergarten-am-kuenettegraben.de/
+local=/bierundgarten.de/
 local=/bigagnesoutlet.com/
 local=/biggainersalerts-members.com/
 local=/bighomelife.com/
@@ -2303,7 +2305,6 @@ local=/biologischeshop.com/
 local=/biologischestation.de/
 local=/bioluxgmbh.com/
 local=/bionaturkosmetik.com/
-local=/bioxtrim.com/
 local=/biranco.com/
 local=/birgit-hamburg.de/
 local=/birkenstock-berlin.shop/
@@ -2400,6 +2401,7 @@ local=/blueoceanproject.de/
 local=/bluepeaksfinance.com/
 local=/blueribbon.site/
 local=/blueskycargoes.com/
+local=/bluestonesolar.de/
 local=/bluestyleshop.com/
 local=/bluetyt.com/
 local=/blum-film.de/
@@ -6196,6 +6198,7 @@ local=/grazmodehaus.at/
 local=/great-market.com/
 local=/greatescapery.com/
 local=/greatestpod.com/
+local=/greatpillsshops.com/
 local=/greattioa.com/
 local=/greecefarmakeio.com/
 local=/greenbird-shop.com/
@@ -6550,6 +6553,7 @@ local=/healthcarebanker.com/
 local=/healthful-pills.com/
 local=/healthlifereport.com/
 local=/healthonlineshop24.com/
+local=/healthpillsonline.com/
 local=/healthroutine.com/
 local=/healththrivewith.com/
 local=/healthybear.io/
@@ -7588,7 +7592,6 @@ local=/jerusalem-project.org/
 local=/jerusalemcharity.com/
 local=/jessena.com/
 local=/jetprofund.net/
-local=/jetterix.com/
 local=/jeulia.de/
 local=/jewellery-palace.com/
 local=/jewelleryina.com/
@@ -7741,6 +7744,7 @@ local=/kaftlatelitastore.com/
 local=/kafushop.com/
 local=/kagasa.com/
 local=/kagokamin.de/
+local=/kahmannskaffee.de/
 local=/kahrmannsown.de/
 local=/kaimoro.de/
 local=/kaisermodehaus.de/
@@ -11176,7 +11180,6 @@ local=/physicisti.com/
 local=/phytrix1.com/
 local=/pianidicotturascontato.com/
 local=/pibok.de/
-local=/piccu.org/
 local=/pickleballoffer.com/
 local=/pickledfoodonline.com/
 local=/picom-nfz.de/
@@ -11639,6 +11642,7 @@ local=/queensgaa.com/
 local=/quellshop.de/
 local=/quelltool.com/
 local=/quendora.com/
+local=/quentisolarveix.de/
 local=/quick-kredit.com/
 local=/quickbills-online.com/
 local=/quickdna.com/
@@ -13743,7 +13747,6 @@ local=/teslaxx.net/
 local=/tesler.software/
 local=/tesler-inc.trade/
 local=/test-iq-online.com/
-local=/test4.com/
 local=/testcortiy.com/
 local=/testereo.com/
 local=/testorino.de/
@@ -15298,6 +15301,7 @@ local=/withingss.at/
 local=/wittelsbach-partner.com/
 local=/wittelsheimholz.com/
 local=/wivaro.de/
+local=/wlandrucker-tests.de/
 local=/wlinme.com/
 local=/wloom.com/
 local=/wmbra.de/

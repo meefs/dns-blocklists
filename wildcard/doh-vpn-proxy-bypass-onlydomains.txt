@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 May 2026 16:52 UTC
-# Version: 2026.0525.1652.58
+# Last modified: 26 May 2026 10:36 UTC
+# Version: 2026.0526.1036.13
 # Syntax: Domains (without subdomains)
-# Number of entries: 17312
+# Number of entries: 17315
 #
 ss.0001.xyz
 ilovethiswebsite.001-lab.space
@@ -2029,6 +2029,7 @@ dns1.understandingcyber.co.uk
 dns.unknown-universe.co.uk
 sainttech.veranda.co.id
 yes.vets.co.il
+doh.vpsdns.co.za
 dns.walshnet.co.uk
 long.live.gaup.webconstructions.co.uk
 crandall.kirkinator.webconstructions.co.uk
@@ -5251,6 +5252,8 @@ howaboutweexecuten.nicher.cl
 lightspeedmenolike.nicher.cl
 dns.nick-slowinski.de
 dns.nicolas.vip
+doh-recursive-to-root.technitium.nicolas-dorriere.fr
+doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr
 doh-own-recursion.nicolas-dorriere.fr
 doh-random-upstream.nicolas-dorriere.fr
 dns1.nielsdb.be

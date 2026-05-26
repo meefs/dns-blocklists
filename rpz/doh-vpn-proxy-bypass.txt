@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779727920 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779791760 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 25 May 2026 16:52 UTC
-; Version: 2026.0525.1652.58
+; Last modified: 26 May 2026 10:36 UTC
+; Version: 2026.0526.1036.13
 ; Syntax: RPZ
-; Number of entries: 34624
+; Number of entries: 34630
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -17589,10 +17589,14 @@ pdns1.n00b.fr CNAME .
 *.pdns1.n00b.fr CNAME .
 vpn.nbvalente.fr CNAME .
 *.vpn.nbvalente.fr CNAME .
+doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr CNAME .
+*.doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr CNAME .
 doh-own-recursion.nicolas-dorriere.fr CNAME .
 *.doh-own-recursion.nicolas-dorriere.fr CNAME .
 doh-random-upstream.nicolas-dorriere.fr CNAME .
 *.doh-random-upstream.nicolas-dorriere.fr CNAME .
+doh-recursive-to-root.technitium.nicolas-dorriere.fr CNAME .
+*.doh-recursive-to-root.technitium.nicolas-dorriere.fr CNAME .
 nordvpn.fr CNAME .
 *.nordvpn.fr CNAME .
 dns.octoworld.fr CNAME .
@@ -34609,6 +34613,8 @@ trucetonight.sentinet.co.za CNAME .
 *.trucetonight.sentinet.co.za CNAME .
 surfshark.co.za CNAME .
 *.surfshark.co.za CNAME .
+doh.vpsdns.co.za CNAME .
+*.doh.vpsdns.co.za CNAME .
 apple1.willemvisser.co.za CNAME .
 *.apple1.willemvisser.co.za CNAME .
 new.willemvisser.co.za CNAME .

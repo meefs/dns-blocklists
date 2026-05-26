@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779617280 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779791700 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 May 2026 10:08 UTC
-; Version: 2026.0524.1008.30
+; Last modified: 26 May 2026 10:35 UTC
+; Version: 2026.0526.1035.24
 ; Syntax: RPZ
-; Number of entries: 6826
+; Number of entries: 6832
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -2617,10 +2617,14 @@ blockerads.multimediaconcept.fr CNAME .
 *.blockerads.multimediaconcept.fr CNAME .
 pdns1.n00b.fr CNAME .
 *.pdns1.n00b.fr CNAME .
+doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr CNAME .
+*.doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr CNAME .
 doh-own-recursion.nicolas-dorriere.fr CNAME .
 *.doh-own-recursion.nicolas-dorriere.fr CNAME .
 doh-random-upstream.nicolas-dorriere.fr CNAME .
 *.doh-random-upstream.nicolas-dorriere.fr CNAME .
+doh-recursive-to-root.technitium.nicolas-dorriere.fr CNAME .
+*.doh-recursive-to-root.technitium.nicolas-dorriere.fr CNAME .
 dns.octoworld.fr CNAME .
 *.dns.octoworld.fr CNAME .
 nas.patrick-antoine.fr CNAME .
@@ -6835,6 +6839,8 @@ dns.oliviertv.co.za CNAME .
 *.dns.oliviertv.co.za CNAME .
 pooblet.co.za CNAME .
 *.pooblet.co.za CNAME .
+doh.vpsdns.co.za CNAME .
+*.doh.vpsdns.co.za CNAME .
 paulo.nom.za CNAME .
 *.paulo.nom.za CNAME .
 dns.froth.zone CNAME .

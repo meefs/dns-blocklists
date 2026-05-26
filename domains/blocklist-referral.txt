@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 May 2026 08:22 UTC
-# Version: 2026.0525.0822.57
+# Last modified: 26 May 2026 09:09 UTC
+# Version: 2026.0526.0909.15
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2030
+# Number of entries: 2040
 #
 1-aclk.net
 1aurl.io
@@ -415,6 +415,7 @@ seu2.cleverreach.com
 315713.seu2.cleverreach.com
 316004.seu2.cleverreach.com
 317076.seu2.cleverreach.com
+317612.seu2.cleverreach.com
 317901.seu2.cleverreach.com
 322484.seu2.cleverreach.com
 323664.seu2.cleverreach.com
@@ -900,6 +901,7 @@ s12.exacttarget.com
 bounce.s12.exacttarget.com
 click.s12.exacttarget.com
 mc.s12.exacttarget.com
+members.s12.exacttarget.com
 s13.exacttarget.com
 bounce.s13.exacttarget.com
 click.s13.exacttarget.com
@@ -916,6 +918,7 @@ bounce.s50.exacttarget.com
 click.s50.exacttarget.com
 image.s50.exacttarget.com
 mc.s50.exacttarget.com
+members.s50.exacttarget.com
 click.virt.s50.exacttarget.com
 s51.exacttarget.com
 bounce.s51.exacttarget.com
@@ -930,8 +933,10 @@ pub.s6.exacttarget.com
 view.s6.exacttarget.com
 click.virt.s6.exacttarget.com
 s7.exacttarget.com
+bounce.s7.exacttarget.com
 image.s7.exacttarget.com
 inbound.s7.exacttarget.com
+inbound-reply.s7.exacttarget.com
 mc.s7.exacttarget.com
 pages.s7.exacttarget.com
 pub.s7.exacttarget.com
@@ -1133,6 +1138,7 @@ group0.sites.hscoscdn-eu1.net
 144395336.group0.sites.hscoscdn-eu1.net
 144738774.group0.sites.hscoscdn-eu1.net
 144743966.group0.sites.hscoscdn-eu1.net
+145405416.group0.sites.hscoscdn-eu1.net
 145506091.group0.sites.hscoscdn-eu1.net
 145543566.group0.sites.hscoscdn-eu1.net
 145609858.group0.sites.hscoscdn-eu1.net
@@ -1445,8 +1451,10 @@ mkto-ab450015.com
 mkto-ab470148.com
 mkto-ab480014.com
 mkto-ab480015.com
+mkto-ab530057.com
 mkto-ab530192.com
 mkto-ab540059.com
+mkto-ab540143.com
 mkto-ab540186.com
 mkto-ab550041.com
 mkto-ab550140.com
@@ -1489,9 +1497,11 @@ mkto-i0206.com
 mkto-lon020055.com
 mkto-lon020062.com
 mkto-lon020336.com
+mkto-lon030249.com
 mkto-lon030291.com
 mkto-lon040102.com
 mkto-lon040152.com
+mkto-lon050034.com
 mkto-lon050143.com
 mkto-lon050200.com
 mkto-lon060131.com
