@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779787320 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779815040 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Pop-Up Ads DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 26 May 2026 09:22 UTC
-; Version: 2026.0526.0922.14
+; Last modified: 26 May 2026 17:04 UTC
+; Version: 2026.0526.1704.49
 ; Syntax: RPZ
-; Number of entries: 100520
+; Number of entries: 100558
 ;
 bonzai.ad CNAME .
 *.bonzai.ad CNAME .
@@ -572,8 +572,10 @@ account.beauty CNAME .
 *.account.beauty CNAME .
 gvfejsk.beauty CNAME .
 *.gvfejsk.beauty CNAME .
-krgirls.beauty CNAME .
-*.krgirls.beauty CNAME .
+lc.krgirls.beauty CNAME .
+*.lc.krgirls.beauty CNAME .
+me.krgirls.beauty CNAME .
+*.me.krgirls.beauty CNAME .
 go1.sildenafi.beauty CNAME .
 *.go1.sildenafi.beauty CNAME .
 0.beer CNAME .
@@ -2870,8 +2872,36 @@ hengde.cn CNAME .
 *.hengde.cn CNAME .
 qiejushuo.hirz.cn CNAME .
 *.qiejushuo.hirz.cn CNAME .
-hl.cn CNAME .
-*.hl.cn CNAME .
+app-google-zh.hl.cn CNAME .
+*.app-google-zh.hl.cn CNAME .
+cnzh-google-apps.hl.cn CNAME .
+*.cnzh-google-apps.hl.cn CNAME .
+go-todesk.hl.cn CNAME .
+*.go-todesk.hl.cn CNAME .
+googgle-chrrome.hl.cn CNAME .
+*.googgle-chrrome.hl.cn CNAME .
+google-chrrome-zh.hl.cn CNAME .
+*.google-chrrome-zh.hl.cn CNAME .
+google-google-chrome-google-com.hl.cn CNAME .
+*.google-google-chrome-google-com.hl.cn CNAME .
+line-go.hl.cn CNAME .
+*.line-go.hl.cn CNAME .
+office-wps-hl.hl.cn CNAME .
+*.office-wps-hl.hl.cn CNAME .
+qh-qishuiyinyue.hl.cn CNAME .
+*.qh-qishuiyinyue.hl.cn CNAME .
+qishuimusic-cn.hl.cn CNAME .
+*.qishuimusic-cn.hl.cn CNAME .
+qishuiyinyue-music.hl.cn CNAME .
+*.qishuiyinyue-music.hl.cn CNAME .
+todesk-web.hl.cn CNAME .
+*.todesk-web.hl.cn CNAME .
+todesk-zh.hl.cn CNAME .
+*.todesk-zh.hl.cn CNAME .
+zh-todesk-cn.hl.cn CNAME .
+*.zh-todesk-cn.hl.cn CNAME .
+zhcn-googele.hl.cn CNAME .
+*.zhcn-googele.hl.cn CNAME .
 ho521.cn CNAME .
 *.ho521.cn CNAME .
 hologramid.cn CNAME .
@@ -8574,8 +8604,6 @@ f1e17919db.15b4a9d5e8.com CNAME .
 *.1x001.com CNAME .
 1x1x4.com CNAME .
 *.1x1x4.com CNAME .
-1x1x5.com CNAME .
-*.1x1x5.com CNAME .
 1x1x7.com CNAME .
 *.1x1x7.com CNAME .
 1x1x9.com CNAME .
@@ -29208,6 +29236,8 @@ dusioknopper.com CNAME .
 *.dusioknopper.com CNAME .
 duskedaruac.com CNAME .
 *.duskedaruac.com CNAME .
+duskwander.com CNAME .
+*.duskwander.com CNAME .
 dustersaying.com CNAME .
 *.dustersaying.com CNAME .
 dustexhibition.com CNAME .
@@ -71266,6 +71296,8 @@ turnoffpfd.cyou CNAME .
 *.turnoffpfd.cyou CNAME .
 unalivetulips.cyou CNAME .
 *.unalivetulips.cyou CNAME .
+unwrapsstow.cyou CNAME .
+*.unwrapsstow.cyou CNAME .
 vue-js.cyou CNAME .
 *.vue-js.cyou CNAME .
 or.waymentscoops.cyou CNAME .
@@ -87946,8 +87978,12 @@ barmanonymity.shop CNAME .
 *.barmanonymity.shop CNAME .
 barmingorrhoid.shop CNAME .
 *.barmingorrhoid.shop CNAME .
-base.shop CNAME .
-*.base.shop CNAME .
+chiyouranai.base.shop CNAME .
+*.chiyouranai.base.shop CNAME .
+tokujiro.base.shop CNAME .
+*.tokujiro.base.shop CNAME .
+uranai1111.base.shop CNAME .
+*.uranai1111.base.shop CNAME .
 basiscopyright.shop CNAME .
 *.basiscopyright.shop CNAME .
 battuelevered.shop CNAME .
@@ -88500,6 +88536,8 @@ ocotelogeia.shop CNAME .
 *.ocotelogeia.shop CNAME .
 ocypodeursolic.shop CNAME .
 *.ocypodeursolic.shop CNAME .
+oestrumbaure.shop CNAME .
+*.oestrumbaure.shop CNAME .
 oestrumbogging.shop CNAME .
 *.oestrumbogging.shop CNAME .
 olympuscracowe.shop CNAME .

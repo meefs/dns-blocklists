@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 May 2026 09:24 UTC
-# Version: 2026.0526.0924.48
+# Last modified: 26 May 2026 17:33 UTC
+# Version: 2026.0526.1733.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 15694
+# Number of entries: 15706
 #
 local=/trader.212group.de/
 local=/eu.2bagsvalley.cn/
@@ -1078,6 +1078,7 @@ local=/alpiner-stil.com/
 local=/alpineskiequipment.com/
 local=/alpinestil.at/
 local=/alpinex.at/
+local=/alpinvolt.de/
 local=/alpionki.com/
 local=/alpivogue.ch/
 local=/alpstep.com/
@@ -1420,6 +1421,7 @@ local=/artevive.de/
 local=/artidomo.shop/
 local=/artizenti.de/
 local=/artnewsnet.com/
+local=/artofbeautys.de/
 local=/artosnomics.com/
 local=/artourose.com/
 local=/artovitel.com/
@@ -1896,6 +1898,7 @@ local=/beambead.com/
 local=/beamdeals.de/
 local=/beatricesavoy.de/
 local=/beatusbikes.com/
+local=/beautifyshop.de/
 local=/beauty-begins-here.com/
 local=/beauty365.site/
 local=/beautyaftercare.com/
@@ -2049,6 +2052,7 @@ local=/bertone-werkzeugbau.de/
 local=/beruhig-ende.de/
 local=/beruhmteskajak.com/
 local=/beryour.com/
+local=/beschlaege-markt.de/
 local=/beschlaegeprofi.de/
 local=/besellics.com/
 local=/beseregesundheit.com/
@@ -3722,6 +3726,7 @@ local=/dein-heizoelmarkt.de/
 local=/dein-modehaus.de/
 local=/dein-rundfunkbeitrag.de/
 local=/dein-sicheres-bad.de/
+local=/deinautoteileshop.de/
 local=/deinbikeprofi.de/
 local=/deinegartenprofis.de/
 local=/deinemoebelpacker24.at/
@@ -4191,6 +4196,7 @@ local=/dwnewstoday.com/
 local=/dxvape.com/
 local=/dyn-amo.com/
 local=/dynamic-store.com/
+local=/dynamo-shop.at/
 local=/dynamodeal.de/
 local=/dynamos.at/
 local=/dynapharmacy.online/
@@ -5744,6 +5750,7 @@ local=/gartentraktor.com/
 local=/gartentrend.shop/
 local=/gartenundanhaenger.de/
 local=/gartenundoutdoor-de.com/
+local=/gartenvision2.de/
 local=/gartenzau.de/
 local=/gartenzon.de/
 local=/garved.com/
@@ -6190,6 +6197,7 @@ local=/graskaufen.net/
 local=/grasoftness.com/
 local=/gratis-produkttests.com/
 local=/gratis-produkttests.de/
+local=/grauwindgarten.de/
 local=/gravelbikede.com/
 local=/gravitonprofit.com/
 local=/graycanyon.com/
@@ -6247,6 +6255,7 @@ local=/grkwork.com/
 local=/grobenextapro.org/
 local=/groomifypetsstore.com/
 local=/grootfmoveshop.com/
+local=/grosshandelwebservice.de/
 local=/grossiste-parfum-generique.com/
 local=/grossmarkt24.com/
 local=/groundiesdamen.de/
@@ -7816,6 +7825,7 @@ local=/kamagralove.store/
 local=/kamagraman.cz/
 local=/kamagraobchod.cz/
 local=/kamagraonline.sk/
+local=/kamagrapreis.de/
 local=/kamagraprodej.net/
 local=/kamagrashop.online/
 local=/kamagrashop.sk/
@@ -12994,6 +13004,7 @@ local=/solaregis.com/
 local=/solarenergie-beleuchtung.de/
 local=/solarflowcrm.com/
 local=/solarheim.com/
+local=/solaricstore.com/
 local=/solarien-berlin.de/
 local=/solarinstallerscapetown.com/
 local=/solarlc.com/
@@ -13303,6 +13314,7 @@ local=/stilhaus-mode.de/
 local=/stilhausfreiburg.com/
 local=/still-sonderaktionen.de/
 local=/stillhandel.de/
+local=/stillsonline.de/
 local=/stilmark.de/
 local=/stilmoment.com/
 local=/stilovo.de/

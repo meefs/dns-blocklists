@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 May 2026 10:36 UTC
-# Version: 2026.0526.1036.13
+# Last modified: 26 May 2026 17:14 UTC
+# Version: 2026.0526.1714.20
 # Syntax: Domains (without subdomains)
-# Number of entries: 17315
+# Number of entries: 17314
 #
 ss.0001.xyz
 ilovethiswebsite.001-lab.space
@@ -5252,7 +5252,6 @@ howaboutweexecuten.nicher.cl
 lightspeedmenolike.nicher.cl
 dns.nick-slowinski.de
 dns.nicolas.vip
-doh-recursive-to-root.technitium.nicolas-dorriere.fr
 doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr
 doh-own-recursion.nicolas-dorriere.fr
 doh-random-upstream.nicolas-dorriere.fr

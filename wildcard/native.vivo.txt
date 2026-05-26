@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 May 2026 17:08 UTC
-# Version: 2026.0525.1708.06
+# Last modified: 26 May 2026 17:30 UTC
+# Version: 2026.0526.1730.03
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 237
+# Number of entries: 238
 #
 *.vhs.wwstat.com.eo.unicomcdn.com.cn
 *.az.appstore.vivo.com.cn
@@ -62,6 +62,7 @@
 *.asia-vpushort-stsdk.vivoglobal.com
 *.au-vcode-od.vivoglobal.com
 *.br-p.vivoglobal.com
+*.cl-vcode-od.vivoglobal.com
 *.cname-ali-asia-stsdk.vivoglobal.com
 *.cname-asia-comonrt-stsdk.vivoglobal.com
 *.cname-asia-st-exappupgrade.vivoglobal.com

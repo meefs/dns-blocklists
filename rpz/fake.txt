@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779787440 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779816780 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 26 May 2026 09:24 UTC
-; Version: 2026.0526.0924.48
+; Last modified: 26 May 2026 17:33 UTC
+; Version: 2026.0526.1733.41
 ; Syntax: RPZ
-; Number of entries: 31388
+; Number of entries: 31412
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -324,6 +324,8 @@ dopeskijacke.at CNAME .
 *.dopeskijacke.at CNAME .
 drohnenbewilligung.at CNAME .
 *.drohnenbewilligung.at CNAME .
+dynamo-shop.at CNAME .
+*.dynamo-shop.at CNAME .
 dynamos.at CNAME .
 *.dynamos.at CNAME .
 e-rechberger.at CNAME .
@@ -16156,6 +16158,8 @@ solarflowcrm.com CNAME .
 *.solarflowcrm.com CNAME .
 solarheim.com CNAME .
 *.solarheim.com CNAME .
+solaricstore.com CNAME .
+*.solaricstore.com CNAME .
 solarinstallerscapetown.com CNAME .
 *.solarinstallerscapetown.com CNAME .
 solarlc.com CNAME .
@@ -19706,6 +19710,8 @@ alphaskin.de CNAME .
 *.alphaskin.de CNAME .
 alpiner-mode.de CNAME .
 *.alpiner-mode.de CNAME .
+alpinvolt.de CNAME .
+*.alpinvolt.de CNAME .
 alro-stahlbau.de CNAME .
 *.alro-stahlbau.de CNAME .
 alsara-online.de CNAME .
@@ -19876,6 +19882,8 @@ artevive.de CNAME .
 *.artevive.de CNAME .
 artizenti.de CNAME .
 *.artizenti.de CNAME .
+artofbeautys.de CNAME .
+*.artofbeautys.de CNAME .
 arvato-entertainment.de CNAME .
 *.arvato-entertainment.de CNAME .
 arzi.de CNAME .
@@ -20096,6 +20104,8 @@ beamdeals.de CNAME .
 *.beamdeals.de CNAME .
 beatricesavoy.de CNAME .
 *.beatricesavoy.de CNAME .
+beautifyshop.de CNAME .
+*.beautifyshop.de CNAME .
 beautyclam.de CNAME .
 *.beautyclam.de CNAME .
 beautyhausberlin.de CNAME .
@@ -20208,6 +20218,8 @@ bertone-werkzeugbau.de CNAME .
 *.bertone-werkzeugbau.de CNAME .
 beruhig-ende.de CNAME .
 *.beruhig-ende.de CNAME .
+beschlaege-markt.de CNAME .
+*.beschlaege-markt.de CNAME .
 beschlaegeprofi.de CNAME .
 *.beschlaegeprofi.de CNAME .
 bessere-reifen.de CNAME .
@@ -21034,6 +21046,8 @@ dein-rundfunkbeitrag.de CNAME .
 *.dein-rundfunkbeitrag.de CNAME .
 dein-sicheres-bad.de CNAME .
 *.dein-sicheres-bad.de CNAME .
+deinautoteileshop.de CNAME .
+*.deinautoteileshop.de CNAME .
 deinbikeprofi.de CNAME .
 *.deinbikeprofi.de CNAME .
 deinegartenprofis.de CNAME .
@@ -22170,6 +22184,8 @@ gartenstadl.de CNAME .
 *.gartenstadl.de CNAME .
 gartenundanhaenger.de CNAME .
 *.gartenundanhaenger.de CNAME .
+gartenvision2.de CNAME .
+*.gartenvision2.de CNAME .
 gartenzau.de CNAME .
 *.gartenzau.de CNAME .
 gartenzon.de CNAME .
@@ -22384,6 +22400,8 @@ gplate.de CNAME .
 *.gplate.de CNAME .
 gratis-produkttests.de CNAME .
 *.gratis-produkttests.de CNAME .
+grauwindgarten.de CNAME .
+*.grauwindgarten.de CNAME .
 greeneggstore.de CNAME .
 *.greeneggstore.de CNAME .
 greentec-handel.de CNAME .
@@ -22400,6 +22418,8 @@ grilles.de CNAME .
 *.grilles.de CNAME .
 grillflix.de CNAME .
 *.grillflix.de CNAME .
+grosshandelwebservice.de CNAME .
+*.grosshandelwebservice.de CNAME .
 groundiesdamen.de CNAME .
 *.groundiesdamen.de CNAME .
 groundiesdeutsch.de CNAME .
@@ -23332,6 +23352,8 @@ kaltesholz.de CNAME .
 *.kaltesholz.de CNAME .
 kamagraeu.de CNAME .
 *.kamagraeu.de CNAME .
+kamagrapreis.de CNAME .
+*.kamagrapreis.de CNAME .
 kamerarabatt.de CNAME .
 *.kamerarabatt.de CNAME .
 kamerasecure.de CNAME .
@@ -26214,6 +26236,8 @@ still-sonderaktionen.de CNAME .
 *.still-sonderaktionen.de CNAME .
 stillhandel.de CNAME .
 *.stillhandel.de CNAME .
+stillsonline.de CNAME .
+*.stillsonline.de CNAME .
 stilmark.de CNAME .
 *.stilmark.de CNAME .
 stilovo.de CNAME .

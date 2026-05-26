@@ -4593,6 +4593,13 @@
       }
     },
     {
+      "PK": "my-board.org",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "my-free.website",
       "action": {
         "do": 0,
@@ -5441,6 +5448,13 @@
     },
     {
       "PK": "r.gp",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "rapidshare.se",
       "action": {
         "do": 0,
         "status": 1

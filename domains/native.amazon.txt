@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 May 2026 17:02 UTC
-# Version: 2026.0525.1702.26
+# Last modified: 26 May 2026 17:24 UTC
+# Version: 2026.0526.1724.22
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 695
+# Number of entries: 696
 #
 3px.axp.amazon-adsystem.com
 aan.amazon.co.jp
@@ -458,6 +458,7 @@ ott.eu-west.aps.axp.amazon-adsystem.com
 ott.us-east.aps.axp.amazon-adsystem.com
 ott.us-west.aps.axp.amazon-adsystem.com
 paa-reporting-advertising.amazon
+pg.bid-na.ads.aps.amazon-adsystem.com
 pg.event-na.ads.aps.amazon-adsystem.com
 pins-test.spp.bid-na.ads.aps.amazon-adsystem.com
 pri1-3ps.amazon-adsystem.com
