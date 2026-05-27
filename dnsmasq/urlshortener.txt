@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 May 2026 16:52 UTC
-# Version: 2026.0524.1652.48
+# Last modified: 27 May 2026 09:17 UTC
+# Version: 2026.0527.0917.22
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9872
+# Number of entries: 9880
 #
 local=/a.189.cn/
 local=/t.2merkato.com/
@@ -1899,6 +1899,7 @@ local=/biaotee.top/
 local=/biastonu.com/
 local=/bibl.es/
 local=/bidiurl.com/
+local=/bidsforkids.org/
 local=/bie.to/
 local=/bigbigwinjiliwin63.online/
 local=/bigcc.cc/
@@ -3442,6 +3443,7 @@ local=/fox.tv/
 local=/foxc.art/
 local=/foxlyme.com/
 local=/fpis.live/
+local=/fpr.li/
 local=/fpt.one/
 local=/fptlink.com/
 local=/frama.link/
@@ -5309,6 +5311,7 @@ local=/macau123.link/
 local=/machess.org/
 local=/maejo.link/
 local=/maga.lu/
+local=/magatxt.us/
 local=/magaus.co/
 local=/magaus.net/
 local=/magaus.org/
@@ -7634,6 +7637,7 @@ local=/sk.gy/
 local=/sk.news/
 local=/sk8.by/
 local=/skanshort.com/
+local=/ski.gd/
 local=/skimmth.is/
 local=/skiplinko.com/
 local=/skippy.online/
@@ -7720,6 +7724,7 @@ local=/smlnk.us/
 local=/smlr.nu/
 local=/smo.do/
 local=/smol.re/
+local=/smoll.click/
 local=/smollq.cc/
 local=/smoner.com/
 local=/smr.sh/
@@ -8166,6 +8171,7 @@ local=/texasbisa.org/
 local=/texmlink.com/
 local=/texn.cc/
 local=/text2reach.lv/
+local=/textmydeals.com/
 local=/tfg2000.de/
 local=/tfushort.com/
 local=/tg.pe/
@@ -9065,6 +9071,7 @@ local=/useshort.com/
 local=/usetiny.link/
 local=/usetypeai.com/
 local=/usf.services/
+local=/usglife.com/
 local=/usheethe.com/
 local=/ushort.my/
 local=/ushort.xyz/
@@ -9138,6 +9145,7 @@ local=/vdr.cloud/
 local=/vea.link/
 local=/vedem.fr/
 local=/vefsupply.ca/
+local=/vegamoveis.link/
 local=/vehi.co/
 local=/veja.me/
 local=/vemna.bio/

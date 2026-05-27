@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779641520 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779873420 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 May 2026 16:52 UTC
-; Version: 2026.0524.1652.48
+; Last modified: 27 May 2026 09:17 UTC
+; Version: 2026.0527.0917.22
 ; Syntax: RPZ
-; Number of entries: 19744
+; Number of entries: 19760
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2067,6 +2067,8 @@ shrinkme.click CNAME .
 *.shrinkme.click CNAME .
 shrtlk.click CNAME .
 *.shrtlk.click CNAME .
+smoll.click CNAME .
+*.smoll.click CNAME .
 snd.click CNAME .
 *.snd.click CNAME .
 t77reg.click CNAME .
@@ -6825,6 +6827,8 @@ texas88register.com CNAME .
 *.texas88register.com CNAME .
 texmlink.com CNAME .
 *.texmlink.com CNAME .
+textmydeals.com CNAME .
+*.textmydeals.com CNAME .
 tfushort.com CNAME .
 *.tfushort.com CNAME .
 tgdgacor.com CNAME .
@@ -7413,6 +7417,8 @@ useshort.com CNAME .
 *.useshort.com CNAME .
 usetypeai.com CNAME .
 *.usetypeai.com CNAME .
+usglife.com CNAME .
+*.usglife.com CNAME .
 usheethe.com CNAME .
 *.usheethe.com CNAME .
 usreviewers.com CNAME .
@@ -8991,6 +8997,8 @@ ou.gd CNAME .
 *.ou.gd CNAME .
 pic.gd CNAME .
 *.pic.gd CNAME .
+ski.gd CNAME .
+*.ski.gd CNAME .
 soo.gd CNAME .
 *.soo.gd CNAME .
 ta.gd CNAME .
@@ -12033,6 +12041,8 @@ emu.li CNAME .
 *.emu.li CNAME .
 eys.li CNAME .
 *.eys.li CNAME .
+fpr.li CNAME .
+*.fpr.li CNAME .
 geg.li CNAME .
 *.geg.li CNAME .
 glob.li CNAME .
@@ -12975,6 +12985,8 @@ vast.link CNAME .
 *.vast.link CNAME .
 vea.link CNAME .
 *.vea.link CNAME .
+vegamoveis.link CNAME .
+*.vegamoveis.link CNAME .
 vercel.link CNAME .
 *.vercel.link CNAME .
 vhs.link CNAME .
@@ -15883,6 +15895,8 @@ l.attac.org CNAME .
 *.l.attac.org CNAME .
 bettercov.org CNAME .
 *.bettercov.org CNAME .
+bidsforkids.org CNAME .
+*.bidsforkids.org CNAME .
 talk.bloomup.org CNAME .
 *.talk.bloomup.org CNAME .
 blueskymap.org CNAME .
@@ -18949,6 +18963,8 @@ lur.us CNAME .
 *.lur.us CNAME .
 lk.macmarketing.us CNAME .
 *.lk.macmarketing.us CNAME .
+magatxt.us CNAME .
+*.magatxt.us CNAME .
 mhi5.us CNAME .
 *.mhi5.us CNAME .
 mitly.us CNAME .
