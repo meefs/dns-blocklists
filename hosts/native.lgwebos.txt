@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 May 2026 17:06 UTC
-# Version: 2026.0525.1706.32
+# Last modified: 27 May 2026 17:10 UTC
+# Version: 2026.0527.1710.17
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1757
+# Number of entries: 1759
 #
 0.0.0.0 alphonso.tv
 0.0.0.0 aaqhmintg9.alphonso.tv
@@ -970,6 +970,7 @@
 0.0.0.0 tkacr602.alphonso.tv
 0.0.0.0 tkacr603.alphonso.tv
 0.0.0.0 tkacr604.alphonso.tv
+0.0.0.0 tkacr605.alphonso.tv
 0.0.0.0 tkacr606.alphonso.tv
 0.0.0.0 tkacr607.alphonso.tv
 0.0.0.0 tkacr608.alphonso.tv
@@ -1419,6 +1420,7 @@
 0.0.0.0 lgads.tv
 0.0.0.0 www.lgads.tv
 0.0.0.0 eic-ngfts.lge.com
+0.0.0.0 eic-qt2-ngfts.lge.com
 0.0.0.0 kic-ngfts.lge.com
 0.0.0.0 qt2-ngfts.lge.com
 0.0.0.0 ruc-ngfts.lge.com

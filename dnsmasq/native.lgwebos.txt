@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 May 2026 17:06 UTC
-# Version: 2026.0525.1706.32
+# Last modified: 27 May 2026 17:10 UTC
+# Version: 2026.0527.1710.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 338
+# Number of entries: 339
 #
 local=/ae-ad-lgsmartad-com.aws-prd.net/
 local=/af-ad-lgsmartad-com.aws-prd.net/
@@ -177,6 +177,7 @@ local=/eic-ngfts.lge.com.edgekey.net/
 local=/kic-ngfts.lge.com.edgekey.net/
 local=/qt2-ngfts.lge.com.edgekey.net/
 local=/eic-ngfts.lge.com/
+local=/eic-qt2-ngfts.lge.com/
 local=/kic-ngfts.lge.com/
 local=/qt2-ngfts.lge.com/
 local=/ruc-ngfts.lge.com/

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779873420 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779900780 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 27 May 2026 09:17 UTC
-; Version: 2026.0527.0917.22
+; Last modified: 27 May 2026 16:53 UTC
+; Version: 2026.0527.1653.57
 ; Syntax: RPZ
-; Number of entries: 19760
+; Number of entries: 19754
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -6049,8 +6049,6 @@ redirigere.com CNAME .
 *.redirigere.com CNAME .
 redirme.com CNAME .
 *.redirme.com CNAME .
-redirx.com CNAME .
-*.redirx.com CNAME .
 redtolnk.com CNAME .
 *.redtolnk.com CNAME .
 reducelnk.com CNAME .
@@ -13193,8 +13191,6 @@ unc.live CNAME .
 *.unc.live CNAME .
 urllink.live CNAME .
 *.urllink.live CNAME .
-urlshortenerr.live CNAME .
-*.urlshortenerr.live CNAME .
 v2g.live CNAME .
 *.v2g.live CNAME .
 vendoagora.live CNAME .
@@ -19275,8 +19271,6 @@ hokidana.vip CNAME .
 *.hokidana.vip CNAME .
 lihi.vip CNAME .
 *.lihi.vip CNAME .
-link-me.vip CNAME .
-*.link-me.vip CNAME .
 linkrefferal.vip CNAME .
 *.linkrefferal.vip CNAME .
 linkwede.vip CNAME .

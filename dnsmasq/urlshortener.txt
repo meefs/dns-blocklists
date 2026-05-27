@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 May 2026 09:17 UTC
-# Version: 2026.0527.0917.22
+# Last modified: 27 May 2026 16:53 UTC
+# Version: 2026.0527.1653.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9880
+# Number of entries: 9877
 #
 local=/a.189.cn/
 local=/t.2merkato.com/
@@ -4767,7 +4767,6 @@ local=/link.space/
 local=/link-cut.com/
 local=/link-ease.in/
 local=/link-fe.nz/
-local=/link-me.vip/
 local=/link-safe.co/
 local=/link-trim.com/
 local=/link-trim.in/
@@ -6766,7 +6765,6 @@ local=/redirectools.com/
 local=/redirects.ca/
 local=/redirigere.com/
 local=/redirme.com/
-local=/redirx.com/
 local=/redly.vip/
 local=/redr.me/
 local=/redsend.net/
@@ -8994,7 +8992,6 @@ local=/urlshortener.biz/
 local=/urlshortener.bnpparibas/
 local=/urlshortener.pro/
 local=/urlshortener.site/
-local=/urlshortenerr.live/
 local=/urlshortenertool.com/
 local=/urlshortenervip.com/
 local=/urlshortenerx.com/

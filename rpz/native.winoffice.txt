@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779816300 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779901560 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Windows/Office Tracker DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 26 May 2026 17:25 UTC
-; Version: 2026.0526.1725.10
+; Last modified: 27 May 2026 17:06 UTC
+; Version: 2026.0527.1706.51
 ; Syntax: RPZ
-; Number of entries: 752
+; Number of entries: 754
 ;
 h4g3z1-native.winoffice.web.app CNAME .
 *.h4g3z1-native.winoffice.web.app CNAME .
@@ -608,6 +608,8 @@ beacons.trafficmanager.net CNAME .
 *.beacons.trafficmanager.net CNAME .
 bingads.trafficmanager.net CNAME .
 *.bingads.trafficmanager.net CNAME .
+ch-asimov-leafs-events-data.trafficmanager.net CNAME .
+*.ch-asimov-leafs-events-data.trafficmanager.net CNAME .
 collector-main.trafficmanager.net CNAME .
 *.collector-main.trafficmanager.net CNAME .
 tracker.flightview.com.trafficmanager.net CNAME .

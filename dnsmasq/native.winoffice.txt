@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 May 2026 17:25 UTC
-# Version: 2026.0526.1725.10
+# Last modified: 27 May 2026 17:06 UTC
+# Version: 2026.0527.1706.51
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 376
+# Number of entries: 377
 #
 local=/c-bingapis-com.dual-a-0034.a-msedge.net/
 local=/measure.office.com.akamaized.net/
@@ -316,6 +316,7 @@ local=/analytics.trafficmanager.net/
 local=/analytics-listener.trafficmanager.net/
 local=/beacons.trafficmanager.net/
 local=/bingads.trafficmanager.net/
+local=/ch-asimov-leafs-events-data.trafficmanager.net/
 local=/collector-main.trafficmanager.net/
 local=/dsp-ad-cache-tm.trafficmanager.net/
 local=/eventservice.trafficmanager.net/

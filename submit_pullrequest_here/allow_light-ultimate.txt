@@ -1,6 +1,9 @@
 # Unblocking for all lists (relaxed, balanced, aggressive and strict)
 # Domains to be removed from the light, normal, pro, pro++ and ultimate list. Also from the fake, popupads and tif.
 
+# This endpoint is essential for Find Hub to function. It is used during all operations related to the Find Hub Network, including the enrollment of new devices. More importantly, this domain also allows users to receive alerts when an unwanted tracking device follows them, and it provides identification and disablement information.
+spot-pa.googleapis.com
+
 # Paypal 3P login issues in some apps and webshops
 ddbm2.paypal.com
 ddbm2.paypal.com.first-party-js.datadome.co
