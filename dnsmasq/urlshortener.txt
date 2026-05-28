@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 May 2026 16:53 UTC
-# Version: 2026.0527.1653.57
+# Last modified: 28 May 2026 10:06 UTC
+# Version: 2026.0528.1006.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9877
+# Number of entries: 9878
 #
 local=/a.189.cn/
 local=/t.2merkato.com/
@@ -3502,6 +3502,7 @@ local=/g-web.in/
 local=/g00.me/
 local=/g02.biz/
 local=/g22jaya.me/
+local=/g2h7.shop/
 local=/g9.yt/
 local=/ga.co/
 local=/gaa.st/

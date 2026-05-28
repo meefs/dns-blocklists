@@ -2660,6 +2660,13 @@
       }
     },
     {
+      "PK": "flo.health",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.florist",
       "action": {
         "do": 0,
@@ -3004,6 +3011,13 @@
     },
     {
       "PK": "git.new",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "giveaway.ninja",
       "action": {
         "do": 1,
         "status": 1

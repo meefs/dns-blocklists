@@ -1982,6 +1982,13 @@
       }
     },
     {
+      "PK": "flo.health",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "flourish.studio",
       "action": {
         "do": 1,
@@ -2214,6 +2221,13 @@
     },
     {
       "PK": "git.new",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "giveaway.ninja",
       "action": {
         "do": 1,
         "status": 1

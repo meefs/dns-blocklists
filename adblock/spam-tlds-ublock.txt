@@ -11,8 +11,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 25 May 2026 09:52 UTC
-! Version: 2026.0525.0952.42
+! Last modified: 28 May 2026 10:23 UTC
+! Version: 2026.0528.1023.30
 ! Syntax: uBlock
 ! Number of latin TLDs: 294 - punycode TLDs: 151
 !
@@ -142,7 +142,7 @@
 ||guru^$doc,domain=~bahn.guru|~base64.guru|~crontab.guru|~greenlight.guru|~jav.guru|~ludwig.guru|~mags.guru|~tilde.guru|~watcher.guru|~webcal.guru
 ||hair^$doc
 ||haus^$doc,domain=~lunar.haus
-||health^$doc,domain=~sca.health
+||health^$doc,domain=~flo.health|~sca.health
 ||healthcare^$doc,domain=~severance.healthcare
 ||help^$doc,domain=~crisp.help|~fastmail.help|~gorgias.help|~intercom.help|~kustomer.help|~pixiv.help
 ||hl.cn^$doc,domain=~lzk.hl.cn
@@ -195,7 +195,7 @@
 ||navy^$doc
 ||new^$doc,domain=~bolt.new|~doc.new|~drawing.new|~form.new|~git.new|~lecture.new|~postgres.new|~sheet.new|~site.new|~slide.new
 ||ng^$doc,domain=~coupa.ng|~google.com.ng
-||ninja^$doc,domain=~clash.ninja|~poe.ninja|~protomedia.ninja|~tgtg.ninja
+||ninja^$doc,domain=~clash.ninja|~giveaway.ninja|~poe.ninja|~protomedia.ninja|~tgtg.ninja
 ||observer^$doc,domain=~project2025.observer
 ||okinawa^$doc
 ||ong^$doc

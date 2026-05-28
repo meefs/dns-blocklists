@@ -5,11 +5,13 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 May 2026 17:26 UTC
-# Version: 2026.0526.1726.51
+# Last modified: 28 May 2026 06:25 UTC
+# Version: 2026.0528.0625.34
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 386
+# Number of entries: 388
 #
+0.0.0.0 ads-sg.business-tiktok.com
+0.0.0.0 ads-va.business-tiktok.com
 0.0.0.0 frontier.byteoversea.com
 0.0.0.0 gplog-sg.byteoversea.com
 0.0.0.0 gplog-va.byteoversea.com
