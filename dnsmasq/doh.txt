@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 May 2026 17:13 UTC
-# Version: 2026.0526.1713.24
+# Last modified: 28 May 2026 02:07 UTC
+# Version: 2026.0528.0207.09
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3415
+# Number of entries: 3416
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -2451,6 +2451,7 @@ local=/dns.serdcebolit.ru/
 local=/dns1.serdcebolit.ru/
 local=/forzalaquila.servebeer.com/
 local=/privatnas.servebeer.com/
+local=/doh.serverhost.no/
 local=/adguard.servernation.xyz/
 local=/node9.servernode.store/
 local=/adguard.serverrune.be/

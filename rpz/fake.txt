@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779873240 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779929160 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 27 May 2026 09:14 UTC
-; Version: 2026.0527.0914.42
+; Last modified: 28 May 2026 00:46 UTC
+; Version: 2026.0528.0046.58
 ; Syntax: RPZ
-; Number of entries: 31468
+; Number of entries: 31472
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -6984,6 +6984,8 @@ fatalah.com CNAME .
 *.fatalah.com CNAME .
 fatbike-de.com CNAME .
 *.fatbike-de.com CNAME .
+fatoobal.com CNAME .
+*.fatoobal.com CNAME .
 favoritebicycle.com CNAME .
 *.favoritebicycle.com CNAME .
 favoriteboxing.com CNAME .
@@ -17782,6 +17784,8 @@ trikotarena.com CNAME .
 *.trikotarena.com CNAME .
 trikotfachshop.com CNAME .
 *.trikotfachshop.com CNAME .
+trikotfc.com CNAME .
+*.trikotfc.com CNAME .
 trillant.com CNAME .
 *.trillant.com CNAME .
 trinkmeistershop.com CNAME .

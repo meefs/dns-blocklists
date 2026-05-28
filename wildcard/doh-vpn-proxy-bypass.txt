@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 May 2026 10:39 UTC
-# Version: 2026.0527.1039.21
+# Last modified: 28 May 2026 02:07 UTC
+# Version: 2026.0528.0207.53
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 17314
+# Number of entries: 17315
 #
 *.ss.0001.xyz
 *.ilovethiswebsite.001-lab.space
@@ -6176,6 +6176,7 @@
 *.dns1.serdcebolit.ru
 *.forzalaquila.servebeer.com
 *.privatnas.servebeer.com
+*.doh.serverhost.no
 *.adguard.servernation.xyz
 *.node9.servernode.store
 *.ikeepgooning.serverpit.com

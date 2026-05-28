@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 May 2026 09:14 UTC
-# Version: 2026.0527.0914.42
+# Last modified: 28 May 2026 00:46 UTC
+# Version: 2026.0528.0046.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 15734
+# Number of entries: 15736
 #
 local=/trader.212group.de/
 local=/eu.2bagsvalley.cn/
@@ -5049,6 +5049,7 @@ local=/fatbike-de.com/
 local=/fatburner-guru.de/
 local=/fatburnerking.at/
 local=/fatea.shop/
+local=/fatoobal.com/
 local=/fauke.de/
 local=/favoritebicycle.com/
 local=/favoriteboxing.com/
@@ -14302,6 +14303,7 @@ local=/trgartenservice.de/
 local=/trikoa.com/
 local=/trikotarena.com/
 local=/trikotfachshop.com/
+local=/trikotfc.com/
 local=/trikotrabatt.de/
 local=/trikotsale.de/
 local=/trillant.com/

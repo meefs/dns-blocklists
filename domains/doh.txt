@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 May 2026 17:13 UTC
-# Version: 2026.0526.1713.24
+# Last modified: 28 May 2026 02:07 UTC
+# Version: 2026.0528.0207.09
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3874
+# Number of entries: 3875
 #
 ss.0001.xyz
 003153.xyz
@@ -3249,6 +3249,7 @@ dns.serdcebolit.ru
 dns1.serdcebolit.ru
 forzalaquila.servebeer.com
 privatnas.servebeer.com
+doh.serverhost.no
 adguard.servernation.xyz
 node9.servernode.store
 adguard.serverrune.be
