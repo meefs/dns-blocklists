@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780055220 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780077180 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 29 May 2026 11:47 UTC
-; Version: 2026.0529.1147.33
+; Last modified: 29 May 2026 17:53 UTC
+; Version: 2026.0529.1753.57
 ; Syntax: RPZ
 ; Number of entries: 41710
 ;
@@ -26078,8 +26078,6 @@ lordfilms-2026.online CNAME .
 *.lordfilms-2026.online CNAME .
 lordfilms2025.online CNAME .
 *.lordfilms2025.online CNAME .
-lordfilmsjak3.online CNAME .
-*.lordfilmsjak3.online CNAME .
 lordfilmsnew.online CNAME .
 *.lordfilmsnew.online CNAME .
 lordfilmtv1.online CNAME .
@@ -39308,6 +39306,8 @@ breathetheword.org.uk CNAME .
 *.breathetheword.org.uk CNAME .
 ccftootingbec.org.uk CNAME .
 *.ccftootingbec.org.uk CNAME .
+hdmovie2.org.uk CNAME .
+*.hdmovie2.org.uk CNAME .
 pirateparty.org.uk CNAME .
 *.pirateparty.org.uk CNAME .
 pleasuredome.org.uk CNAME .

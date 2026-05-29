@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 May 2026 17:06 UTC
-# Version: 2026.0527.1706.51
+# Last modified: 29 May 2026 18:08 UTC
+# Version: 2026.0529.1808.22
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 377
+# Number of entries: 383
 #
 *.c-bingapis-com.dual-a-0034.a-msedge.net
 *.measure.office.com.akamaized.net
@@ -48,6 +48,12 @@
 *.g.bing.com
 *.raka.bing.com
 *.c.bingapis.com
+*.upload.fp.measure.office.com.corp.mmco.int.cardano.com
+*.exo.nel.measure.office.net.cardano.com
+*.identity.nel.measure.office.net.cardano.com
+*.m365cdn.nel.measure.office.net.cardano.com
+*.spo.nel.measure.office.net.cardano.com
+*.teams.nel.measure.office.net.cardano.com
 *.insights.cloud.microsoft
 *.measure.office.net.edgesuite.net
 *.collector.azure.eaglex.ic.gov

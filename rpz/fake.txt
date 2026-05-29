@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780051020 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780078620 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 29 May 2026 10:37 UTC
-; Version: 2026.0529.1037.57
+; Last modified: 29 May 2026 18:17 UTC
+; Version: 2026.0529.1817.02
 ; Syntax: RPZ
-; Number of entries: 31628
+; Number of entries: 31642
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -2134,8 +2134,6 @@ alijz.com CNAME .
 *.alijz.com CNAME .
 alinatonce.com CNAME .
 *.alinatonce.com CNAME .
-alinea-online.com CNAME .
-*.alinea-online.com CNAME .
 alituranbarbershop.com CNAME .
 *.alituranbarbershop.com CNAME .
 aliveeshop.com CNAME .
@@ -3752,6 +3750,8 @@ bitcoin-pharmacy.com CNAME .
 *.bitcoin-pharmacy.com CNAME .
 bitcoinarchon.com CNAME .
 *.bitcoinarchon.com CNAME .
+bitcoinera.com CNAME .
+*.bitcoinera.com CNAME .
 bitcoingroup-vip.com CNAME .
 *.bitcoingroup-vip.com CNAME .
 bitcoinl3.com CNAME .
@@ -7168,6 +7168,8 @@ finanzasforex.com CNAME .
 *.finanzasforex.com CNAME .
 finanzenexpress.com CNAME .
 *.finanzenexpress.com CNAME .
+finanzplanungwittenberg.com CNAME .
+*.finanzplanungwittenberg.com CNAME .
 finaurex.com CNAME .
 *.finaurex.com CNAME .
 finca-selection.com CNAME .
@@ -8022,6 +8024,8 @@ get-omnihear.com CNAME .
 *.get-omnihear.com CNAME .
 get-purisaki.com CNAME .
 *.get-purisaki.com CNAME .
+get1stbridge.com CNAME .
+*.get1stbridge.com CNAME .
 getalliny.com CNAME .
 *.getalliny.com CNAME .
 geteasygroup.com CNAME .
@@ -8404,8 +8408,6 @@ greenbird-shop.com CNAME .
 *.greenbird-shop.com CNAME .
 greenhousesshop.com CNAME .
 *.greenhousesshop.com CNAME .
-greenlim.com CNAME .
-*.greenlim.com CNAME .
 greentuning-de.com CNAME .
 *.greentuning-de.com CNAME .
 greesioun.com CNAME .
@@ -13494,6 +13496,8 @@ oppositen.com CNAME .
 *.oppositen.com CNAME .
 opt-toysbase.com CNAME .
 *.opt-toysbase.com CNAME .
+opte-grup.com CNAME .
+*.opte-grup.com CNAME .
 optessentialoils.com CNAME .
 *.optessentialoils.com CNAME .
 optimalattire.com CNAME .
@@ -15138,6 +15142,8 @@ robottonte.com CNAME .
 *.robottonte.com CNAME .
 robowerkstatten.com CNAME .
 *.robowerkstatten.com CNAME .
+robozen-fx.com CNAME .
+*.robozen-fx.com CNAME .
 robustwerkzeug.com CNAME .
 *.robustwerkzeug.com CNAME .
 rochobbies.com CNAME .
@@ -18968,6 +18974,8 @@ werkzeugverkauf.com CNAME .
 *.werkzeugverkauf.com CNAME .
 werkzeugversorgung.com CNAME .
 *.werkzeugversorgung.com CNAME .
+werner-ringle.com CNAME .
+*.werner-ringle.com CNAME .
 west-tek.com CNAME .
 *.west-tek.com CNAME .
 westcoastmarketing-sales.com CNAME .
@@ -27606,12 +27614,16 @@ americansupplements.eu CNAME .
 *.americansupplements.eu CNAME .
 artemondo.eu CNAME .
 *.artemondo.eu CNAME .
+aurixa.eu CNAME .
+*.aurixa.eu CNAME .
 balancecentrum.eu CNAME .
 *.balancecentrum.eu CNAME .
 bit500.eu CNAME .
 *.bit500.eu CNAME .
 blockshape.eu CNAME .
 *.blockshape.eu CNAME .
+bsgate.eu CNAME .
+*.bsgate.eu CNAME .
 budgetmagic.eu CNAME .
 *.budgetmagic.eu CNAME .
 bxcapitalmarkets.eu CNAME .
@@ -29302,6 +29314,8 @@ nationalstemcellbank.org CNAME .
 *.nationalstemcellbank.org CNAME .
 nofish.org CNAME .
 *.nofish.org CNAME .
+nordstate.org CNAME .
+*.nordstate.org CNAME .
 nowsales.org CNAME .
 *.nowsales.org CNAME .
 ntischoolpune.org CNAME .

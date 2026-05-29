@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 May 2026 17:14 UTC
-# Version: 2026.0527.1714.40
+# Last modified: 29 May 2026 18:15 UTC
+# Version: 2026.0529.1815.43
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 269
+# Number of entries: 270
 #
 samsung-com.112.2o7.net
 metric.account-samsung.com
@@ -183,6 +183,7 @@ go.samsungads.com
 go2.samsungads.com
 rtb-config.samsungads.com
 tvp-ads-log.samsungads.com
+tvp-ads-log-staging.samsungads.com
 tvp-interactive-ad.samsungads.com
 www.samsungads.com
 samsungallstore.com

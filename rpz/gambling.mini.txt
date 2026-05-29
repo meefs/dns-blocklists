@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780055160 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780077780 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 29 May 2026 11:46 UTC
-; Version: 2026.0529.1146.43
+; Last modified: 29 May 2026 18:03 UTC
+; Version: 2026.0529.1803.41
 ; Syntax: RPZ
-; Number of entries: 95498
+; Number of entries: 95486
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -5644,8 +5644,6 @@ tiger138.capital CNAME .
 *.7l.cash CNAME .
 888pg.cash CNAME .
 *.888pg.cash CNAME .
-idcash88.cash CNAME .
-*.idcash88.cash CNAME .
 vavada-casino.cash CNAME .
 *.vavada-casino.cash CNAME .
 00w.casino CNAME .
@@ -21568,8 +21566,6 @@ amdbet99slot.com CNAME .
 *.amdbet99slot.com CNAME .
 ameerahs.com CNAME .
 *.ameerahs.com CNAME .
-ameirylife.com CNAME .
-*.ameirylife.com CNAME .
 america777.com CNAME .
 *.america777.com CNAME .
 american-blackjack.com CNAME .
@@ -32404,8 +32400,6 @@ forzza1.com CNAME .
 *.forzza1.com CNAME .
 forzzawincasino.com CNAME .
 *.forzzawincasino.com CNAME .
-fourseasonsgolfcenter.com CNAME .
-*.fourseasonsgolfcenter.com CNAME .
 fourthstreetpoker.com CNAME .
 *.fourthstreetpoker.com CNAME .
 fourwinds.com CNAME .
@@ -72250,8 +72244,6 @@ luxorcasinolasvegas.org CNAME .
 *.luxorcasinolasvegas.org CNAME .
 mab96bets.org CNAME .
 *.mab96bets.org CNAME .
-macanterbang.org CNAME .
-*.macanterbang.org CNAME .
 macaubet77.org CNAME .
 *.macaubet77.org CNAME .
 machance-casino.org CNAME .
@@ -78634,8 +78626,6 @@ lajoaquicasino.site CNAME .
 *.lajoaquicasino.site CNAME .
 lalabetcasino.site CNAME .
 *.lalabetcasino.site CNAME .
-langkah4d-mgl.site CNAME .
-*.langkah4d-mgl.site CNAME .
 leoncasino-gr.site CNAME .
 *.leoncasino-gr.site CNAME .
 librabet-casino.site CNAME .
@@ -78794,8 +78784,6 @@ pokerush.site CNAME .
 *.pokerush.site CNAME .
 possucasino.site CNAME .
 *.possucasino.site CNAME .
-prediksiulartoto.site CNAME .
-*.prediksiulartoto.site CNAME .
 qqslotsummer.site CNAME .
 *.qqslotsummer.site CNAME .
 raspadinha-slots-online3.site CNAME .

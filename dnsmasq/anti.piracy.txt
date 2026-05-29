@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 May 2026 11:47 UTC
-# Version: 2026.0529.1147.33
+# Last modified: 29 May 2026 17:53 UTC
+# Version: 2026.0529.1753.57
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 20855
 #
@@ -918,6 +918,7 @@ local=/cah4e3.shedevr.org.ru/
 local=/tracker.swateam.org.uk/
 local=/breathetheword.org.uk/
 local=/ccftootingbec.org.uk/
+local=/hdmovie2.org.uk/
 local=/kinocentral.org.ua/
 local=/pirateparty.org.uk/
 local=/pleasuredome.org.uk/
@@ -11824,7 +11825,6 @@ local=/lordfilmshz.lat/
 local=/lordfilmsi.casa/
 local=/lordfilmsij.lat/
 local=/lordfilmsin.top/
-local=/lordfilmsjak3.online/
 local=/lordfilmsjd.lat/
 local=/lordfilmsjf.lat/
 local=/lordfilmsjh.lat/

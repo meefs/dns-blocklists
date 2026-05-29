@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 May 2026 10:37 UTC
-# Version: 2026.0529.1037.57
+# Last modified: 29 May 2026 18:17 UTC
+# Version: 2026.0529.1817.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 15814
+# Number of entries: 15821
 #
 local=/trader.212group.de/
 local=/eu.2bagsvalley.cn/
@@ -981,7 +981,6 @@ local=/aliands.com/
 local=/alicevintage.com/
 local=/alijz.com/
 local=/alinatonce.com/
-local=/alinea-online.com/
 local=/alioth.club/
 local=/alituranbarbershop.com/
 local=/aliveeshop.com/
@@ -1555,6 +1554,7 @@ local=/auresthiqan.sbs/
 local=/aurevo-fashion.com/
 local=/aurexk-pital.com/
 local=/auriaofficiel.com/
+local=/aurixa.eu/
 local=/aurolonix.com/
 local=/aurorababyspa.online/
 local=/aurorahikari.com/
@@ -2350,6 +2350,7 @@ local=/bitcoin-up.io/
 local=/bitcoin-xact.fr/
 local=/bitcoinarchon.com/
 local=/bitcoineer.de/
+local=/bitcoinera.com/
 local=/bitcoingroup-vip.com/
 local=/bitcoinl3.com/
 local=/bitcoinmotion.com/
@@ -2659,6 +2660,7 @@ local=/bs-gmbh.de/
 local=/bs2best.at/
 local=/bs2site.at/
 local=/bse-capital.com/
+local=/bsgate.eu/
 local=/bshoptodayus.com/
 local=/bsonlineshophk.com/
 local=/btcinvest.app/
@@ -5211,6 +5213,7 @@ local=/finanz-privat.com/
 local=/finanzarena.pro/
 local=/finanzasforex.com/
 local=/finanzenexpress.com/
+local=/finanzplanungwittenberg.com/
 local=/finanzwelt.pro/
 local=/finapactglobal.net/
 local=/finarionaxi.fr/
@@ -5954,6 +5957,7 @@ local=/get-omnihear.com/
 local=/get-purisaki.com/
 local=/get-rc.to/
 local=/get-teralin.site/
+local=/get1stbridge.com/
 local=/get4u.eu/
 local=/getalliny.com/
 local=/getanswers.net/
@@ -6259,7 +6263,6 @@ local=/greenbitcoin.xyz/
 local=/greencrosspharmacy.online/
 local=/greeneggstore.de/
 local=/greenhousesshop.com/
-local=/greenlim.com/
 local=/greenmah.shop/
 local=/greentec-handel.de/
 local=/greenthin.net/
@@ -10346,6 +10349,7 @@ local=/nordikb.com/
 local=/nordoil.de/
 local=/nordoutlets.com/
 local=/nordspur.de/
+local=/nordstate.org/
 local=/nordvian.com/
 local=/norfolkhotels24.com/
 local=/norge-apt.com/
@@ -10799,6 +10803,7 @@ local=/opongo.shop/
 local=/oppermann-versand.de/
 local=/oppositen.com/
 local=/opt-toysbase.com/
+local=/opte-grup.com/
 local=/optessentialoils.com/
 local=/optimalattire.com/
 local=/optimaltackle.com/
@@ -12159,6 +12164,7 @@ local=/robottagliaerbascontato.com/
 local=/robottonte.com/
 local=/robotxmarkt.de/
 local=/robowerkstatten.com/
+local=/robozen-fx.com/
 local=/robustwerkzeug.com/
 local=/rochobbies.com/
 local=/rockportbootsireland.com/
@@ -15322,6 +15328,7 @@ local=/werkzeugversorgung.com/
 local=/werner-handel24.de/
 local=/werner-lederer.de/
 local=/werner-mode.de/
+local=/werner-ringle.com/
 local=/werners24.de/
 local=/wernerzapp.de/
 local=/wertalmpro.at/

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780054980 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780077600 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 29 May 2026 11:43 UTC
-; Version: 2026.0529.1143.22
+; Last modified: 29 May 2026 18:00 UTC
+; Version: 2026.0529.1800.23
 ; Syntax: RPZ
-; Number of entries: 432950
+; Number of entries: 432938
 ;
 1xbet.ac CNAME .
 *.1xbet.ac CNAME .
@@ -17702,8 +17702,6 @@ dewapokerslot.cash CNAME .
 *.dewapokerslot.cash CNAME .
 getzen.cash CNAME .
 *.getzen.cash CNAME .
-idcash88.cash CNAME .
-*.idcash88.cash CNAME .
 livejili.cash CNAME .
 *.livejili.cash CNAME .
 moonbitcoin.cash CNAME .
@@ -134536,8 +134534,6 @@ amedeoscognamiglio.com CNAME .
 *.amedeoscognamiglio.com CNAME .
 ameerahs.com CNAME .
 *.ameerahs.com CNAME .
-ameirylife.com CNAME .
-*.ameirylife.com CNAME .
 america777.com CNAME .
 *.america777.com CNAME .
 american-blackjack.com CNAME .
@@ -184950,8 +184946,6 @@ forzza99.com CNAME .
 *.forzza99.com CNAME .
 forzzawincasino.com CNAME .
 *.forzzawincasino.com CNAME .
-fourseasonsgolfcenter.com CNAME .
-*.fourseasonsgolfcenter.com CNAME .
 fourstarconnections.com CNAME .
 *.fourstarconnections.com CNAME .
 fourthstreetpoker.com CNAME .
@@ -356648,8 +356642,6 @@ mab96bets.org CNAME .
 *.mab96bets.org CNAME .
 mabar888.org CNAME .
 *.mabar888.org CNAME .
-macanterbang.org CNAME .
-*.macanterbang.org CNAME .
 macaubet77.org CNAME .
 *.macaubet77.org CNAME .
 machance-casino.org CNAME .
@@ -377332,8 +377324,6 @@ lajoaquicasino.site CNAME .
 *.lajoaquicasino.site CNAME .
 lalabetcasino.site CNAME .
 *.lalabetcasino.site CNAME .
-langkah4d-mgl.site CNAME .
-*.langkah4d-mgl.site CNAME .
 laskarpelangi.site CNAME .
 *.laskarpelangi.site CNAME .
 le-slots-by-hacksaw.site CNAME .
@@ -377858,8 +377848,6 @@ powercasino.site CNAME .
 *.powercasino.site CNAME .
 prediksitotoid.site CNAME .
 *.prediksitotoid.site CNAME .
-prediksiulartoto.site CNAME .
-*.prediksiulartoto.site CNAME .
 premiumsportsbets.site CNAME .
 *.premiumsportsbets.site CNAME .
 prensbetgiris.site CNAME .
