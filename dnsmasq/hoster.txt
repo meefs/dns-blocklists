@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 May 2026 02:08 UTC
-# Version: 2026.0529.0208.48
+# Last modified: 29 May 2026 11:11 UTC
+# Version: 2026.0529.1111.15
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1025
+# Number of entries: 1026
 #
 local=/one4u.0lx.net/
 local=/free.bizhat.com/
@@ -683,6 +683,7 @@ local=/my.gp/
 local=/my-board.org/
 local=/my-free.website/
 local=/my-place.us/
+local=/my5353.com/
 local=/myartsonline.com/
 local=/myblogvoice.com/
 local=/mybluehost.me/

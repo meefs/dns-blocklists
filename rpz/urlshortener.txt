@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780018560 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780051140 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 29 May 2026 01:36 UTC
-; Version: 2026.0529.0136.52
+; Last modified: 29 May 2026 10:39 UTC
+; Version: 2026.0529.1039.49
 ; Syntax: RPZ
-; Number of entries: 19754
+; Number of entries: 19758
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -14991,6 +14991,8 @@ gbpg.net CNAME .
 *.gbpg.net CNAME .
 gdanstum.net CNAME .
 *.gdanstum.net CNAME .
+geefi.net CNAME .
+*.geefi.net CNAME .
 geralink.net CNAME .
 *.geralink.net CNAME .
 getpcp.net CNAME .
@@ -15957,6 +15959,8 @@ gacortexas.org CNAME .
 *.gacortexas.org CNAME .
 gbod.org CNAME .
 *.gbod.org CNAME .
+givecharleston.org CNAME .
+*.givecharleston.org CNAME .
 gosite.org CNAME .
 *.gosite.org CNAME .
 gplinks.org CNAME .

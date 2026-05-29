@@ -869,6 +869,8 @@ HaGeZi DNS provides free, non-commercial public resolvers for Europe, combining 
 
 For details, visit the [project repository](https://github.com/hagezi/dns-servers).                
 
+#### Blocks Ads, Tracking, Analytics, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Cryptojacking and other harmful domains:
+                  
 | Location           | Protocols     | Endpoint/URL                          | Apple<br>Config        | Recommended for    |
 |--------------------|---------------|-------------------------------------|-----------------------|-------------------------|
 | Germany, Falkenstein| DoH/DoH3      | `https://root.hagezi.org/dns-query`   | [Link](https://raw.githubusercontent.com/hagezi/dns-servers/refs/heads/main/mobileconfig/root-hagezi-org.mobileconfig) [QR](/mobileconfig/root-hagezi-org.mobileconfig.png)    | AT, BA, BE, BG, CH, CZ, DE, DK, FR, GB, HU, IE, IT, LU, NL, PL, RO, SI, SK | 
@@ -881,6 +883,14 @@ For details, visit the [project repository](https://github.com/hagezi/dns-server
 |                    | DoT/QUIC      | `juuri.hagezi.org`                    |                       |                         |
 |                    | Do53      | `95.217.163.17`<br>`2a01:4f9:c013:dc4e::1` |                       |                         |
 
+#### Blocks ONLY Phishing, Malware, Scam, Fake, Cryptojacking and other harmful domains:
+
+| Location           | Protocols     | Endpoint/URL                          | Apple<br>Config        | Recommended for    |
+|--------------------|---------------|-------------------------------------|-----------------------|-------------------------|
+| Germany, Nuremberg| DoH/DoH3      | `https://ctif.hagezi.org/dns-query`  | [Link](https://raw.githubusercontent.com/hagezi/dns-servers/refs/heads/main/mobileconfig/ctif-hagezi-org.mobileconfig) [QR](/mobileconfig/ctif-hagezi-org.mobileconfig.png) | AT, BA, BE, BG, CH, CZ, DE, DK, ES, FR, GB, GR, HR, HU, IE, IT, LU, MD, MK, MT, NL, PL, PT, RO, RS, SI, SK, TR, UA | 
+|                    | DoT/QUIC      | `ctif.hagezi.org`                     |                       |                         |
+|                    | Do53      | `162.55.58.40`<br>`2a01:4f8:1c19:6c19::1` |                       |                         |
+                      
 #### :department_store: **DNSBUNKER.org (EU: Germany - balanced/aggressive blocking level ) - free** <a name="dnsbunker"></a>
 
 [DNSBUNKER.org](https://dnsbunker.org/) is a hardened, privacy-first DNS resolver located in Germany.

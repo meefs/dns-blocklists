@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 May 2026 09:33 UTC
-# Version: 2026.0528.0933.23
+# Last modified: 29 May 2026 09:24 UTC
+# Version: 2026.0529.0924.55
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2079
+# Number of entries: 2093
 #
 1-aclk.net
 1aurl.io
@@ -329,6 +329,7 @@ seu2.cleverreach.com
 139093.seu2.cleverreach.com
 139803.seu2.cleverreach.com
 141266.seu2.cleverreach.com
+142512.seu2.cleverreach.com
 144595.seu2.cleverreach.com
 146834.seu2.cleverreach.com
 148725.seu2.cleverreach.com
@@ -365,6 +366,7 @@ seu2.cleverreach.com
 228530.seu2.cleverreach.com
 230480.seu2.cleverreach.com
 234207.seu2.cleverreach.com
+236265.seu2.cleverreach.com
 238071.seu2.cleverreach.com
 239565.seu2.cleverreach.com
 241423.seu2.cleverreach.com
@@ -425,6 +427,7 @@ seu2.cleverreach.com
 317901.seu2.cleverreach.com
 322484.seu2.cleverreach.com
 323664.seu2.cleverreach.com
+324724.seu2.cleverreach.com
 326910.seu2.cleverreach.com
 328936.seu2.cleverreach.com
 332527.seu2.cleverreach.com
@@ -812,6 +815,7 @@ api.elasticemail.com
 hs.eloqua.com
 profitshare.emag.ro
 list-unsubscribe.eservice.emarsys.net
+suite0.emarsys.net
 suite1.emarsys.net
 suite10.emarsys.net
 suite10-cf.emarsys.net
@@ -918,6 +922,7 @@ bounce.s13.exacttarget.com
 click.s13.exacttarget.com
 mc.s13.exacttarget.com
 members.s13.exacttarget.com
+virt.s13.exacttarget.com
 s4.exacttarget.com
 members.s4.exacttarget.com
 pages.s4.exacttarget.com
@@ -1090,6 +1095,7 @@ sites.hscoscdn-eu1.net
 143821590.sites.hscoscdn-eu1.net
 143827149.sites.hscoscdn-eu1.net
 143839207.sites.hscoscdn-eu1.net
+143883521.sites.hscoscdn-eu1.net
 144395336.sites.hscoscdn-eu1.net
 144407123.sites.hscoscdn-eu1.net
 145369147.sites.hscoscdn-eu1.net
@@ -1174,6 +1180,7 @@ group0.sites.hscoscdn-eu1.net
 147134103.group0.sites.hscoscdn-eu1.net
 147339400.group0.sites.hscoscdn-eu1.net
 147531236.group0.sites.hscoscdn-eu1.net
+147607565.group0.sites.hscoscdn-eu1.net
 147654303.group0.sites.hscoscdn-eu1.net
 148054301.group0.sites.hscoscdn-eu1.net
 2148167.group0.sites.hscoscdn-eu1.net
@@ -1405,6 +1412,7 @@ clk.mfilter.net
 track.mfilter.net
 micpn.com
 email.microsoft.com
+bounce5.email.microsoft.com
 go.microsoft.com
 target.microsoft.com
 click.email.microsoftemail.com
@@ -1474,6 +1482,7 @@ mkto-ab440026.com
 mkto-ab440032.com
 mkto-ab450015.com
 mkto-ab450037.com
+mkto-ab470119.com
 mkto-ab470148.com
 mkto-ab480014.com
 mkto-ab480015.com
@@ -1486,6 +1495,7 @@ mkto-ab550041.com
 mkto-ab550140.com
 mkto-ab550184.com
 mkto-ab560068.com
+mkto-ab560119.com
 mkto-ab570110.com
 mkto-ab570128.com
 mkto-ab580004.com
@@ -1522,6 +1532,7 @@ mkto-e0231.com
 mkto-f0235.com
 mkto-g0030.com
 mkto-g0180.com
+mkto-h0163.com
 mkto-i0206.com
 mkto-j0126.com
 mkto-lon020055.com
@@ -1598,6 +1609,7 @@ mkto-sj230006.com
 mkto-sj240021.com
 mkto-sj250062.com
 mkto-sj250111.com
+mkto-sj250171.com
 mkto-sj250187.com
 mkto-sj270072.com
 mkto-sj270078.com
@@ -1610,6 +1622,7 @@ mkto-sj320047.com
 mkto-sj330006.com
 mkto-sj340004.com
 mkto-sj360104.com
+mkto-sj360117.com
 mkto-sj360142.com
 mkto-sj390015.com
 mkto-sj390079.com
@@ -2075,6 +2088,7 @@ redirect.appmetrica.yandex.ru
 3474082.redirect.appmetrica.yandex.com
 3994951.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
+40135.redirect.appmetrica.yandex.com
 4190005.redirect.appmetrica.yandex.com
 4237138.redirect.appmetrica.yandex.com
 4259758.redirect.appmetrica.yandex.com
