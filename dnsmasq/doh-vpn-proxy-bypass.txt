@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 May 2026 11:25 UTC
-# Version: 2026.0528.1125.29
+# Last modified: 29 May 2026 02:54 UTC
+# Version: 2026.0529.0254.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 17314
+# Number of entries: 17315
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -10063,6 +10063,7 @@ local=/ejaysss.dev/
 local=/ek0pnofxa.online/
 local=/elephantvpn.com/
 local=/eleven.observer/
+local=/elevenproxy.pro/
 local=/elgatobypasses.org/
 local=/eliatofani.ovh/
 local=/elliotshanock.mom/

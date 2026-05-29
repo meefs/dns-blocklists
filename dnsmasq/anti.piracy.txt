@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 May 2026 11:16 UTC
-# Version: 2026.0528.1116.01
+# Last modified: 29 May 2026 02:44 UTC
+# Version: 2026.0529.0244.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 20738
+# Number of entries: 20733
 #
 local=/hichemtigsetorgy.0fees.net/
 local=/tracker.0x7c0.com/
@@ -1690,7 +1690,6 @@ local=/1movietv.com/
 local=/1nd.hu/
 local=/1progs.ru/
 local=/1sdmoviespoint.com/
-local=/1sdmoviespoint.rest/
 local=/1shows.com/
 local=/1soft.space/
 local=/1stream.top/
@@ -14317,7 +14316,6 @@ local=/netcomisp.net/
 local=/netexpressbd.com/
 local=/netffliix-lordfilm.ru/
 local=/netfilme.com/
-local=/netflixie-lordfilm.fun/
 local=/netflixparty.com/
 local=/netflytv.vip/
 local=/netmatrixbd.com/
@@ -15433,16 +15431,13 @@ local=/privatehd.to/
 local=/privet-malysh-lordfilm3.ru/
 local=/privtracker.com/
 local=/prizrachnyj-gonshchik-lordfilm3.ru/
-local=/prmovies.bond/
 local=/prmovies.dog/
 local=/prmovies.giving/
-local=/prmovies.health/
 local=/prmovies.info/
 local=/prmovies.me/
 local=/prmovies.ru/
 local=/prmovies.study/
 local=/prmovies.tv/
-local=/prmovies.xyz/
 local=/pro-evolution.org/
 local=/pro-windows.net/
 local=/proaudiotorrents.org/

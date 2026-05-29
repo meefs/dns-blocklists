@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779966720 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780022400 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 28 May 2026 11:12 UTC
-; Version: 2026.0528.1112.02
+; Last modified: 29 May 2026 02:40 UTC
+; Version: 2026.0529.0240.31
 ; Syntax: RPZ
-; Number of entries: 438072
+; Number of entries: 438058
 ;
 1xbet.ac CNAME .
 *.1xbet.ac CNAME .
@@ -147008,8 +147008,6 @@ betonsports.com CNAME .
 *.betonsports.com CNAME .
 betonvalue.com CNAME .
 *.betonvalue.com CNAME .
-betonwin.com CNAME .
-*.betonwin.com CNAME .
 betonwincasinoonline.com CNAME .
 *.betonwincasinoonline.com CNAME .
 betor-casino-cz.com CNAME .
@@ -259524,8 +259522,6 @@ runnerslotswin.com CNAME .
 *.runnerslotswin.com CNAME .
 runocasino.com CNAME .
 *.runocasino.com CNAME .
-runofthemillshop.com CNAME .
-*.runofthemillshop.com CNAME .
 runposters.com CNAME .
 *.runposters.com CNAME .
 runtheslots.com CNAME .
@@ -273208,8 +273204,6 @@ tarabetgunceladres.com CNAME .
 *.tarabetgunceladres.com CNAME .
 tarafbet665.com CNAME .
 *.tarafbet665.com CNAME .
-tarasdesigns.com CNAME .
-*.tarasdesigns.com CNAME .
 target88hoki.com CNAME .
 *.target88hoki.com CNAME .
 targetslots.com CNAME .
@@ -344790,8 +344784,6 @@ slotstat.net CNAME .
 *.slotstat.net CNAME .
 slotstudio.net CNAME .
 *.slotstudio.net CNAME .
-slotsultan88.net CNAME .
-*.slotsultan88.net CNAME .
 slotsuperdewa.net CNAME .
 *.slotsuperdewa.net CNAME .
 me57c3b.slotsvictory.net CNAME .
@@ -382128,8 +382120,6 @@ online-casino-canada1.site CNAME .
 *.online-casino-canada1.site CNAME .
 oppatoto.site CNAME .
 *.oppatoto.site CNAME .
-ordenonline.site CNAME .
-*.ordenonline.site CNAME .
 orobets.site CNAME .
 *.orobets.site CNAME .
 osaka88zz.site CNAME .
@@ -384566,8 +384556,6 @@ duelcasinocrypto.store CNAME .
 *.duelcasinocrypto.store CNAME .
 duelcryptocasino.store CNAME .
 *.duelcryptocasino.store CNAME .
-dwg288.store CNAME .
-*.dwg288.store CNAME .
 dwt4slotsbe3t88.store CNAME .
 *.dwt4slotsbe3t88.store CNAME .
 ehsaasprogram.store CNAME .
@@ -415338,8 +415326,6 @@ casino-pinup.com.tr CNAME .
 *.casino-pinup.com.tr CNAME .
 casinovale.com.tr CNAME .
 *.casinovale.com.tr CNAME .
-exonbet.com.tr CNAME .
-*.exonbet.com.tr CNAME .
 merikting2020.com.tr CNAME .
 *.merikting2020.com.tr CNAME .
 merikting2026.com.tr CNAME .

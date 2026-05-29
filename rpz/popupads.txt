@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779962520 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780018320 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Pop-Up Ads DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 28 May 2026 10:02 UTC
-; Version: 2026.0528.1002.01
+; Last modified: 29 May 2026 01:32 UTC
+; Version: 2026.0529.0132.29
 ; Syntax: RPZ
-; Number of entries: 100574
+; Number of entries: 100512
 ;
 bonzai.ad CNAME .
 *.bonzai.ad CNAME .
@@ -472,8 +472,6 @@ kinderbetreuung-kaernten.at CNAME .
 *.kinderbetreuung-kaernten.at CNAME .
 legder.at CNAME .
 *.legder.at CNAME .
-simpleswap.at CNAME .
-*.simpleswap.at CNAME .
 simpleswap-io.at CNAME .
 *.simpleswap-io.at CNAME .
 trezorsuite.at CNAME .
@@ -574,10 +572,8 @@ account.beauty CNAME .
 *.account.beauty CNAME .
 gvfejsk.beauty CNAME .
 *.gvfejsk.beauty CNAME .
-lc.krgirls.beauty CNAME .
-*.lc.krgirls.beauty CNAME .
-me.krgirls.beauty CNAME .
-*.me.krgirls.beauty CNAME .
+krgirls.beauty CNAME .
+*.krgirls.beauty CNAME .
 go1.sildenafi.beauty CNAME .
 *.go1.sildenafi.beauty CNAME .
 0.beer CNAME .
@@ -2604,8 +2600,6 @@ allywll.com.cn CNAME .
 *.allywll.com.cn CNAME .
 andertonindustries.com.cn CNAME .
 *.andertonindustries.com.cn CNAME .
-apps-wps-offce.com.cn CNAME .
-*.apps-wps-offce.com.cn CNAME .
 artistrylab.com.cn CNAME .
 *.artistrylab.com.cn CNAME .
 as-i4.com.cn CNAME .
@@ -2874,36 +2868,8 @@ hengde.cn CNAME .
 *.hengde.cn CNAME .
 qiejushuo.hirz.cn CNAME .
 *.qiejushuo.hirz.cn CNAME .
-app-google-zh.hl.cn CNAME .
-*.app-google-zh.hl.cn CNAME .
-cnzh-google-apps.hl.cn CNAME .
-*.cnzh-google-apps.hl.cn CNAME .
-go-todesk.hl.cn CNAME .
-*.go-todesk.hl.cn CNAME .
-googgle-chrrome.hl.cn CNAME .
-*.googgle-chrrome.hl.cn CNAME .
-google-chrrome-zh.hl.cn CNAME .
-*.google-chrrome-zh.hl.cn CNAME .
-google-google-chrome-google-com.hl.cn CNAME .
-*.google-google-chrome-google-com.hl.cn CNAME .
-line-go.hl.cn CNAME .
-*.line-go.hl.cn CNAME .
-office-wps-hl.hl.cn CNAME .
-*.office-wps-hl.hl.cn CNAME .
-qh-qishuiyinyue.hl.cn CNAME .
-*.qh-qishuiyinyue.hl.cn CNAME .
-qishuimusic-cn.hl.cn CNAME .
-*.qishuimusic-cn.hl.cn CNAME .
-qishuiyinyue-music.hl.cn CNAME .
-*.qishuiyinyue-music.hl.cn CNAME .
-todesk-web.hl.cn CNAME .
-*.todesk-web.hl.cn CNAME .
-todesk-zh.hl.cn CNAME .
-*.todesk-zh.hl.cn CNAME .
-zh-todesk-cn.hl.cn CNAME .
-*.zh-todesk-cn.hl.cn CNAME .
-zhcn-googele.hl.cn CNAME .
-*.zhcn-googele.hl.cn CNAME .
+hl.cn CNAME .
+*.hl.cn CNAME .
 ho521.cn CNAME .
 *.ho521.cn CNAME .
 hologramid.cn CNAME .
@@ -3080,8 +3046,6 @@ sigao.cn CNAME .
 *.sigao.cn CNAME .
 signtu.cn CNAME .
 *.signtu.cn CNAME .
-sougoucom.cn CNAME .
-*.sougoucom.cn CNAME .
 m.sowz.cn CNAME .
 *.m.sowz.cn CNAME .
 spinexpo.cn CNAME .
@@ -11220,8 +11184,6 @@ a-mx.com CNAME .
 *.a-mx.com CNAME .
 a-new86.com CNAME .
 *.a-new86.com CNAME .
-a-ro-ma.com CNAME .
-*.a-ro-ma.com CNAME .
 a-static.com CNAME .
 *.a-static.com CNAME .
 a-tok.com CNAME .
@@ -13508,8 +13470,6 @@ afrikad.com CNAME .
 *.afrikad.com CNAME .
 track.afrsportsbetting.com CNAME .
 *.track.afrsportsbetting.com CNAME .
-after-pop-abc.com CNAME .
-*.after-pop-abc.com CNAME .
 id.afterceltdom.com CNAME .
 *.id.afterceltdom.com CNAME .
 afterdownload.com CNAME .
@@ -18900,6 +18860,8 @@ blinkflows.com CNAME .
 *.blinkflows.com CNAME .
 blinkjork.com CNAME .
 *.blinkjork.com CNAME .
+blinkpledgeancient.com CNAME .
+*.blinkpledgeancient.com CNAME .
 blinksbobblepadding.com CNAME .
 *.blinksbobblepadding.com CNAME .
 blinktowel.com CNAME .
@@ -30320,8 +30282,6 @@ enchantbackfire.com CNAME .
 *.enchantbackfire.com CNAME .
 enchanted-idea.com CNAME .
 *.enchanted-idea.com CNAME .
-enchantedfruit.com CNAME .
-*.enchantedfruit.com CNAME .
 enchantedskyline.com CNAME .
 *.enchantedskyline.com CNAME .
 enchantingdiscovery.com CNAME .
@@ -40666,8 +40626,6 @@ iridescentdusk.com CNAME .
 *.iridescentdusk.com CNAME .
 nl.iridialachkan.com CNAME .
 *.nl.iridialachkan.com CNAME .
-iris-making.com CNAME .
-*.iris-making.com CNAME .
 irishriverhouse.com CNAME .
 *.irishriverhouse.com CNAME .
 irksomegrateindustrious.com CNAME .
@@ -42430,8 +42388,6 @@ kneadourselves.com CNAME .
 *.kneadourselves.com CNAME .
 kneeansweras.com CNAME .
 *.kneeansweras.com CNAME .
-kneelmodernism.com CNAME .
-*.kneelmodernism.com CNAME .
 kneesgasolinetook.com CNAME .
 *.kneesgasolinetook.com CNAME .
 kneesstrictforthcoming.com CNAME .
@@ -44156,8 +44112,6 @@ llvpn.com CNAME .
 *.llvpn.com CNAME .
 llyighaboveth.com CNAME .
 *.llyighaboveth.com CNAME .
-lm-mousey-happy.com CNAME .
-*.lm-mousey-happy.com CNAME .
 lmdfmd.com CNAME .
 *.lmdfmd.com CNAME .
 lmgyjug31.com CNAME .
@@ -60926,8 +60880,6 @@ speeb.com CNAME .
 *.speeb.com CNAME .
 speechcleopatraadmiral.com CNAME .
 *.speechcleopatraadmiral.com CNAME .
-speeds5-mmiliked.com CNAME .
-*.speeds5-mmiliked.com CNAME .
 speedyfailure.com CNAME .
 *.speedyfailure.com CNAME .
 speedyswim.com CNAME .
@@ -64370,8 +64322,6 @@ toourmarketingef.com CNAME .
 *.toourmarketingef.com CNAME .
 top-best.com CNAME .
 *.top-best.com CNAME .
-top-official-app.com CNAME .
-*.top-official-app.com CNAME .
 top10canadabet.com CNAME .
 *.top10canadabet.com CNAME .
 topadbid.com CNAME .
@@ -67398,8 +67348,6 @@ viettelgroup.com CNAME .
 *.viettelgroup.com CNAME .
 viewclc.com CNAME .
 *.viewclc.com CNAME .
-viewer-howdy.com CNAME .
-*.viewer-howdy.com CNAME .
 viewlnk.com CNAME .
 *.viewlnk.com CNAME .
 viewsafestsensible.com CNAME .
@@ -72010,8 +71958,6 @@ mail-cytanet.pages.dev CNAME .
 *.mail-cytanet.pages.dev CNAME .
 miles-plume-network.pages.dev CNAME .
 *.miles-plume-network.pages.dev CNAME .
-officialgithubweb3.pages.dev CNAME .
-*.officialgithubweb3.pages.dev CNAME .
 pepecoinsuper-airdrop.pages.dev CNAME .
 *.pepecoinsuper-airdrop.pages.dev CNAME .
 pink-sale.pages.dev CNAME .
@@ -74556,8 +74502,6 @@ a1tai7.jp CNAME .
 *.a1tai7.jp CNAME .
 abh.jp CNAME .
 *.abh.jp CNAME .
-academicsingles.jp CNAME .
-*.academicsingles.jp CNAME .
 adingo.jp CNAME .
 *.adingo.jp CNAME .
 adnico.jp CNAME .
@@ -87902,8 +87846,6 @@ propu.sh CNAME .
 *.propu.sh CNAME .
 revpu.sh CNAME .
 *.revpu.sh CNAME .
-wizensbuphaga.sh CNAME .
-*.wizensbuphaga.sh CNAME .
 wpu.sh CNAME .
 *.wpu.sh CNAME .
 101000.shop CNAME .
@@ -87994,12 +87936,8 @@ barmanonymity.shop CNAME .
 *.barmanonymity.shop CNAME .
 barmingorrhoid.shop CNAME .
 *.barmingorrhoid.shop CNAME .
-chiyouranai.base.shop CNAME .
-*.chiyouranai.base.shop CNAME .
-tokujiro.base.shop CNAME .
-*.tokujiro.base.shop CNAME .
-uranai1111.base.shop CNAME .
-*.uranai1111.base.shop CNAME .
+base.shop CNAME .
+*.base.shop CNAME .
 basiscopyright.shop CNAME .
 *.basiscopyright.shop CNAME .
 battuelevered.shop CNAME .

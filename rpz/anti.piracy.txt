@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779966960 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780022640 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 28 May 2026 11:16 UTC
-; Version: 2026.0528.1116.01
+; Last modified: 29 May 2026 02:44 UTC
+; Version: 2026.0529.0244.53
 ; Syntax: RPZ
-; Number of entries: 41476
+; Number of entries: 41466
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -1550,8 +1550,6 @@ mycimaa.bond CNAME .
 *.mycimaa.bond CNAME .
 netmirror.bond CNAME .
 *.netmirror.bond CNAME .
-prmovies.bond CNAME .
-*.prmovies.bond CNAME .
 seriesflix.bond CNAME .
 *.seriesflix.bond CNAME .
 streamingcommunityz.bond CNAME .
@@ -12702,8 +12700,6 @@ nekrasivaya-podruzhka-lordfilm.fun CNAME .
 *.nekrasivaya-podruzhka-lordfilm.fun CNAME .
 neposlushnye-lordfilm.fun CNAME .
 *.neposlushnye-lordfilm.fun CNAME .
-netflixie-lordfilm.fun CNAME .
-*.netflixie-lordfilm.fun CNAME .
 noclass.fun CNAME .
 *.noclass.fun CNAME .
 nomat.fun CNAME .
@@ -13232,8 +13228,6 @@ watchmovierulz.haus CNAME .
 *.watchmovierulz.haus CNAME .
 hdmovie2.health CNAME .
 *.hdmovie2.health CNAME .
-prmovies.health CNAME .
-*.prmovies.health CNAME .
 torrent.health CNAME .
 *.torrent.health CNAME .
 xalaflix.health CNAME .
@@ -29272,8 +29266,6 @@ hdmovie2.republican CNAME .
 *.hdmovie2.republican CNAME .
 1movies.rest CNAME .
 *.1movies.rest CNAME .
-1sdmoviespoint.rest CNAME .
-*.1sdmoviespoint.rest CNAME .
 altadefinizionegratis.rest CNAME .
 *.altadefinizionegratis.rest CNAME .
 cineblog001.rest CNAME .
@@ -41194,8 +41186,6 @@ piratez.xyz CNAME .
 *.piratez.xyz CNAME .
 pobieramy24.xyz CNAME .
 *.pobieramy24.xyz CNAME .
-prmovies.xyz CNAME .
-*.prmovies.xyz CNAME .
 projectfreetv.xyz CNAME .
 *.projectfreetv.xyz CNAME .
 proxybay.xyz CNAME .

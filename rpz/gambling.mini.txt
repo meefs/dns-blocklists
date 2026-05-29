@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779966900 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780022640 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 28 May 2026 11:15 UTC
-; Version: 2026.0528.1115.18
+; Last modified: 29 May 2026 02:44 UTC
+; Version: 2026.0529.0244.29
 ; Syntax: RPZ
-; Number of entries: 99420
+; Number of entries: 99410
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -48668,8 +48668,6 @@ runestake.com CNAME .
 *.runestake.com CNAME .
 runnerslotswin.com CNAME .
 *.runnerslotswin.com CNAME .
-runofthemillshop.com CNAME .
-*.runofthemillshop.com CNAME .
 runwhatchabrungpokerrun.com CNAME .
 *.runwhatchabrungpokerrun.com CNAME .
 ruounau.com CNAME .
@@ -51918,8 +51916,6 @@ taperandtap.com CNAME .
 *.taperandtap.com CNAME .
 tappy-birds-casino.com CNAME .
 *.tappy-birds-casino.com CNAME .
-tarasdesigns.com CNAME .
-*.tarasdesigns.com CNAME .
 tarowin3d.com CNAME .
 *.tarowin3d.com CNAME .
 tasmania-casino-online.com CNAME .
@@ -70364,8 +70360,6 @@ slotsmilyon.net CNAME .
 *.slotsmilyon.net CNAME .
 slotspluscasino.net CNAME .
 *.slotspluscasino.net CNAME .
-slotsultan88.net CNAME .
-*.slotsultan88.net CNAME .
 slotsuperdewa.net CNAME .
 *.slotsuperdewa.net CNAME .
 slotswin-casino.net CNAME .
@@ -82068,8 +82062,6 @@ olympusonlineslots.site CNAME .
 *.olympusonlineslots.site CNAME .
 ombakrtp.site CNAME .
 *.ombakrtp.site CNAME .
-ordenonline.site CNAME .
-*.ordenonline.site CNAME .
 osaka88zz.site CNAME .
 *.osaka88zz.site CNAME .
 ozwin-casino-au.site CNAME .
@@ -83056,8 +83048,6 @@ digitalgreenmarket.store CNAME .
 *.digitalgreenmarket.store CNAME .
 dragon303.store CNAME .
 *.dragon303.store CNAME .
-dwg288.store CNAME .
-*.dwg288.store CNAME .
 ehsaasprogram.store CNAME .
 *.ehsaasprogram.store CNAME .
 elicitbets.store CNAME .

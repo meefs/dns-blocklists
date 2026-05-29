@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779966840 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780022520 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - medium version
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 28 May 2026 11:14 UTC
-; Version: 2026.0528.1114.04
+; Last modified: 29 May 2026 02:42 UTC
+; Version: 2026.0529.0242.34
 ; Syntax: RPZ
-; Number of entries: 139634
+; Number of entries: 139624
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -68366,8 +68366,6 @@ runestake.com CNAME .
 *.runestake.com CNAME .
 runnerslotswin.com CNAME .
 *.runnerslotswin.com CNAME .
-runofthemillshop.com CNAME .
-*.runofthemillshop.com CNAME .
 runwhatchabrungpokerrun.com CNAME .
 *.runwhatchabrungpokerrun.com CNAME .
 ruounau.com CNAME .
@@ -72718,8 +72716,6 @@ taperandtap.com CNAME .
 *.taperandtap.com CNAME .
 tappy-birds-casino.com CNAME .
 *.tappy-birds-casino.com CNAME .
-tarasdesigns.com CNAME .
-*.tarasdesigns.com CNAME .
 tarowin3d.com CNAME .
 *.tarowin3d.com CNAME .
 tasmania-casino-online.com CNAME .
@@ -98536,8 +98532,6 @@ slotspk679.net CNAME .
 *.slotspk679.net CNAME .
 slotspluscasino.net CNAME .
 *.slotspluscasino.net CNAME .
-slotsultan88.net CNAME .
-*.slotsultan88.net CNAME .
 slotsuperdewa.net CNAME .
 *.slotsuperdewa.net CNAME .
 slotswin-casino.net CNAME .
@@ -115782,8 +115776,6 @@ oncasino.site CNAME .
 *.oncasino.site CNAME .
 oppatoto.site CNAME .
 *.oppatoto.site CNAME .
-ordenonline.site CNAME .
-*.ordenonline.site CNAME .
 orobets.site CNAME .
 *.orobets.site CNAME .
 osaka88zz.site CNAME .
@@ -117140,8 +117132,6 @@ duelcasinocrypto.store CNAME .
 *.duelcasinocrypto.store CNAME .
 duelcryptocasino.store CNAME .
 *.duelcryptocasino.store CNAME .
-dwg288.store CNAME .
-*.dwg288.store CNAME .
 ehsaasprogram.store CNAME .
 *.ehsaasprogram.store CNAME .
 elicitbets.store CNAME .
