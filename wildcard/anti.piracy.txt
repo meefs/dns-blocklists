@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 May 2026 18:20 UTC
-# Version: 2026.0530.1820.57
+# Last modified: 30 May 2026 21:16 UTC
+# Version: 2026.0530.2116.04
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 21034
+# Number of entries: 21036
 #
 *.hichemtigsetorgy.0fees.net
 *.tracker.0x7c0.com
@@ -2670,6 +2670,8 @@
 *.apkpapi.com
 *.apkprime.org
 *.apkpromaster.com
+*.apkpure.com
+*.apkpure.net
 *.apkremix.com
 *.apkshub.com
 *.apksim.com

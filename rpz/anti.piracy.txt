@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780165200 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780175760 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 30 May 2026 18:20 UTC
-; Version: 2026.0530.1820.57
+; Last modified: 30 May 2026 21:16 UTC
+; Version: 2026.0530.2116.04
 ; Syntax: RPZ
-; Number of entries: 42068
+; Number of entries: 42072
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -4284,6 +4284,8 @@ apkpapi.com CNAME .
 *.apkpapi.com CNAME .
 apkpromaster.com CNAME .
 *.apkpromaster.com CNAME .
+apkpure.com CNAME .
+*.apkpure.com CNAME .
 apkremix.com CNAME .
 *.apkremix.com CNAME .
 apkshub.com CNAME .
@@ -23370,6 +23372,8 @@ apkhome.net CNAME .
 *.apkhome.net CNAME .
 apkocean.net CNAME .
 *.apkocean.net CNAME .
+apkpure.net CNAME .
+*.apkpure.net CNAME .
 apksoul.net CNAME .
 *.apksoul.net CNAME .
 apktoly.net CNAME .
