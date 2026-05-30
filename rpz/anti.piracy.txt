@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780138380 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780165200 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 30 May 2026 10:53 UTC
-; Version: 2026.0530.1053.50
+; Last modified: 30 May 2026 18:20 UTC
+; Version: 2026.0530.1820.57
 ; Syntax: RPZ
-; Number of entries: 42078
+; Number of entries: 42068
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -9632,8 +9632,6 @@ torrentembergroup.com CNAME .
 *.torrentembergroup.com CNAME .
 torrenteresidences.com CNAME .
 *.torrenteresidences.com CNAME .
-torrentesolena.com CNAME .
-*.torrentesolena.com CNAME .
 torrentesx.com CNAME .
 *.torrentesx.com CNAME .
 torrentfactory.com CNAME .
@@ -21384,8 +21382,6 @@ eurostreaming.makeup CNAME .
 *.eurostreaming.makeup CNAME .
 filmapik.makeup CNAME .
 *.filmapik.makeup CNAME .
-hdmovie2.makeup CNAME .
-*.hdmovie2.makeup CNAME .
 laroza.makeup CNAME .
 *.laroza.makeup CNAME .
 larozza.makeup CNAME .
@@ -26292,8 +26288,6 @@ lordfilms-2026.online CNAME .
 *.lordfilms-2026.online CNAME .
 lordfilms2025.online CNAME .
 *.lordfilms2025.online CNAME .
-lordfilmsjak4.online CNAME .
-*.lordfilmsjak4.online CNAME .
 lordfilmsnew.online CNAME .
 *.lordfilmsnew.online CNAME .
 lordfilmtemq.online CNAME .
@@ -26312,8 +26306,6 @@ lordfilmx33.online CNAME .
 *.lordfilmx33.online CNAME .
 lordfilmy23.online CNAME .
 *.lordfilmy23.online CNAME .
-lordfilmy52.online CNAME .
-*.lordfilmy52.online CNAME .
 masterflix.online CNAME .
 *.masterflix.online CNAME .
 mazhor-lordfilm.online CNAME .
@@ -38498,8 +38490,6 @@ lordfilmopaline.top CNAME .
 *.lordfilmopaline.top CNAME .
 lordfilmpazani.top CNAME .
 *.lordfilmpazani.top CNAME .
-lordfilmprevue.top CNAME .
-*.lordfilmprevue.top CNAME .
 lordfilmprovoke.top CNAME .
 *.lordfilmprovoke.top CNAME .
 lordfilmpvo.top CNAME .
