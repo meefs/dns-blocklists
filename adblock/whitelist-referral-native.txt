@@ -5,10 +5,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 29 May 2026 09:24 UTC
-! Version: 2026.0529.0924.55
+! Last modified: 30 May 2026 09:27 UTC
+! Version: 2026.0530.0927.47
 ! Syntax: AdBlock
-! Number of entries: 1415
+! Number of entries: 1417
 !
 @@||l.1mp.ru^
 @@||links.2ns.fi^
@@ -206,6 +206,7 @@
 @@||click.mc.crimsontrace.com^
 @@||links.email.crunchbase.com^
 @@||bcp.crwdcntrl.net^
+@@||m-42m67.custobar.com^
 @@||m-4wovq.custobar.com^
 @@||m-5fwyg.custobar.com^
 @@||m-6pyms.custobar.com^
@@ -310,6 +311,7 @@
 @@||suite34.emarsys.net^
 @@||suite36.emarsys.net^
 @@||suite38.emarsys.net^
+@@||suite4.emarsys.net^
 @@||suite40.emarsys.net^
 @@||suite40-cf.emarsys.net^
 @@||suite41.emarsys.net^

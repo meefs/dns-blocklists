@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 29 May 2026 11:57 UTC
-! Version: 2026.0529.1157.01
+! Last modified: 30 May 2026 11:04 UTC
+! Version: 2026.0530.1104.07
 ! Syntax: AdBlock
-! Number of entries: 17316
+! Number of entries: 17317
 !
 ||ss.0001.xyz^
 ||ilovethiswebsite.001-lab.space^
@@ -1971,6 +1971,7 @@
 ||educationbooks.boxrepublic.co.za^
 ||adguard.cell.co.id^
 ||dns.chaosen3.co.uk^
+||jb1doh.cipherdns.co.za^
 ||dns-01.computerservices.co.nz^
 ||dns-02.computerservices.co.nz^
 ||end.creativelighting.co.za^

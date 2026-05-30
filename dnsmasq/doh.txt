@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 May 2026 02:07 UTC
-# Version: 2026.0528.0207.09
+# Last modified: 30 May 2026 11:03 UTC
+# Version: 2026.0530.1103.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3416
+# Number of entries: 3417
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -504,6 +504,7 @@ local=/dns.adriason.co.uk/
 local=/teamspeak.adriason.co.uk/
 local=/adguard.cell.co.id/
 local=/dns.chaosen3.co.uk/
+local=/jb1doh.cipherdns.co.za/
 local=/dns-01.computerservices.co.nz/
 local=/dns-02.computerservices.co.nz/
 local=/adg.datamatter.co.za/

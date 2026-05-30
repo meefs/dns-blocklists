@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780078620 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780133940 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 29 May 2026 18:17 UTC
-; Version: 2026.0529.1817.02
+; Last modified: 30 May 2026 09:39 UTC
+; Version: 2026.0530.0939.44
 ; Syntax: RPZ
-; Number of entries: 31642
+; Number of entries: 31654
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -2572,6 +2572,8 @@ aquamarinashopde.com CNAME .
 *.aquamarinashopde.com CNAME .
 aquarienbedarf.com CNAME .
 *.aquarienbedarf.com CNAME .
+aquaristikteichstore.com CNAME .
+*.aquaristikteichstore.com CNAME .
 aquariumopt.com CNAME .
 *.aquariumopt.com CNAME .
 aquariumzubehor24.com CNAME .
@@ -6080,6 +6082,8 @@ earringtset.com CNAME .
 *.earringtset.com CNAME .
 eartischleuchten.com CNAME .
 *.eartischleuchten.com CNAME .
+easeviro.com CNAME .
+*.easeviro.com CNAME .
 east-tek.com CNAME .
 *.east-tek.com CNAME .
 eastcapitalmarkets.com CNAME .
@@ -8024,8 +8028,6 @@ get-omnihear.com CNAME .
 *.get-omnihear.com CNAME .
 get-purisaki.com CNAME .
 *.get-purisaki.com CNAME .
-get1stbridge.com CNAME .
-*.get1stbridge.com CNAME .
 getalliny.com CNAME .
 *.getalliny.com CNAME .
 geteasygroup.com CNAME .
@@ -13496,8 +13498,6 @@ oppositen.com CNAME .
 *.oppositen.com CNAME .
 opt-toysbase.com CNAME .
 *.opt-toysbase.com CNAME .
-opte-grup.com CNAME .
-*.opte-grup.com CNAME .
 optessentialoils.com CNAME .
 *.optessentialoils.com CNAME .
 optimalattire.com CNAME .
@@ -15694,6 +15694,8 @@ separaten.com CNAME .
 *.separaten.com CNAME .
 sepgoal.com CNAME .
 *.sepgoal.com CNAME .
+sepkicks.com CNAME .
+*.sepkicks.com CNAME .
 seprun.com CNAME .
 *.seprun.com CNAME .
 serendiplty.com CNAME .
@@ -18644,6 +18646,8 @@ vitanourishhub.com CNAME .
 *.vitanourishhub.com CNAME .
 vivagopro.com CNAME .
 *.vivagopro.com CNAME .
+vivaiacollection.com CNAME .
+*.vivaiacollection.com CNAME .
 vivaiaschuhe.com CNAME .
 *.vivaiaschuhe.com CNAME .
 vivaiaschweiz.com CNAME .
@@ -21562,6 +21566,8 @@ einfachknorke.de CNAME .
 *.einfachknorke.de CNAME .
 einfachlagerverwaltung.de CNAME .
 *.einfachlagerverwaltung.de CNAME .
+einfahbacken.de CNAME .
+*.einfahbacken.de CNAME .
 eintrachtfrankfurttrikots.de CNAME .
 *.eintrachtfrankfurttrikots.de CNAME .
 einzu.de CNAME .
@@ -25220,6 +25226,8 @@ outdoorreich.de CNAME .
 *.outdoorreich.de CNAME .
 outdoorresearchjacke.de CNAME .
 *.outdoorresearchjacke.de CNAME .
+outletpc.de CNAME .
+*.outletpc.de CNAME .
 owaladeutschland.de CNAME .
 *.owaladeutschland.de CNAME .
 owalasale.de CNAME .
@@ -29314,8 +29322,6 @@ nationalstemcellbank.org CNAME .
 *.nationalstemcellbank.org CNAME .
 nofish.org CNAME .
 *.nofish.org CNAME .
-nordstate.org CNAME .
-*.nordstate.org CNAME .
 nowsales.org CNAME .
 *.nowsales.org CNAME .
 ntischoolpune.org CNAME .
@@ -29600,6 +29606,8 @@ al-nassr.shop CNAME .
 *.al-nassr.shop CNAME .
 albimo.shop CNAME .
 *.albimo.shop CNAME .
+alexitemsdemir.shop CNAME .
+*.alexitemsdemir.shop CNAME .
 allkitchen.shop CNAME .
 *.allkitchen.shop CNAME .
 alturarituals.shop CNAME .
@@ -30436,6 +30444,8 @@ qvhkhyn.shop CNAME .
 *.qvhkhyn.shop CNAME .
 racetexfast.shop CNAME .
 *.racetexfast.shop CNAME .
+fatfax.ratewell.shop CNAME .
+*.fatfax.ratewell.shop CNAME .
 rattmmotor.shop CNAME .
 *.rattmmotor.shop CNAME .
 realitymaelstrom.shop CNAME .
@@ -30918,6 +30928,8 @@ cryptos.solutions CNAME .
 *.cryptos.solutions CNAME .
 franke-it.solutions CNAME .
 *.franke-it.solutions CNAME .
+gbt.solutions CNAME .
+*.gbt.solutions CNAME .
 birkshoes.space CNAME .
 *.birkshoes.space CNAME .
 endoflife.space CNAME .

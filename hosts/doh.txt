@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 May 2026 02:07 UTC
-# Version: 2026.0528.0207.09
+# Last modified: 30 May 2026 11:03 UTC
+# Version: 2026.0530.1103.17
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3875
+# Number of entries: 3876
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -725,6 +725,7 @@
 0.0.0.0 teamspeak.adriason.co.uk
 0.0.0.0 adguard.cell.co.id
 0.0.0.0 dns.chaosen3.co.uk
+0.0.0.0 jb1doh.cipherdns.co.za
 0.0.0.0 dns-01.computerservices.co.nz
 0.0.0.0 dns-02.computerservices.co.nz
 0.0.0.0 crusnik80.co.za

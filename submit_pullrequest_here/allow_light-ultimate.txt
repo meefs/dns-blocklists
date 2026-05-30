@@ -1,6 +1,12 @@
 # Unblocking for all lists (relaxed, balanced, aggressive and strict)
 # Domains to be removed from the light, normal, pro, pro++ and ultimate list. Also from the fake, popupads and tif.
 
+# https://github.com/hagezi/dns-blocklists/issues/10352
+terbit2.com
+
+# https://github.com/hagezi/dns-blocklists/issues/10351
+inf-xts.spac.me
+
 # This endpoint is essential for Find Hub to function. It is used during all operations related to the Find Hub Network, including the enrollment of new devices. More importantly, this domain also allows users to receive alerts when an unwanted tracking device follows them, and it provides identification and disablement information.
 spot-pa.googleapis.com
 
