@@ -1,5 +1,8 @@
 # Unblocking for relaxed and balanced lists (non-aggressive) only.
 
+# Instagram: Comments sometimes don't load.
+graph*.instagram.com
+
 # https://github.com/hagezi/dns-blocklists/issues/10275
 advertising.amazon.ae
 advertising.amazon.ca

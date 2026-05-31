@@ -5,10 +5,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 30 May 2026 09:27 UTC
-! Version: 2026.0530.0927.47
+! Last modified: 31 May 2026 09:15 UTC
+! Version: 2026.0531.0915.31
 ! Syntax: AdBlock
-! Number of entries: 1417
+! Number of entries: 1420
 !
 ||l.1mp.ru^
 ||links.2ns.fi^
@@ -212,6 +212,7 @@
 ||m-6pyms.custobar.com^
 ||m-eqxt2.custobar.com^
 ||m-gzmk5.custobar.com^
+||m-hju7x.custobar.com^
 ||m-htgjb.custobar.com^
 ||m-kpz.custobar.com^
 ||m-ll23a.custobar.com^
@@ -379,6 +380,7 @@
 ||dgl-cdn.exponea.com^
 ||els-cdn.exponea.com^
 ||fis-royalcopenhagen-cdn.exponea.com^
+||neoengage-va-cdn.exponea.com^
 ||pan-cdn.exponea.com^
 ||puc-cdn.exponea.com^
 ||raisin-cdn.exponea.com^
@@ -626,6 +628,7 @@
 ||ndirect.ppro.de^
 ||geo01.dns.presslabs.net^
 ||geo02.dns.presslabs.net^
+||geo1.presslabs.net^
 ||track.productsup.com^
 ||track.productsup.io^
 ||track.prudigital.in^

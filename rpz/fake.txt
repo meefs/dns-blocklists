@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780166460 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780219800 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 30 May 2026 18:41 UTC
-; Version: 2026.0530.1841.48
+; Last modified: 31 May 2026 09:30 UTC
+; Version: 2026.0531.0930.42
 ; Syntax: RPZ
 ; Number of entries: 31652
 ;
@@ -2968,8 +2968,6 @@ babyausstattung-de.com CNAME .
 *.babyausstattung-de.com CNAME .
 babybay-de.com CNAME .
 *.babybay-de.com CNAME .
-babybubblestore.com CNAME .
-*.babybubblestore.com CNAME .
 babygea.com CNAME .
 *.babygea.com CNAME .
 babyglueckshop.com CNAME .
@@ -4202,6 +4200,8 @@ c-and-a-osterreich.com CNAME .
 *.c-and-a-osterreich.com CNAME .
 c-und-a-austria.com CNAME .
 *.c-und-a-austria.com CNAME .
+caballde.com CNAME .
+*.caballde.com CNAME .
 cabergbrema.com CNAME .
 *.cabergbrema.com CNAME .
 cachetone.com CNAME .
@@ -5156,8 +5156,6 @@ cryptrade-franchise.com CNAME .
 *.cryptrade-franchise.com CNAME .
 crystal-inter.com CNAME .
 *.crystal-inter.com CNAME .
-cryzor.com CNAME .
-*.cryzor.com CNAME .
 csm-maker.com CNAME .
 *.csm-maker.com CNAME .
 csunbox.com CNAME .
@@ -9878,8 +9876,6 @@ jefercopellets.com CNAME .
 *.jefercopellets.com CNAME .
 jeffspoolservice.com CNAME .
 *.jeffspoolservice.com CNAME .
-jeinn.com CNAME .
-*.jeinn.com CNAME .
 jerseymonsters.com CNAME .
 *.jerseymonsters.com CNAME .
 jerseyneu.com CNAME .
@@ -9890,6 +9886,8 @@ jerusalemcharity.com CNAME .
 *.jerusalemcharity.com CNAME .
 jessena.com CNAME .
 *.jessena.com CNAME .
+jetterix.com CNAME .
+*.jetterix.com CNAME .
 jewellery-palace.com CNAME .
 *.jewellery-palace.com CNAME .
 jewelleryina.com CNAME .
@@ -16408,6 +16406,8 @@ spielzeug-traum.com CNAME .
 *.spielzeug-traum.com CNAME .
 spielzeug-wunderwelt.com CNAME .
 *.spielzeug-wunderwelt.com CNAME .
+spielzeugarthub.com CNAME .
+*.spielzeugarthub.com CNAME .
 spielzeugautosrabatt.com CNAME .
 *.spielzeugautosrabatt.com CNAME .
 spielzeugautowelt.com CNAME .
@@ -17936,8 +17936,6 @@ trustedmedstore24.com CNAME .
 *.trustedmedstore24.com CNAME .
 trustednorx.com CNAME .
 *.trustednorx.com CNAME .
-trustedrxsolutions.com CNAME .
-*.trustedrxsolutions.com CNAME .
 trustedxshop.com CNAME .
 *.trustedxshop.com CNAME .
 trusteryai.com CNAME .
@@ -20856,6 +20854,8 @@ cloudtritt.de CNAME .
 *.cloudtritt.de CNAME .
 clubeboss.de CNAME .
 *.clubeboss.de CNAME .
+coffeena.de CNAME .
+*.coffeena.de CNAME .
 cold-rp.de CNAME .
 *.cold-rp.de CNAME .
 columbi.de CNAME .
@@ -25494,6 +25494,8 @@ pts-personal.de CNAME .
 *.pts-personal.de CNAME .
 pulsefinance.de CNAME .
 *.pulsefinance.de CNAME .
+pundmannshop.de CNAME .
+*.pundmannshop.de CNAME .
 punkravestore.de CNAME .
 *.punkravestore.de CNAME .
 purawerk-gmbh.de CNAME .
@@ -26518,6 +26520,8 @@ superheizung.de CNAME .
 *.superheizung.de CNAME .
 superie.de CNAME .
 *.superie.de CNAME .
+supermarktdigital.de CNAME .
+*.supermarktdigital.de CNAME .
 supersocken.de CNAME .
 *.supersocken.de CNAME .
 superwipes.de CNAME .
@@ -27114,6 +27118,8 @@ vollyshop.de CNAME .
 *.vollyshop.de CNAME .
 volthausgeraete.de CNAME .
 *.volthausgeraete.de CNAME .
+voltradbike.de CNAME .
+*.voltradbike.de CNAME .
 volture.de CNAME .
 *.volture.de CNAME .
 voltus-elektroshop.de CNAME .
@@ -28552,10 +28558,6 @@ highlandshotels.net CNAME .
 *.highlandshotels.net CNAME .
 hilfsdienst.net CNAME .
 *.hilfsdienst.net CNAME .
-hotelinphuket.net CNAME .
-*.hotelinphuket.net CNAME .
-hotels-colorado.net CNAME .
-*.hotels-colorado.net CNAME .
 hotelsofnewyorkcity.net CNAME .
 *.hotelsofnewyorkcity.net CNAME .
 hqmed.net CNAME .
@@ -28712,8 +28714,6 @@ at.nneelkwerf.net CNAME .
 *.at.nneelkwerf.net CNAME .
 norskeapotek.net CNAME .
 *.norskeapotek.net CNAME .
-norwayhotel.net CNAME .
-*.norwayhotel.net CNAME .
 nova-finance.net CNAME .
 *.nova-finance.net CNAME .
 novarixtrader.net CNAME .

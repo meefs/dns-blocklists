@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 May 2026 18:41 UTC
-# Version: 2026.0530.1841.48
+# Last modified: 31 May 2026 09:30 UTC
+# Version: 2026.0531.0930.42
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 15826
 #
@@ -1709,7 +1709,6 @@ local=/babyanimal.shop/
 local=/babyausstattung-de.com/
 local=/babybay-de.com/
 local=/babybox-schweiz.ch/
-local=/babybubblestore.com/
 local=/babygea.com/
 local=/babyglueckshop.com/
 local=/babylissde.de/
@@ -2760,6 +2759,7 @@ local=/c-und-a-austria.com/
 local=/ca-agentur.de/
 local=/ca-pharm.net/
 local=/caactioncoalition.org/
+local=/caballde.com/
 local=/cabergbrema.com/
 local=/cachetone.com/
 local=/cacyro.com/
@@ -3205,6 +3205,7 @@ local=/coffeecup-sales.com/
 local=/coffeeequipmentsupply.com/
 local=/coffeehotsale.com/
 local=/coffeeliftin.com/
+local=/coffeena.de/
 local=/coffeeshopus.com/
 local=/cognissa.com/
 local=/coinbase-834859.com/
@@ -3457,7 +3458,6 @@ local=/cryptrade-franchise.com/
 local=/crystal-inter.com/
 local=/crystalli.de/
 local=/crystalnova.de/
-local=/cryzor.com/
 local=/cs-pharmacy.net/
 local=/csbclo.de/
 local=/csm-maker.com/
@@ -7123,10 +7123,8 @@ local=/hotel-am-herrenhaeuser-garten.de/
 local=/hotel-ds.com/
 local=/hotel-krone-muc.de/
 local=/hotelaustralien.de/
-local=/hotelinphuket.net/
 local=/hotelladen.com/
 local=/hotels-colombo.com/
-local=/hotels-colorado.net/
 local=/hotels-in-tyrol.com/
 local=/hotelsinperm.ru/
 local=/hotelsinvienna.org/
@@ -7650,7 +7648,6 @@ local=/jefercopellets.com/
 local=/jeffkelleher.shop/
 local=/jeffora.de/
 local=/jeffspoolservice.com/
-local=/jeinn.com/
 local=/jellycatkuscheltiere.de/
 local=/jellycats.de/
 local=/jellylight.at/
@@ -7661,6 +7658,7 @@ local=/jerusalem-project.org/
 local=/jerusalemcharity.com/
 local=/jessena.com/
 local=/jetprofund.net/
+local=/jetterix.com/
 local=/jeulia.de/
 local=/jewellery-palace.com/
 local=/jewelleryina.com/
@@ -10373,7 +10371,6 @@ local=/northvapeusa.com/
 local=/northwestpharmacy.com/
 local=/norvahaus.de/
 local=/norvexapharma.com/
-local=/norwayhotel.net/
 local=/norwaynewstoday.com/
 local=/norxonline.biz/
 local=/not-bad.shop/
@@ -11668,6 +11665,7 @@ local=/pumpenprofi365.com/
 local=/pumpeprada.com/
 local=/pumpkin-bubbe.com/
 local=/pun168-online.com/
+local=/pundmannshop.de/
 local=/punjabicloud.com/
 local=/punkrave.ch/
 local=/punkravestore.de/
@@ -13234,6 +13232,7 @@ local=/spielwaren-tonies.com/
 local=/spielzeug-ente.com/
 local=/spielzeug-traum.com/
 local=/spielzeug-wunderwelt.com/
+local=/spielzeugarthub.com/
 local=/spielzeugautosrabatt.com/
 local=/spielzeugautowelt.com/
 local=/spielzeugelektronik.com/
@@ -13623,6 +13622,7 @@ local=/superie.de/
 local=/superiorwilderdog.com/
 local=/superkamagra.store/
 local=/supermarktdeutschland.com/
+local=/supermarktdigital.de/
 local=/supermarkteonline.com/
 local=/supermeds24.com/
 local=/superocas.com/
@@ -14429,7 +14429,6 @@ local=/trustedallovertheworld.com/
 local=/trustedconsumerreview.online/
 local=/trustedmedstore24.com/
 local=/trustednorx.com/
-local=/trustedrxsolutions.com/
 local=/trustedshops.store/
 local=/trustedtablets.online/
 local=/trustedxshop.com/
@@ -15064,6 +15063,7 @@ local=/vollyshop.de/
 local=/voltabuy.com/
 local=/voltedage.com/
 local=/volthausgeraete.de/
+local=/voltradbike.de/
 local=/voltryzapex.at/
 local=/volture.de/
 local=/voltus-elektroshop.de/
