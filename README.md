@@ -37,7 +37,7 @@ If you like the project and you can benefit from it, leave a :star: (top right) 
 23. [Supporter](https://github.com/hagezi/dns-blocklists/stargazers) - Leave a star (top right)!
 24. [Recommendation](#recommendation) - [Which version of the lists should I use?](https://github.com/hagezi/dns-blocklists/wiki/FAQ#whatshouldiuse)
 25. [Online DNS Services](#dnsservices) : [HaGeZi DNS](#hagezidns) - [DNS Bunker](#dnsbunker)
-26. [About](#about) : [Repository](#repository) - [Referral Domains](#referral) - [Support Me](#support)
+26. [About](#about) : [Repository](#repository) - [Referral Domains](#referral) - [Support](#support)
 27. [FAQ](https://github.com/hagezi/dns-blocklists/wiki/FAQ) - Frequently Asked Questions
 28. [Discussions](https://github.com/hagezi/dns-blocklists/discussions)
 29. [Sources](sources.md)
@@ -979,14 +979,14 @@ The repository is occasionally compressed (reinitialised) to reduce the overall 
 
 [Why are referral domains (affiliate and tracking links) not blocked in the lists?](https://github.com/hagezi/dns-blocklists/wiki/FAQ#referral)
 
-#### :dizzy: Support Me <a name="support"></a>
+#### :dizzy: Support <a name="support"></a>
 
 If you like this project and find it useful, please leave a :star: (top right) and become a [stargazer](https://github.com/hagezi/dns-blocklists/stargazers)!
                       
-Your feedback, ideas, reports of domains to block or false positives, and any kind of collaboration are always welcome to help keep the internet safer and cleaner.
+This project exists because of a thoughtful and supportive community. It is freely available to everyone and stays current thanks to ongoing care, updates, and the contributions of people who want to make a difference.
                      
-This project thrives thanks to an active and supportive community and is provided free of charge with regular updates and maintenance. Contributions are entirely voluntary, and every bit of support is greatly appreciated. 
-                   
+Feedback, ideas, domain reports, false-positive reports, and any other kind of support are always appreciated. Every contribution, no matter how big or small, helps make the internet a little safer and cleaner for everyone.
+                        
 **Thank you for being part of the community!**
 
 ---
@@ -1024,11 +1024,6 @@ This project thrives thanks to an active and supportive community and is provide
 
 [![Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF.svg?style=for-the-badge&logo=Proton-Mail&logoColor=white)](mailto:hagezi@protonmail.com)
 [![Signal](https://img.shields.io/badge/Signal-3B45FD.svg?style=for-the-badge&logo=Signal&logoColor=white)](https://signal.me/#eu/WlBfKuiT1S1GAGwDRpvIJErjM-C3IcjQUQ9HWLzeJKGKTfwlOGhEe7GQRSx05uX0)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/hagezi)
-[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/hagezi)
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF.svg?style=for-the-badge&logo=Mastodon&logoColor=white)](https://social.tchncs.de/@hagezi)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF.svg?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/hagezi.bsky.social)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/hagezi)
 
 </div>
 
