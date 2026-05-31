@@ -1,4 +1,4 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/hagezi/dns-blocklists)![GitHub issues](https://img.shields.io/github/issues/hagezi/dns-blocklists)![GitHub closed issues](https://img.shields.io/github/issues-closed/hagezi/dns-blocklists)![GitHub repo size](https://img.shields.io/github/repo-size/hagezi/dns-blocklists)[![shields.io Stars](https://img.shields.io/github/stars/hagezi/dns-blocklists)](https://github.com/hagezi/dns-blocklists/stargazers)<a href="https://github.com/sponsors/hagezi" target="_blank"><img src="https://img.shields.io/badge/Sponsor-♥️-orange" alt="Support via GitHub Sponsors" /></a>
+![GitHub last commit](https://img.shields.io/github/last-commit/hagezi/dns-blocklists)![GitHub issues](https://img.shields.io/github/issues/hagezi/dns-blocklists)![GitHub closed issues](https://img.shields.io/github/issues-closed/hagezi/dns-blocklists)![GitHub repo size](https://img.shields.io/github/repo-size/hagezi/dns-blocklists)[![shields.io Stars](https://img.shields.io/github/stars/hagezi/dns-blocklists)](https://github.com/hagezi/dns-blocklists/stargazers)
 
 ## :zap: DNS Blocklists - For a better internet!
 
@@ -37,7 +37,7 @@ If you like the project and you can benefit from it, leave a :star: (top right) 
 23. [Supporter](https://github.com/hagezi/dns-blocklists/stargazers) - Leave a star (top right)!
 24. [Recommendation](#recommendation) - [Which version of the lists should I use?](https://github.com/hagezi/dns-blocklists/wiki/FAQ#whatshouldiuse)
 25. [Online DNS Services](#dnsservices) : [HaGeZi DNS](#hagezidns) - [DNS Bunker](#dnsbunker)
-26. [About](#about) : [Repository](#repository) - [Referral Domains](#referral) - [Support Me](#support) - [Sponsor Me](https://github.com/sponsors/hagezi)
+26. [About](#about) : [Repository](#repository) - [Referral Domains](#referral) - [Support Me](#support)
 27. [FAQ](https://github.com/hagezi/dns-blocklists/wiki/FAQ) - Frequently Asked Questions
 28. [Discussions](https://github.com/hagezi/dns-blocklists/discussions)
 29. [Sources](sources.md)
