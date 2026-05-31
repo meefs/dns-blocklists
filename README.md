@@ -985,14 +985,9 @@ If you like this project and find it useful, please leave a :star: (top right) a
                       
 Your feedback, ideas, reports of domains to block or false positives, and any kind of collaboration are always welcome to help keep the internet safer and cleaner.
                      
-This project thrives thanks to an active and supportive community and is provided free of charge with regular updates and maintenance. Donations help cover infrastructure costs and support ongoing development. Contributions are entirely voluntary, and every bit of support is greatly appreciated. 
+This project thrives thanks to an active and supportive community and is provided free of charge with regular updates and maintenance. Contributions are entirely voluntary, and every bit of support is greatly appreciated. 
                    
 **Thank you for being part of the community!**
-                             
-<a href="https://github.com/sponsors/hagezi" target="_blank"><img src="https://img.shields.io/badge/Sponsor-♥️-orange" alt="Support via GitHub Sponsors" /></a>
-<a href="https://liberapay.com/hagezi/donate" target="_blank"><img src="https://img.shields.io/liberapay/patrons/hagezi.svg?logo=liberapay" alt="Donate using Liberapay" /></a>
-[![Patreon](https://img.shields.io/badge/Patreon-Support-orange?logo=patreon&style=flat)](https://www.patreon.com/hagezidns)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-orange?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/hagezi)
 
 ---
 
