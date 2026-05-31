@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779816600 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780251060 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Vivo Tracker DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 26 May 2026 17:30 UTC
-; Version: 2026.0526.1730.03
+; Last modified: 31 May 2026 18:11 UTC
+; Version: 2026.0531.1811.12
 ; Syntax: RPZ
-; Number of entries: 476
+; Number of entries: 482
 ;
 h4g3z1-native.vivo.web.app CNAME .
 *.h4g3z1-native.vivo.web.app CNAME .
@@ -116,6 +116,12 @@ br-p.vivoglobal.com CNAME .
 *.br-p.vivoglobal.com CNAME .
 cl-vcode-od.vivoglobal.com CNAME .
 *.cl-vcode-od.vivoglobal.com CNAME .
+cn-zh-ort-stsdk.vivoglobal.com CNAME .
+*.cn-zh-ort-stsdk.vivoglobal.com CNAME .
+cn-zh-prt-stsdk.vivoglobal.com CNAME .
+*.cn-zh-prt-stsdk.vivoglobal.com CNAME .
+cn-zh-stsdk.vivoglobal.com CNAME .
+*.cn-zh-stsdk.vivoglobal.com CNAME .
 cname-ali-asia-stsdk.vivoglobal.com CNAME .
 *.cname-ali-asia-stsdk.vivoglobal.com CNAME .
 cname-asia-comonrt-stsdk.vivoglobal.com CNAME .

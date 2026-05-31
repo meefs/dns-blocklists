@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 May 2026 18:31 UTC
-# Version: 2026.0530.1831.44
+# Last modified: 31 May 2026 18:04 UTC
+# Version: 2026.0531.1804.26
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 697
+# Number of entries: 703
 #
 0.0.0.0 3px.axp.amazon-adsystem.com
 0.0.0.0 aan.amazon.co.jp
@@ -213,6 +213,8 @@
 0.0.0.0 aviary.amazon.com
 0.0.0.0 aviary.amazon.de
 0.0.0.0 axp.amazon-adsystem.com
+0.0.0.0 banner-iad.web.bid-na.ads.aps.amazon-adsystem.com
+0.0.0.0 banner.web.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 beta-ara.paa-reporting-advertising.amazon
 0.0.0.0 beta-c.aps.amazon-adsystem.com
 0.0.0.0 beta-config.aps.amazon-adsystem.com
@@ -267,6 +269,7 @@
 0.0.0.0 cell8001.iad.spp.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8001.iad.stv.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8001.iad.stv.event-na.ads.aps.amazon-adsystem.com
+0.0.0.0 cell8001.iad.web.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8002.pdx.mobile.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8002.pdx.mobile.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8002.pdx.pg.event-na.ads.aps.amazon-adsystem.com
@@ -280,6 +283,7 @@
 0.0.0.0 cell8004.pdx.stv.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8005.iad.mobile.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8005.iad.mobile.event-na.ads.aps.amazon-adsystem.com
+0.0.0.0 cell8005.iad.web.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8011.fra.mobile.bid-eu.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8011.fra.mobile.event-eu.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8012.fra.mobile.bid-eu.ads.aps.amazon-adsystem.com
@@ -672,9 +676,11 @@
 0.0.0.0 web-cf-event-cell8021.ads.aps.amazon-adsystem.com
 0.0.0.0 web-cf-event-cell8022.ads.aps.amazon-adsystem.com
 0.0.0.0 web-cf-event-cell8023.ads.aps.amazon-adsystem.com
+0.0.0.0 web-prebid-bid.ads.aps.amazon-adsystem.com
 0.0.0.0 web-video.ads.aps.amazon-adsystem.com
 0.0.0.0 web.ads.aps.amazon-adsystem.com
 0.0.0.0 web.ap-southeast.aps.axp.amazon-adsystem.com
+0.0.0.0 web.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 web.eu-west.aps.axp.amazon-adsystem.com
 0.0.0.0 web.us-east.aps.axp.amazon-adsystem.com
 0.0.0.0 wetfs.global-1.telemetry.insights.video.a2z.com

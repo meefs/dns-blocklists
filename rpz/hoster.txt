@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780136220 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780253460 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 30 May 2026 10:17 UTC
-; Version: 2026.0530.1017.45
+; Last modified: 31 May 2026 18:51 UTC
+; Version: 2026.0531.1851.26
 ; Syntax: RPZ
-; Number of entries: 2054
+; Number of entries: 2058
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -1664,6 +1664,8 @@ inbox24.net CNAME .
 *.inbox24.net CNAME .
 is-best.net CNAME .
 *.is-best.net CNAME .
+is-great.net CNAME .
+*.is-great.net CNAME .
 jixx.net CNAME .
 *.jixx.net CNAME .
 kilu.net CNAME .
@@ -1756,6 +1758,8 @@ freewebpages.org CNAME .
 *.freewebpages.org CNAME .
 grabify.org CNAME .
 *.grabify.org CNAME .
+iblogger.org CNAME .
+*.iblogger.org CNAME .
 imagengratis.org CNAME .
 *.imagengratis.org CNAME .
 inbox24.org CNAME .

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 May 2026 10:17 UTC
-# Version: 2026.0530.1017.45
+# Last modified: 31 May 2026 18:51 UTC
+# Version: 2026.0531.1851.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1027
+# Number of entries: 1029
 #
 local=/one4u.0lx.net/
 local=/free.bizhat.com/
@@ -541,6 +541,7 @@ local=/hyderabadadda.com/
 local=/hyip.com/
 local=/i.gp/
 local=/ibiz.cc/
+local=/iblogger.org/
 local=/ic0.app/
 local=/iceiy.com/
 local=/id.gp/
@@ -578,6 +579,7 @@ local=/iptime.org/
 local=/ir.gp/
 local=/is-alive.de/
 local=/is-best.net/
+local=/is-great.net/
 local=/is-great.org/
 local=/ispot.cc/
 local=/ist-ok.de/

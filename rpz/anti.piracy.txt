@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780223940 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780249980 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 31 May 2026 10:39 UTC
-; Version: 2026.0531.1039.08
+; Last modified: 31 May 2026 17:53 UTC
+; Version: 2026.0531.1753.52
 ; Syntax: RPZ
-; Number of entries: 43744
+; Number of entries: 43724
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -11234,8 +11234,6 @@ myflixtor-tv.cyou CNAME .
 *.myflixtor-tv.cyou CNAME .
 netmirror.cyou CNAME .
 *.netmirror.cyou CNAME .
-pelisflix2.cyou CNAME .
-*.pelisflix2.cyou CNAME .
 putlocker-gy.cyou CNAME .
 *.putlocker-gy.cyou CNAME .
 putlocker-pe.cyou CNAME .
@@ -17790,8 +17788,6 @@ lordfilmjua.lat CNAME .
 *.lordfilmjua.lat CNAME .
 lordfilmjvq.lat CNAME .
 *.lordfilmjvq.lat CNAME .
-lordfilmjvsb.lat CNAME .
-*.lordfilmjvsb.lat CNAME .
 lordfilmjvvp.lat CNAME .
 *.lordfilmjvvp.lat CNAME .
 lordfilmjvz.lat CNAME .
@@ -17976,8 +17972,6 @@ lordfilmmllr.lat CNAME .
 *.lordfilmmllr.lat CNAME .
 lordfilmmnb.lat CNAME .
 *.lordfilmmnb.lat CNAME .
-lordfilmmnnn.lat CNAME .
-*.lordfilmmnnn.lat CNAME .
 lordfilmmqq.lat CNAME .
 *.lordfilmmqq.lat CNAME .
 lordfilmmqzt.lat CNAME .
@@ -18034,8 +18028,6 @@ lordfilmnkr.lat CNAME .
 *.lordfilmnkr.lat CNAME .
 lordfilmnkvw.lat CNAME .
 *.lordfilmnkvw.lat CNAME .
-lordfilmnlqs.lat CNAME .
-*.lordfilmnlqs.lat CNAME .
 lordfilmnma.lat CNAME .
 *.lordfilmnma.lat CNAME .
 lordfilmnmk.lat CNAME .
@@ -18056,8 +18048,6 @@ lordfilmnxz.lat CNAME .
 *.lordfilmnxz.lat CNAME .
 lordfilmnyb.lat CNAME .
 *.lordfilmnyb.lat CNAME .
-lordfilmnyle.lat CNAME .
-*.lordfilmnyle.lat CNAME .
 lordfilmoaga.lat CNAME .
 *.lordfilmoaga.lat CNAME .
 lordfilmocwq.lat CNAME .
@@ -18190,8 +18180,6 @@ lordfilmqfp.lat CNAME .
 *.lordfilmqfp.lat CNAME .
 lordfilmqfrg.lat CNAME .
 *.lordfilmqfrg.lat CNAME .
-lordfilmqhvq.lat CNAME .
-*.lordfilmqhvq.lat CNAME .
 lordfilmqiu.lat CNAME .
 *.lordfilmqiu.lat CNAME .
 lordfilmqjn.lat CNAME .
@@ -18266,8 +18254,6 @@ lordfilmrrn.lat CNAME .
 *.lordfilmrrn.lat CNAME .
 lordfilmrsvx.lat CNAME .
 *.lordfilmrsvx.lat CNAME .
-lordfilmrutq.lat CNAME .
-*.lordfilmrutq.lat CNAME .
 lordfilmrvv.lat CNAME .
 *.lordfilmrvv.lat CNAME .
 lordfilmrvyi.lat CNAME .
@@ -18498,8 +18484,6 @@ lordfilmsmp.lat CNAME .
 *.lordfilmsmp.lat CNAME .
 lordfilmsmr.lat CNAME .
 *.lordfilmsmr.lat CNAME .
-lordfilmsmtq.lat CNAME .
-*.lordfilmsmtq.lat CNAME .
 lordfilmsnb.lat CNAME .
 *.lordfilmsnb.lat CNAME .
 lordfilmsnc.lat CNAME .
@@ -18694,8 +18678,6 @@ lordfilmtij.lat CNAME .
 *.lordfilmtij.lat CNAME .
 lordfilmtkm.lat CNAME .
 *.lordfilmtkm.lat CNAME .
-lordfilmtolw.lat CNAME .
-*.lordfilmtolw.lat CNAME .
 lordfilmtqf.lat CNAME .
 *.lordfilmtqf.lat CNAME .
 lordfilmtsd.lat CNAME .
@@ -18914,8 +18896,6 @@ lordfilmwxb.lat CNAME .
 *.lordfilmwxb.lat CNAME .
 lordfilmwxj.lat CNAME .
 *.lordfilmwxj.lat CNAME .
-lordfilmwxof.lat CNAME .
-*.lordfilmwxof.lat CNAME .
 lordfilmwya.lat CNAME .
 *.lordfilmwya.lat CNAME .
 lordfilmwzi.lat CNAME .
@@ -28414,6 +28394,8 @@ derechosmadretierra.org CNAME .
 *.derechosmadretierra.org CNAME .
 detroitlakes.org CNAME .
 *.detroitlakes.org CNAME .
+dibamoviez.org CNAME .
+*.dibamoviez.org CNAME .
 digbt.org CNAME .
 *.digbt.org CNAME .
 diggnation.org CNAME .
@@ -37260,8 +37242,6 @@ lordfilmballyhoo.sbs CNAME .
 *.lordfilmballyhoo.sbs CNAME .
 lordfilmbfc.sbs CNAME .
 *.lordfilmbfc.sbs CNAME .
-lordfilmblimp.sbs CNAME .
-*.lordfilmblimp.sbs CNAME .
 lordfilmclr.sbs CNAME .
 *.lordfilmclr.sbs CNAME .
 lordfilmcontinua.sbs CNAME .
