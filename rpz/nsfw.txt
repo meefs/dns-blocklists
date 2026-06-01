@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780255440 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780278240 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 31 May 2026 19:24 UTC
-; Version: 2026.0531.1924.28
+; Last modified: 01 Jun 2026 01:44 UTC
+; Version: 2026.0601.0144.10
 ; Syntax: RPZ
-; Number of entries: 170054
+; Number of entries: 170074
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -1874,6 +1874,8 @@ xxxcom.asia CNAME .
 *.xxxcom.asia CNAME .
 xxxdan.asia CNAME .
 *.xxxdan.asia CNAME .
+xxxvideo.asia CNAME .
+*.xxxvideo.asia CNAME .
 xxxz.asia CNAME .
 *.xxxz.asia CNAME .
 youporngay.asia CNAME .
@@ -11872,6 +11874,8 @@ xxxbold.click CNAME .
 *.xxxbold.click CNAME .
 xxxclick.click CNAME .
 *.xxxclick.click CNAME .
+xxxclips.click CNAME .
+*.xxxclips.click CNAME .
 xxxgaypornmovies.click CNAME .
 *.xxxgaypornmovies.click CNAME .
 xxxgaysexvideos.click CNAME .
@@ -68504,6 +68508,8 @@ pornfreee.com CNAME .
 *.pornfreee.com CNAME .
 pornfreehd.com CNAME .
 *.pornfreehd.com CNAME .
+pornfreehub.com CNAME .
+*.pornfreehub.com CNAME .
 pornfreek.com CNAME .
 *.pornfreek.com CNAME .
 pornfreenow.com CNAME .
@@ -86032,6 +86038,8 @@ teenpicsandvideo.com CNAME .
 *.teenpicsandvideo.com CNAME .
 teenpies.com CNAME .
 *.teenpies.com CNAME .
+teenporn-clips.com CNAME .
+*.teenporn-clips.com CNAME .
 teenporn-xxx.com CNAME .
 *.teenporn-xxx.com CNAME .
 teenporn19.com CNAME .
@@ -93078,6 +93086,8 @@ wahedsex.com CNAME .
 *.wahedsex.com CNAME .
 wahmbahm.com CNAME .
 *.wahmbahm.com CNAME .
+waibao4me.com CNAME .
+*.waibao4me.com CNAME .
 waifubitches.com CNAME .
 *.waifubitches.com CNAME .
 waitwatchporn.com CNAME .
@@ -94820,6 +94830,8 @@ xcafe.com CNAME .
 *.xcafe.com CNAME .
 xcamcovid.com CNAME .
 *.xcamcovid.com CNAME .
+xcamladyx.com CNAME .
+*.xcamladyx.com CNAME .
 xcamqueen.com CNAME .
 *.xcamqueen.com CNAME .
 xcams.com CNAME .
@@ -98180,6 +98192,8 @@ xxxtryout.com CNAME .
 *.xxxtryout.com CNAME .
 xxxtube.com CNAME .
 *.xxxtube.com CNAME .
+xxxtube-beak.com CNAME .
+*.xxxtube-beak.com CNAME .
 xxxtube-blowjob.com CNAME .
 *.xxxtube-blowjob.com CNAME .
 xxxtube-key.com CNAME .
@@ -133996,6 +134010,8 @@ batocomic.org CNAME .
 *.batocomic.org CNAME .
 batsa.org CNAME .
 *.batsa.org CNAME .
+bayaneskort.org CNAME .
+*.bayaneskort.org CNAME .
 bayanim.org CNAME .
 *.bayanim.org CNAME .
 bazoocam.org CNAME .
@@ -141286,6 +141302,8 @@ pornaixxx.pro CNAME .
 *.pornaixxx.pro CNAME .
 pornblindia.pro CNAME .
 *.pornblindia.pro CNAME .
+pornbourn.pro CNAME .
+*.pornbourn.pro CNAME .
 porncast.pro CNAME .
 *.porncast.pro CNAME .
 pornd.pro CNAME .
@@ -141720,6 +141738,8 @@ sweetasian.pro CNAME .
 *.sweetasian.pro CNAME .
 sweetindianporn.pro CNAME .
 *.sweetindianporn.pro CNAME .
+sweetporn.pro CNAME .
+*.sweetporn.pro CNAME .
 tabooporn.pro CNAME .
 *.tabooporn.pro CNAME .
 tamilporn.pro CNAME .

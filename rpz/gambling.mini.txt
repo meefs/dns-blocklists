@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780250460 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780277940 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 31 May 2026 18:01 UTC
-; Version: 2026.0531.1801.46
+; Last modified: 01 Jun 2026 01:39 UTC
+; Version: 2026.0601.0139.01
 ; Syntax: RPZ
-; Number of entries: 112914
+; Number of entries: 112912
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -93520,8 +93520,6 @@ onlinecasino-sg.com.sg CNAME .
 *.onlinecasino-sg.com.sg CNAME .
 singaporepools.com.sg CNAME .
 *.singaporepools.com.sg CNAME .
-sg.sg CNAME .
-*.sg.sg CNAME .
 8xbetcasino.sh CNAME .
 *.8xbetcasino.sh CNAME .
 betify.sh CNAME .
